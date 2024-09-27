@@ -1,7 +1,7 @@
 ## Hello there 👋
 I'm Camila. I do code.
 
-- 🔭 Currently working on an compiler
+- 🔭 Currently working on a compiler
 - 🌱 Learning about low level and emulators
 - 📫 Talk with me in my Discord DM (@lumi_nya)
 - 😄 Pronouns: She / Her
