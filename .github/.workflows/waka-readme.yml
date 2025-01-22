@@ -1,0 +1,29 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ env.WAKATIME_API_KEY }}
+
+          ### meta
+          API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
+          ### content
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: all_time
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
