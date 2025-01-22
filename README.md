@@ -11,8 +11,14 @@
 - 📫 Talk with me in my Discord DM (@lumi_nya)
 - 😄 Pronouns: She / Her
 
-![Zig](https://img.shields.io/badge/Zig-orange?style=for-the-badge&logo=zig)
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
+![C#](https://img.shields.io/badge/C%23-202020?style=for-the-badge&logo=dotnet)
+![Zig](https://img.shields.io/badge/Zig-202020?style=for-the-badge&logo=zig)
+![JS](https://img.shields.io/badge/Javascript-202020?style=for-the-badge&logo=JavaScript)
+![TS](https://img.shields.io/badge/Typescript-202020?style=for-the-badge&logo=typescript)
+![Angular](https://img.shields.io/badge/Angular-202020?style=for-the-badge&logo=angular)
+![Asm](https://img.shields.io/badge/Assembly-202020?style=for-the-badge&logo=intel)
+
+![Linux](https://img.shields.io/badge/Linux_User-000000?style=for-the-badge&logo=archlinux)
 
 ## My Activity
 
