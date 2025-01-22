@@ -13,6 +13,15 @@
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
 
 <!--START_SECTION:waka-->
+
+```txt
+Zig          21 hrs 49 mins  ██████████████░░░░░░░░░░░   56.15 %
+C#           6 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+Abstract     4 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+JavaScript   3 hrs 46 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+JSON         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:activity-->
