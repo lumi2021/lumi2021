@@ -14,9 +14,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ env.WAKATIME_API_KEY }}
 
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME # optional
           ### content
           SHOW_TITLE: true
           SECTION_NAME: waka
