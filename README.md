@@ -1,7 +1,7 @@
-<picture draggable="false" width="100%">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=3000&pause=300&color=cfcfcf&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Welcome!;I'm+Camila%2C+a+17+y+old+programming+enthusiast;I+do+code+:)">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=3000&pause=300&color=000000&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Welcome!;I'm+Camila%2C+a+17+y+old+programming+enthusiast;I+do+code+:)">
-  <img draggable="false" width="100%" src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=3000&pause=300&color=cfcfcf&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Welcome!;I'm+Camila%2C+a+17+y+old+programming+enthusiast;I+do+code+:)" alt="Descrição da imagem">
+  <img draggable="false" width="100%">
 </picture>
 
 - 🔭 Currently working on a compiler
