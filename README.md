@@ -23,10 +23,10 @@
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/abstractLang/abstract/pull/3) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
-2. 🎉 Merged PR [#2](https://github.com/abstractLang/abstract/pull/2) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
-3. 🎉 Merged PR [#1](https://github.com/abstractLang/abstract/pull/1) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
-4. 💪 Opened PR [#1](https://github.com/abstractLang/abstract/pull/1) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
+1. 🎉 Merged PR [#1](https://github.com/abstractLang/vscode-abstract-language-support/pull/1) in [abstractLang/vscode-abstract-language-support](https://github.com/abstractLang/vscode-abstract-language-support)
+2. 💪 Opened PR [#1](https://github.com/abstractLang/vscode-abstract-language-support/pull/1) in [abstractLang/vscode-abstract-language-support](https://github.com/abstractLang/vscode-abstract-language-support)
+3. 🎉 Merged PR [#3](https://github.com/abstractLang/abstract/pull/3) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
+4. 🎉 Merged PR [#2](https://github.com/abstractLang/abstract/pull/2) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
