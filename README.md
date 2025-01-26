@@ -23,10 +23,10 @@
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#33](https://github.com/nektro/zigquestions/issues/33) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
-2. 🎉 Merged PR [#4](https://github.com/abstractLang/abstract/pull/4) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
-3. 🗣 Commented on [#4](https://github.com/abstractLang/abstract/pull/4#issuecomment-2612860552) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
-4. 🎉 Merged PR [#1](https://github.com/abstractLang/vscode-abstract-language-support/pull/1) in [abstractLang/vscode-abstract-language-support](https://github.com/abstractLang/vscode-abstract-language-support)
+1. 🗣 Commented on [#33](https://github.com/nektro/zigquestions/issues/33#issuecomment-2614154456) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
+2. ❗ Opened issue [#33](https://github.com/nektro/zigquestions/issues/33) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
+3. 🎉 Merged PR [#4](https://github.com/abstractLang/abstract/pull/4) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
+4. 🗣 Commented on [#4](https://github.com/abstractLang/abstract/pull/4#issuecomment-2612860552) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
