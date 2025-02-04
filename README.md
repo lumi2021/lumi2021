@@ -23,10 +23,10 @@
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/abstractLang/abstract/issues/11) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
-2. ❗ Opened issue [#10](https://github.com/abstractLang/abstract/issues/10) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
-3. ❗ Opened issue [#9](https://github.com/abstractLang/abstract/issues/9) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
-4. ❗ Opened issue [#8](https://github.com/abstractLang/abstract/issues/8) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
+1. ❗ Opened issue [#35](https://github.com/nektro/zigquestions/issues/35) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
+2. ❗ Opened issue [#11](https://github.com/abstractLang/abstract/issues/11) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
+3. ❗ Opened issue [#10](https://github.com/abstractLang/abstract/issues/10) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
+4. ❗ Opened issue [#9](https://github.com/abstractLang/abstract/issues/9) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
