@@ -23,10 +23,10 @@
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#37](https://github.com/nektro/zigquestions/issues/37) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
-2. 🗣 Commented on [#12845](https://github.com/ziglang/zig/issues/12845#issuecomment-2638312007) in [ziglang/zig](https://github.com/ziglang/zig)
-3. 🗣 Commented on [#12845](https://github.com/ziglang/zig/issues/12845#issuecomment-2638281660) in [ziglang/zig](https://github.com/ziglang/zig)
-4. 🔒 Closed issue [#36](https://github.com/nektro/zigquestions/issues/36) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
+1. 🔒 Closed issue [#11](https://github.com/abstractLang/abstract/issues/11) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
+2. 🔒 Closed issue [#10](https://github.com/abstractLang/abstract/issues/10) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
+3. 🔒 Closed issue [#9](https://github.com/abstractLang/abstract/issues/9) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
+4. 🔒 Closed issue [#8](https://github.com/abstractLang/abstract/issues/8) in [abstractLang/abstract](https://github.com/abstractLang/abstract)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
