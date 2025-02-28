@@ -23,10 +23,10 @@
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [master](https://github.com/abstractLang/vscode-abstract-language-support/releases/tag/main) in [abstractLang/vscode-abstract-language-support](https://github.com/abstractLang/vscode-abstract-language-support)
-2. 🔒 Closed issue [#37](https://github.com/nektro/zigquestions/issues/37) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
-3. 🔒 Closed issue [#38](https://github.com/nektro/zigquestions/issues/38) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
-4. 🗣 Commented on [#38](https://github.com/nektro/zigquestions/issues/38#issuecomment-2652271632) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
+1. 🗣 Commented on [#42](https://github.com/nektro/zigquestions/issues/42#issuecomment-2689122355) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
+2. ❗ Opened issue [#42](https://github.com/nektro/zigquestions/issues/42) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
+3. ❗ Opened issue [#41](https://github.com/nektro/zigquestions/issues/41) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
+4. 🚀 Published release [master](https://github.com/abstractLang/vscode-abstract-language-support/releases/tag/main) in [abstractLang/vscode-abstract-language-support](https://github.com/abstractLang/vscode-abstract-language-support)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
