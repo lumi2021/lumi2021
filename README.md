@@ -6,7 +6,7 @@
 
 ## Randomness About Me
 
-- 🔭 Currently working on a compiler
+- 🔭 Currently working on a [compiler](https://github.com/abstractLang/Abstract) and a [operating system](https://github.com/lumi2021/lumiOS)
 - 🌱 Learning about low level and emulators
 - 📫 Talk with me in my Discord DM (@lumi_nya)
 - 😄 Pronouns: She / Her
