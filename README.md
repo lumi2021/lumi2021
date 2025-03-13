@@ -23,10 +23,10 @@
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10979](https://github.com/facebook/docusaurus/issues/10979) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-2. ❗ Opened issue [#45](https://github.com/nektro/zigquestions/issues/45) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
-3. 🔒 Closed issue [#42](https://github.com/nektro/zigquestions/issues/42) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
-4. 🔒 Closed issue [#41](https://github.com/nektro/zigquestions/issues/41) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
+1. 🗣 Commented on [#10979](https://github.com/facebook/docusaurus/issues/10979#issuecomment-2718496443) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+2. 🔒 Closed issue [#10979](https://github.com/facebook/docusaurus/issues/10979) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+3. ❗ Opened issue [#10979](https://github.com/facebook/docusaurus/issues/10979) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+4. ❗ Opened issue [#45](https://github.com/nektro/zigquestions/issues/45) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
