@@ -32,10 +32,9 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 1 min
+Total Time: 0 secs
 
-Markdown     1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀   71.41 %
-Git Config   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.59 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
