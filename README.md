@@ -23,8 +23,8 @@
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#135](https://github.com/francescotescari/XiaoMiToolV2/issues/135) in [francescotescari/XiaoMiToolV2](https://github.com/francescotescari/XiaoMiToolV2)
-2. 🗣 Commented on [#10979](https://github.com/facebook/docusaurus/issues/10979#issuecomment-2718496443) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+1. 🎉 Merged PR [#1](https://github.com/abstractLang/abstractLang.github.io/pull/1) in [abstractLang/abstractLang.github.io](https://github.com/abstractLang/abstractLang.github.io)
+2. 💪 Opened PR [#1](https://github.com/abstractLang/abstractLang.github.io/pull/1) in [abstractLang/abstractLang.github.io](https://github.com/abstractLang/abstractLang.github.io)
 3. 🔒 Closed issue [#10979](https://github.com/facebook/docusaurus/issues/10979) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
 4. ❗ Opened issue [#10979](https://github.com/facebook/docusaurus/issues/10979) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
 <!--END_SECTION:activity-->
