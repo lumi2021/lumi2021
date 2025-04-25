@@ -32,9 +32,9 @@
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 22 mins
+Total Time: 0 secs
 
-Zig   22 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
