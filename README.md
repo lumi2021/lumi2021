@@ -15,10 +15,13 @@
 ![Zig](https://img.shields.io/badge/Zig-202020?style=for-the-badge&logo=zig)
 ![Lua](https://img.shields.io/badge/Lua-202020?style=for-the-badge&logo=lua)
 ![JS](https://img.shields.io/badge/Javascript-202020?style=for-the-badge&logo=JavaScript)
-![TS](https://img.shields.io/badge/Typescript-202020?style=for-the-badge&logo=typescript)
-![Angular](https://img.shields.io/badge/Angular-202020?style=for-the-badge&logo=angular)
-![Asm](https://img.shields.io/badge/Assembly-202020?style=for-the-badge&logo=intel)
-![Bash](https://img.shields.io/badge/Bash-303030?style=for-the-badge&logo=GNU-bash)
+![TS](https://img.shields.io/badge/Typescript-202020?style=for-the-badge&logo=typescript) \
+![Angular](https://img.shields.io/badge/Angular-303030?style=for-the-badge&logo=angular)
+![Ionic](https://img.shields.io/badge/Ionic-303030?style=for-the-badge&logo=Ionic)
+![NodeJs](https://img.shields.io/badge/node.js-303030?style=for-the-badge&logo=node.js) \
+![OpenGL](https://img.shields.io/badge/OpenGL-404040?style=for-the-badge&logo=opengl)
+![Asm](https://img.shields.io/badge/Assembly-404040?style=for-the-badge&logo=intel)
+![Bash](https://img.shields.io/badge/Bash-404040?style=for-the-badge&logo=GNU-bash)
 ![AndMore](https://img.shields.io/badge/And%20%2B-205020?style=for-the-badge)
 
 ![Linux](https://img.shields.io/badge/I%20use%20Arch%20btw-000000?style=for-the-badge&logo=archlinux)
@@ -46,6 +49,9 @@ JSON    0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+## My Socials
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/632992487375634432)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/camila-araujo-dev)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
 
