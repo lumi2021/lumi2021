@@ -18,7 +18,7 @@
 ![Angular](https://img.shields.io/badge/Angular-202020?style=for-the-badge&logo=angular)
 ![Asm](https://img.shields.io/badge/Assembly-202020?style=for-the-badge&logo=intel)
 
-![Linux](https://img.shields.io/badge/Linux_User-000000?style=for-the-badge&logo=archlinux)
+![Linux](https://img.shields.io/badge/I use Arch btw-000000?style=for-the-badge&logo=archlinux)
 
 ## My Activity
 
