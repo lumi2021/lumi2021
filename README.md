@@ -13,6 +13,7 @@
 
 ![C#](https://img.shields.io/badge/C%23-202020?style=for-the-badge&logo=dotnet)
 ![Zig](https://img.shields.io/badge/Zig-202020?style=for-the-badge&logo=zig)
+![Lua](https://img.shields.io/badge/Lua-202020?style=for-the-badge&logo=lua)
 ![JS](https://img.shields.io/badge/Javascript-202020?style=for-the-badge&logo=JavaScript)
 ![TS](https://img.shields.io/badge/Typescript-202020?style=for-the-badge&logo=typescript)
 ![Angular](https://img.shields.io/badge/Angular-202020?style=for-the-badge&logo=angular)
