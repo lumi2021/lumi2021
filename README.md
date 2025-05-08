@@ -18,7 +18,8 @@
 ![TS](https://img.shields.io/badge/Typescript-202020?style=for-the-badge&logo=typescript)
 ![Angular](https://img.shields.io/badge/Angular-202020?style=for-the-badge&logo=angular)
 ![Asm](https://img.shields.io/badge/Assembly-202020?style=for-the-badge&logo=intel)
-![AndMore](https://img.shields.io/badge/And%20more-202020?style=for-the-badge&logo=plus)
+![Bash](https://img.shields.io/badge/Bash-303030?style=for-the-badge&logo=GNU-bash)
+![AndMore](https://img.shields.io/badge/And%20%2B-205020?style=for-the-badge)
 
 ![Linux](https://img.shields.io/badge/I%20use%20Arch%20btw-000000?style=for-the-badge&logo=archlinux)
 
@@ -47,5 +48,8 @@ JSON    0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
+
+Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol) \
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R413JQF9)
 
 > Thanks for read :p
