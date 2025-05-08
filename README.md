@@ -18,6 +18,7 @@
 ![TS](https://img.shields.io/badge/Typescript-202020?style=for-the-badge&logo=typescript)
 ![Angular](https://img.shields.io/badge/Angular-202020?style=for-the-badge&logo=angular)
 ![Asm](https://img.shields.io/badge/Assembly-202020?style=for-the-badge&logo=intel)
+![AndMore](https://img.shields.io/badge/And%20more-202020?style=for-the-badge&logo=plus)
 
 ![Linux](https://img.shields.io/badge/I%20use%20Arch%20btw-000000?style=for-the-badge&logo=archlinux)
 
