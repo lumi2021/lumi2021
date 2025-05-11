@@ -13,6 +13,8 @@
 - 📫 Talk with me in my Discord DM ([@lumi_nya](https://discordapp.com/users/632992487375634432))
 - 😄 Pronouns: She / Her
 
+![C](https://img.shields.io/badge/C-202020?style=for-the-badge&logo=c)
+![Cpp](https://img.shields.io/badge/C%2B%2B-202020?style=for-the-badge&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-202020?style=for-the-badge&logo=dotnet)
 ![Zig](https://img.shields.io/badge/Zig-202020?style=for-the-badge&logo=zig)
 ![Lua](https://img.shields.io/badge/Lua-202020?style=for-the-badge&logo=lua)
