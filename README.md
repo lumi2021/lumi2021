@@ -4,7 +4,7 @@
   <img draggable="false" width="100%">
 </picture>
 
-> please give a look on my last project: https://github.com/lumi2021/imageBuilder
+> please give a look on my last project: https://github.com/lumi2021/image-builder
 
 ## Randomness About Me
 
