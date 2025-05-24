@@ -19,8 +19,8 @@
 ![Zig](https://img.shields.io/badge/Zig-202020?style=for-the-badge&logo=zig)
 ![Lua](https://img.shields.io/badge/Lua-202020?style=for-the-badge&logo=lua)
 ![JS](https://img.shields.io/badge/Javascript-202020?style=for-the-badge&logo=JavaScript) \
-![GDScript](https://img.shields.io/badge/GDScript-202020?style=for-the-badge&logo=godot%20engine)
-![TS](https://img.shields.io/badge/Typescript-202020?style=for-the-badge&logo=typescript) \
+![TS](https://img.shields.io/badge/Typescript-202020?style=for-the-badge&logo=typescript)
+![GDScript](https://img.shields.io/badge/GDScript-202020?style=for-the-badge&logo=godot%20engine) \
 ![Angular](https://img.shields.io/badge/Angular-303030?style=for-the-badge&logo=angular)
 ![Ionic](https://img.shields.io/badge/Ionic-303030?style=for-the-badge&logo=Ionic)
 ![NodeJs](https://img.shields.io/badge/node.js-303030?style=for-the-badge&logo=node.js) \
