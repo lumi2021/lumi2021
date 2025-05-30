@@ -14,20 +14,20 @@
 - 😄 Pronouns: She / Her
 
 ![C](https://img.shields.io/badge/C-202020?style=for-the-badge&logo=c)
-![Cpp](https://img.shields.io/badge/C%2B%2B-202020?style=for-the-badge&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/C%2B%2B-202020?style=for-the-badge&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-202020?style=for-the-badge&logo=dotnet)
 ![Zig](https://img.shields.io/badge/Zig-202020?style=for-the-badge&logo=zig)
 ![Lua](https://img.shields.io/badge/Lua-202020?style=for-the-badge&logo=lua)
-![JS](https://img.shields.io/badge/Javascript-202020?style=for-the-badge&logo=JavaScript) \
-![TS](https://img.shields.io/badge/Typescript-202020?style=for-the-badge&logo=typescript)
+![Javascript](https://img.shields.io/badge/Javascript-202020?style=for-the-badge&logo=JavaScript) \
+![Typescript](https://img.shields.io/badge/Typescript-202020?style=for-the-badge&logo=typescript)
 ![GDScript](https://img.shields.io/badge/GDScript-202020?style=for-the-badge&logo=godot%20engine) \
 ![Angular](https://img.shields.io/badge/Angular-303030?style=for-the-badge&logo=angular)
 ![Ionic](https://img.shields.io/badge/Ionic-303030?style=for-the-badge&logo=Ionic)
-![NodeJs](https://img.shields.io/badge/node.js-303030?style=for-the-badge&logo=node.js) \
+![Node.js](https://img.shields.io/badge/node.js-303030?style=for-the-badge&logo=node.js) \
 ![OpenGL](https://img.shields.io/badge/OpenGL-505050?style=for-the-badge&logo=opengl)
-![Asm](https://img.shields.io/badge/Assembly-505050?style=for-the-badge&logo=intel)
+![x86_64 Assembly](https://img.shields.io/badge/Assembly-505050?style=for-the-badge&logo=intel)
 ![Bash](https://img.shields.io/badge/Bash-505050?style=for-the-badge&logo=GNU-bash)
-![AndMore](https://img.shields.io/badge/And%20%2B-205020?style=for-the-badge)
+![And +](https://img.shields.io/badge/And%20%2B-205020?style=for-the-badge)
 
 ![Linux](https://img.shields.io/badge/I%20use%20Arch%20btw-000000?style=for-the-badge&logo=archlinux)
 
