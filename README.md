@@ -17,8 +17,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-202020?style=for-the-badge&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-202020?style=for-the-badge&logo=dotnet)
 ![Zig](https://img.shields.io/badge/Zig-202020?style=for-the-badge&logo=zig)
-![Lua](https://img.shields.io/badge/Lua-202020?style=for-the-badge&logo=lua)
-![Javascript](https://img.shields.io/badge/Javascript-202020?style=for-the-badge&logo=JavaScript) \
+![Lua](https://img.shields.io/badge/Lua-202020?style=for-the-badge&logo=lua) \
+![Javascript](https://img.shields.io/badge/Javascript-202020?style=for-the-badge&logo=JavaScript)
 ![Typescript](https://img.shields.io/badge/Typescript-202020?style=for-the-badge&logo=typescript)
 ![GDScript](https://img.shields.io/badge/GDScript-202020?style=for-the-badge&logo=godot%20engine) \
 ![Angular](https://img.shields.io/badge/Angular-303030?style=for-the-badge&logo=angular)
