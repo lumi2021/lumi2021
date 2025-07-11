@@ -8,8 +8,8 @@
 
 ## Randomness About Me
 
-- 🔭 Currently working on a [compiler](https://github.com/abstractLang/Abstract) and a [operating system](https://github.com/lumi2021/lumiOS)
-- 🌱 Learning about low level and emulators
+- 🔭 Currently working on a [compiler](https://github.com/abstractLang/Abstract) and a [operating system](https://github.com/SystemElva)
+- 🌱 Breathing
 - 📫 Talk with me in my Discord DM ([@lumi_nya](https://discordapp.com/users/632992487375634432))
 - 😄 Pronouns: She / Her
 
