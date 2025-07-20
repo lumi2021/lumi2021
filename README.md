@@ -34,9 +34,9 @@
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24504](https://github.com/ziglang/zig/issues/24504) in [ziglang/zig](https://github.com/ziglang/zig)
-2. 💪 Opened PR [#1](https://github.com/SystemElva/SystemElva/pull/1) in [SystemElva/SystemElva](https://github.com/SystemElva/SystemElva)
-3. 💪 Opened PR [#1](https://github.com/abstractLang/abstractLang.github.io/pull/1) in [abstractLang/abstractLang.github.io](https://github.com/abstractLang/abstractLang.github.io)
+1. 🗣 Commented on [#24504](https://github.com/ziglang/zig/issues/24504#issuecomment-3092532554) in [ziglang/zig](https://github.com/ziglang/zig)
+2. 🔒 Closed issue [#24504](https://github.com/ziglang/zig/issues/24504) in [ziglang/zig](https://github.com/ziglang/zig)
+3. ❗ Opened issue [#24504](https://github.com/ziglang/zig/issues/24504) in [ziglang/zig](https://github.com/ziglang/zig)
 4. ❗ Opened issue [#10979](https://github.com/facebook/docusaurus/issues/10979) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
 <!--END_SECTION:activity-->
 
