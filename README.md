@@ -36,7 +36,7 @@
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24504](https://github.com/ziglang/zig/issues/24504#issuecomment-3092532554) in [ziglang/zig](https://github.com/ziglang/zig)
+1. 🚀 Published release [Showcase (WIP)](https://github.com/lumi2021/LumiCalculator/releases/tag/WIP) in [lumi2021/LumiCalculator](https://github.com/lumi2021/LumiCalculator)
 2. 🔒 Closed issue [#24504](https://github.com/ziglang/zig/issues/24504) in [ziglang/zig](https://github.com/ziglang/zig)
 3. ❗ Opened issue [#24504](https://github.com/ziglang/zig/issues/24504) in [ziglang/zig](https://github.com/ziglang/zig)
 4. ❗ Opened issue [#10979](https://github.com/facebook/docusaurus/issues/10979) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
