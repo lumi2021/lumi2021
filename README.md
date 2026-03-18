@@ -36,9 +36,9 @@
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Showcase (WIP)](https://github.com/lumi2021/LumiCalculator/releases/tag/WIP) in [lumi2021/LumiCalculator](https://github.com/lumi2021/LumiCalculator)
-2. 🔒 Closed issue [#24504](https://github.com/ziglang/zig/issues/24504) in [ziglang/zig](https://github.com/ziglang/zig)
-3. ❗ Opened issue [#24504](https://github.com/ziglang/zig/issues/24504) in [ziglang/zig](https://github.com/ziglang/zig)
+1. 🔒 Closed issue [#45](https://github.com/nektro/zigquestions/issues/45) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
+2. 🗣 Commented on [#45](https://github.com/nektro/zigquestions/issues/45#issuecomment-4076914779) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
+3. 🚀 Published release [Showcase (WIP)](https://github.com/lumi2021/LumiCalculator/releases/tag/WIP) in [lumi2021/LumiCalculator](https://github.com/lumi2021/LumiCalculator)
 4. ❗ Opened issue [#10979](https://github.com/facebook/docusaurus/issues/10979) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
 <!--END_SECTION:activity-->
 
