@@ -14,6 +14,7 @@
 - 📫 Talk with me in my Discord DM ([@lumi_nya](https://discordapp.com/users/632992487375634432))
 - 😄 Pronouns: She / Her
 
+![Python](https://img.shields.io/badge/python-202020?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-202020?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-202020?style=for-the-badge&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-202020?style=for-the-badge&logo=dotnet)
