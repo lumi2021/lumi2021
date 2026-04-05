@@ -4,8 +4,8 @@
   <img draggable="false" width="100%">
 </picture>
 
-> please give a look on my last projecs:
-[zig library for building disk images](https://github.com/lumi2021/image-builder)
+> please give a look on my last projecs: \
+[zig library for building disk images](https://github.com/lumi2021/image-builder) \
 [tq language compiler](https://github.com/tqlang/tq-compiler)
 
 ## Randomness About Me
