@@ -39,8 +39,8 @@
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#45](https://github.com/nektro/zigquestions/issues/45) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
-2. 🗣 Commented on [#45](https://github.com/nektro/zigquestions/issues/45#issuecomment-4076914779) in [nektro/zigquestions](https://github.com/nektro/zigquestions)
+1. 🎉 Merged PR [#1](https://github.com/camila-academic/javascript-leasons/pull/1) in [camila-academic/javascript-leasons](https://github.com/camila-academic/javascript-leasons)
+2. 💪 Opened PR [#1](https://github.com/camila-academic/javascript-leasons/pull/1) in [camila-academic/javascript-leasons](https://github.com/camila-academic/javascript-leasons)
 3. 🚀 Published release [Showcase (WIP)](https://github.com/lumi2021/LumiCalculator/releases/tag/WIP) in [lumi2021/LumiCalculator](https://github.com/lumi2021/LumiCalculator)
 4. ❗ Opened issue [#10979](https://github.com/facebook/docusaurus/issues/10979) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
 <!--END_SECTION:activity-->
