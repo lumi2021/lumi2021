@@ -39,10 +39,10 @@
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/camila-academic/javascript-leasons/pull/1) in [camila-academic/javascript-leasons](https://github.com/camila-academic/javascript-leasons)
-2. 💪 Opened PR [#1](https://github.com/camila-academic/javascript-leasons/pull/1) in [camila-academic/javascript-leasons](https://github.com/camila-academic/javascript-leasons)
-3. 🚀 Published release [Showcase (WIP)](https://github.com/lumi2021/LumiCalculator/releases/tag/WIP) in [lumi2021/LumiCalculator](https://github.com/lumi2021/LumiCalculator)
-4. ❗ Opened issue [#10979](https://github.com/facebook/docusaurus/issues/10979) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+1. 🗣 Commented on [#9](https://github.com/taijarals/lobo_ovelha_cacador/pull/9#issuecomment-4703806920) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
+2. 💪 Opened PR [#9](https://github.com/taijarals/lobo_ovelha_cacador/pull/9) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
+3. 🎉 Merged PR [#2](https://github.com/camila-academic/javascript-leasons/pull/2) in [camila-academic/javascript-leasons](https://github.com/camila-academic/javascript-leasons)
+4. 💪 Opened PR [#2](https://github.com/camila-academic/javascript-leasons/pull/2) in [camila-academic/javascript-leasons](https://github.com/camila-academic/javascript-leasons)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
