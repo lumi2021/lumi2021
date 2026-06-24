@@ -1,17 +1,46 @@
-name: Update Activity
+name: Update README
+
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
-  build:
-    name: Update this repo's README with recent activity
+  github-activity:
+    name: Update Activity
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v3
+
+
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: lumi2021
+
+          base: header, activity, community, repositories
+
+          plugin_isocalendar: yes
+
+          plugin_music: yes
+          plugin_music_provider: lastfm
+          plugin_music_user: lumi_nya
+          plugin_music_mode: top
+          plugin_music_time_range: short
+
+
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          SHOW_TOTAL: true
+          CODE_LANG: rust
