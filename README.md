@@ -39,10 +39,10 @@
 ## My Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/taijarals/lobo_ovelha_cacador/pull/15) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
-2. 🎉 Merged PR [#1](https://github.com/camila-academic/predator-prey-model/pull/1) in [camila-academic/predator-prey-model](https://github.com/camila-academic/predator-prey-model)
-3. 🗣 Commented on [#120611](https://github.com/godotengine/godot/pull/120611#issuecomment-4790415865) in [godotengine/godot](https://github.com/godotengine/godot)
-4. 🗣 Commented on [#120611](https://github.com/godotengine/godot/pull/120611#issuecomment-4790338191) in [godotengine/godot](https://github.com/godotengine/godot)
+1. 💪 Opened PR [#1](https://github.com/camila-academic/predator-prey-model/pull/1) in [camila-academic/predator-prey-model](https://github.com/camila-academic/predator-prey-model)
+2. 💪 Opened PR [#15](https://github.com/taijarals/lobo_ovelha_cacador/pull/15) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
+3. 🎉 Merged PR [#15](https://github.com/taijarals/lobo_ovelha_cacador/pull/15) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
+4. 🎉 Merged PR [#1](https://github.com/camila-academic/predator-prey-model/pull/1) in [camila-academic/predator-prey-model](https://github.com/camila-academic/predator-prey-model)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
