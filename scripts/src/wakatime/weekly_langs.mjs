@@ -11,7 +11,6 @@ export async function weeklyLangs(section, wakatime_auth) {
     );
 
     const data = (await response.json()).data;
-    console.log(data);
 
     var content = [];
     content.push("```rust");

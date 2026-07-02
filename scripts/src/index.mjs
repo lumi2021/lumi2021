@@ -77,15 +77,20 @@ async function processSections(sections, auth) {
 
         let parts = key.split('.');
 
-        switch (parts[0]) {
-            case 'github': section.new_content = await github.process(parts.slice(1), section, auth.github); break;
-            case 'wakatime': section.new_content = await wakatime.process(parts.slice(1), section, auth.wakatime); break;
-            case 'last_fm': break;
-            case 'steam': section.new_content = await steam.process(parts.slice(1), section, auth.steam); break;
+        try {
+            switch (parts[0]) {
+                case 'github': section.new_content = await github.process(parts.slice(1), section, auth.github); break;
+                case 'wakatime': section.new_content = await wakatime.process(parts.slice(1), section, auth.wakatime); break;
+                case 'last_fm': break;
+                case 'steam': section.new_content = await steam.process(parts.slice(1), section, auth.steam); break;
 
-            default:
-                console.warn("Unknown service '" + parts[0] + "'. skipping.");
-                break;
+                default:
+                    console.warn("Unknown service '" + parts[0] + "'. skipping.");
+                    break;
+            }
+        }
+        catch (err) {
+            console.error(err);
         }
 
     }

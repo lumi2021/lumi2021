@@ -16,14 +16,15 @@ jobs:
       - uses: actions/checkout@v3
 
 
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-          
-      - uses: athul/waka-readme@master
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          SHOW_TOTAL: true
-          CODE_LANG: rust
+          node-version: 20
+
+      - name: Run script
+        run: node ./scripts/src/index.mjs
+        env:
+          WAKATIME_AUTH: ${{ secrets.WAKATIME_AUTH }}
+          LAST_FM_AUTH: ${{ secrets.LAST_FM_AUTH }}
+          GITHUB_AUTH: ${{ secrets.GITHUB_TOKEN }}
+          STEAM_AUTH: ${{ secrets.STEAM_AUTH }}

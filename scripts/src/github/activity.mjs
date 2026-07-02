@@ -137,6 +137,8 @@ async function get_contributions(token) {
 
     const response = await graphql_fetch(query, token);
     const data = (await response.json());
+    if (data.errors) throw new Error(JSON.stringify(data.errors));
+
     const cc = data.data.viewer.contributionsCollection;
 
     const contributions = [
