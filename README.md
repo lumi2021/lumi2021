@@ -43,13 +43,13 @@
 - 🎉 Merged pull request [#17](https://github.com/taijarals/lobo_ovelha_cacador/pull/17) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - 🎉 Merged pull request [#16](https://github.com/taijarals/lobo_ovelha_cacador/pull/16) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - ‼️ Opened pull request [#92](https://github.com/tgies/klattsch/issues/92) in [tgies/klattsch](https://github.com/tgies/klattsch)
-- ✏️ Made 6 commits
+- ✏️ Made 5 commits
 - 🎉 Merged pull request [#15](https://github.com/taijarals/lobo_ovelha_cacador/pull/15) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
-- 🎉 Merged pull request [#1](https://github.com/camila-academic/predator-prey-model/pull/1) in [camila-academic/predator-prey-model](https://github.com/camila-academic/predator-prey-model)
 - ↗️ Openned pull request [#120611](https://github.com/godotengine/godot/pull/120611) in [godotengine/godot](https://github.com/godotengine/godot)
-- ✏️ Made 8 commits
+- ✏️ Made 6 commits
 - ❌ Closed pull request [#9](https://github.com/taijarals/lobo_ovelha_cacador/pull/9) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
-- ✏️ Made 4 commits
+- ✏️ Made 2 commits
+- ✏️ Made 2 commits
 <!--END_SECTION-->
 
 <!-- START_SECTION: wakatime.weekly_langs -->
@@ -96,21 +96,21 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <!-- START_SECTION: steam.recent_games -->
 | Icon | Name | Time played | Achievements |
 |:----:|:----:|:-----------:|:------------:|
-| ![Cookie Clicker](https://media.steampowered.com/steamcommunity/public/images/apps/1454400/e0c68bbdb2813528f0802ef6751655e33a42c9bb.jpg) | Cookie Clicker | 36h 38m | 537 / 637 (84%) |
-| ![Besiege](https://media.steampowered.com/steamcommunity/public/images/apps/346010/16667f445723c720782314269e41f9daa8a7fb56.jpg) | Besiege | 6h 56m | 6 / 54 (11%) |
-| ![Oxygen Not Included](https://media.steampowered.com/steamcommunity/public/images/apps/457140/d37534163ebac8351e0bda0bf30f8f2174c921b6.jpg) | Oxygen Not Included | 3h 51m | 9 / 51 (18%) |
-| ![BOMBANANA! Demo](https://media.steampowered.com/steamcommunity/public/images/apps/4747510/baf7df3f7ee5a54c02a4ee4092b13c84f36e769f.jpg) | BOMBANANA! Demo | 2h 30m | n/a |
-| ![Aseprite](https://media.steampowered.com/steamcommunity/public/images/apps/431730/da61bd2806f69205a97609dcdd4ca27df3baf800.jpg) | Aseprite | 1h 13m | n/a |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/1454400/e0c68bbdb2813528f0802ef6751655e33a42c9bb.jpg) | Cookie Clicker | 48h 43m | 541 / 637 (85%) |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/346010/16667f445723c720782314269e41f9daa8a7fb56.jpg) | Besiege | 8h 21m | 8 / 54 (15%) |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/246620/9e39dcfd5a300732c16111b268853ef11a0ba4d0.jpg) | Plague Inc: Evolved | 5h 8m | 23 / 250 (9%) |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/457140/d37534163ebac8351e0bda0bf30f8f2174c921b6.jpg) | Oxygen Not Included | 3h 51m | 9 / 51 (18%) |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/4747510/baf7df3f7ee5a54c02a4ee4092b13c84f36e769f.jpg) | BOMBANANA! Demo | 2h 30m | n/a |
 <!--END_SECTION-->
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
 | Icon | Name | Time played |
 |:----:|:----:|:-----------:|
-| ![Viscera Cleanup Detail: Shadow Warrior](https://media.steampowered.com/steamcommunity/public/images/apps/255520/56c3840d52a0da4f397d9991d368c75ed53d99fa.jpg) | Viscera Cleanup Detail: Shadow Warrior | 1h 39m |
-| ![Slime Rancher](https://media.steampowered.com/steamcommunity/public/images/apps/433340/814236b2c3a100cf76b00390585f351708e4c1e4.jpg) | Slime Rancher | 36h 34m |
-| ![REFLEXIA Prototype ver.](https://media.steampowered.com/steamcommunity/public/images/apps/1997680/e5d50aeecf300b6c7034864fbd163cbb2b0d31b6.jpg) | REFLEXIA Prototype ver. | 2h 59m |
-| ![Kota`s New Journey](https://media.steampowered.com/steamcommunity/public/images/apps/3270680/647ed50f77ec2636e201a9d8fc6bc855ba599cc2.jpg) | Kota`s New Journey | 1h 49m |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/255520/56c3840d52a0da4f397d9991d368c75ed53d99fa.jpg) | Viscera Cleanup Detail: Shadow Warrior | 1h 39m |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/433340/814236b2c3a100cf76b00390585f351708e4c1e4.jpg) | Slime Rancher | 36h 34m |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/1997680/e5d50aeecf300b6c7034864fbd163cbb2b0d31b6.jpg) | REFLEXIA Prototype ver. | 2h 59m |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/3270680/647ed50f77ec2636e201a9d8fc6bc855ba599cc2.jpg) | Kota`s New Journey | 1h 49m |
 <!--END_SECTION-->
 
 
