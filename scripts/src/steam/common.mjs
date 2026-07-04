@@ -22,14 +22,28 @@ export async function steamGet(endpoint, params, api_key) {
     throw new Error(`Failed to fetch ${endpoint} after 5 attempts`);
 }
 
-export function validateAuth(steam_auth) {
-    if (steam_auth == undefined) {
-        throw new Error(
-            "No steam auth key found!\n"
-            + "Please define an STEAM_AUTH environment variable with "
-            + "the format \"{user_id}:{steam_api}\""
-        );
-    }
+export function validateAuth() {
+    const steam_user_id = process.env["STEAM_USER_ID"];
+    const steam_api_key = process.env["STEAM_API_KEY"];
 
-    return [steam_auth.user, steam_auth.api_key];
+    let errors = [];
+
+    if (steam_user_id == undefined) {
+        errors.push("No wakatime API key found!\n"
+                  + "Please define it as an STEAM_USER_ID "
+                  + "environment variable");
+        hasError = true;
+    }
+    if (steam_api_key == undefined) {
+        errors.push("No wakatime API key found!\n"
+                  + "Please define it as an STEAM_API_KEY "
+                  + "environment variable");
+        hasError = true;
+    }
+    if (errors.length > 0) throw new Error(errors.join("\n"));
+    
+    return [steam_user_id, steam_api_key];
+}
+export function getConsumptionMode() {
+    return process.env["PROCESS_CONSUPTION"] || 'MEDIUM';
 }

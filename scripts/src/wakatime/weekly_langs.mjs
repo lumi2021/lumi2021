@@ -1,7 +1,7 @@
 import { validateAuth } from "./common.mjs";
 
-export async function weeklyLangs(section, wakatime_auth) {
-    const token = validateAuth(wakatime_auth);
+export async function weeklyLangs(section) {
+    const [token] = validateAuth();
     
     const response = await fetch(
         "https://wakatime.com/api/v1/users/current/stats/last_7_days",

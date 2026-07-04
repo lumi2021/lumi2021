@@ -7,65 +7,15 @@ import path from "path";
 
 
 async function main() {
-
-    let WAKATIME_AUTH = {}
-    let LAST_FM_AUTH = {}
-    let GITHUB_AUTH = {}
-    let STEAM_AUTH = {}
-
-
-    // Wakatime auth
-    WAKATIME_AUTH.raw = process.env["WAKATIME_AUTH"];
-    if (WAKATIME_AUTH.raw == undefined) WAKATIME_AUTH = undefined;
-    else WAKATIME_AUTH.api_key = WAKATIME_AUTH.raw;
-
-    // last.fm auth
-    LAST_FM_AUTH.raw = process.env["LAST_FM_AUTH"];
-    if (LAST_FM_AUTH.raw == undefined) LAST_FM_AUTH = undefined;
-    else {
-        let split = LAST_FM_AUTH.raw.split(':');
-        if (split.length != 2) throw new Error("Invalid LAST_FM_AUTH format! expected \"{user_name}:{api_key}\"");
-    
-        LAST_FM_AUTH.user = split[0];
-        LAST_FM_AUTH.api_key = split[1];
-    }
-    
-    // Github auth
-    GITHUB_AUTH.raw = process.env["GITHUB_AUTH"];
-    if (GITHUB_AUTH.raw == undefined) GITHUB_AUTH = undefined;
-    else GITHUB_AUTH.token = GITHUB_AUTH.raw;
-
-    // Steam auth
-    STEAM_AUTH.raw = process.env["STEAM_AUTH"];
-    if (STEAM_AUTH.raw == undefined) STEAM_AUTH = undefined;
-    else {
-        let split = STEAM_AUTH.raw.split(':');
-        if (split.length != 2) throw new Error("Invalid STEAM_AUTH format! expected \"{user_id}:{api_key}\"");
-
-        STEAM_AUTH.user = split[0];
-        STEAM_AUTH.api_key = split[1];
-    }
-
-    const README_FILE = path.resolve(process.env["README_PATH"] || "README.md");
-    const README_CONTENT = await fs.readFile(README_FILE, "utf-8");
+    const README_INPUT_FILE = path.resolve(process.env["README_IN_PATH"] || "README.template.md");
+    const README_OUTPUT_FILE = path.resolve(process.env["README_OUT_PATH"] || "README.md");
+    const README_CONTENT = await fs.readFile(README_INPUT_FILE, "utf-8");
 
     const sections = extractSections(README_CONTENT);
     
-    await processSections(
-        sections,
-        {
-            wakatime: WAKATIME_AUTH,
-            last_fm: LAST_FM_AUTH,
-            github: GITHUB_AUTH,
-            steam: STEAM_AUTH,
-        }
-    );
+    await processSections(sections);
 
-    const newPath = path.resolve(
-        path.dirname(README_FILE),
-        path.basename(README_FILE, ".md")
-      //path.basename(README_FILE, ".md") + ".gen.md"
-    );
+    const newPath = path.resolve(README_OUTPUT_FILE);
 
     const NEW_README_CONTENT = glueContent(README_CONTENT, sections);
     await fs.writeFile(newPath, NEW_README_CONTENT, "utf-8");
@@ -79,19 +29,17 @@ async function processSections(sections, auth) {
 
         try {
             switch (parts[0]) {
-                case 'github': section.new_content = await github.process(parts.slice(1), section, auth.github); break;
-                case 'wakatime': section.new_content = await wakatime.process(parts.slice(1), section, auth.wakatime); break;
+                case 'github': section.new_content = await github.process(parts.slice(1), section); break;
+                case 'wakatime': section.new_content = await wakatime.process(parts.slice(1), section); break;
                 case 'last_fm': break;
-                case 'steam': section.new_content = await steam.process(parts.slice(1), section, auth.steam); break;
+                case 'steam': section.new_content = await steam.process(parts.slice(1), section); break;
 
                 default:
-                    console.warn("Unknown service '" + parts[0] + "'. skipping.");
-                    break;
+                    console.warn(`Unknown service '${parts[0]}'. skipping.`);
+                break;
             }
         }
-        catch (err) {
-            console.error(err);
-        }
+        catch (err) { console.error(err); }
 
     }
 }
@@ -113,7 +61,6 @@ function glueContent(readme, sections) {
     for (const sec of entries) {
         result =
             result.slice(0, sec.start).trimEnd() + '\n' +
-            sec.templates.map(t => "  " + t.raw.trimLeft() + '\n').join("") +
             sec.newContent +
             result.slice(sec.end);
     }

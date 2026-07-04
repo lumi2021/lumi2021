@@ -40,27 +40,27 @@
 ## My Activity
 
 <!-- START_SECTION: github.activity -->
-- 🎉 Merged pull request [#17](https://github.com/taijarals/lobo_ovelha_cacador/pull/17) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - 🎉 Merged pull request [#16](https://github.com/taijarals/lobo_ovelha_cacador/pull/16) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - ‼️ Opened pull request [#92](https://github.com/tgies/klattsch/issues/92) in [tgies/klattsch](https://github.com/tgies/klattsch)
-- ✏️ Made 6 commits
 - 🎉 Merged pull request [#15](https://github.com/taijarals/lobo_ovelha_cacador/pull/15) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - 🎉 Merged pull request [#1](https://github.com/camila-academic/predator-prey-model/pull/1) in [camila-academic/predator-prey-model](https://github.com/camila-academic/predator-prey-model)
 - ↗️ Openned pull request [#120611](https://github.com/godotengine/godot/pull/120611) in [godotengine/godot](https://github.com/godotengine/godot)
-- ✏️ Made 8 commits
-- ❌ Closed pull request [#9](https://github.com/taijarals/lobo_ovelha_cacador/pull/9) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
-- ✏️ Made 4 commits
+- ↗️ Openned pull request [#9](https://github.com/taijarals/lobo_ovelha_cacador/pull/9) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
+- 🎉 Merged pull request [#2](https://github.com/camila-academic/leasons/pull/2) in [camila-academic/leasons](https://github.com/camila-academic/leasons)
+- 🎉 Merged pull request [#1](https://github.com/camila-academic/leasons/pull/1) in [camila-academic/leasons](https://github.com/camila-academic/leasons)
+- ✅ Closed pull request [#24504](https://github.com/ziglang/zig/issues/24504) in [ziglang/zig](https://github.com/ziglang/zig)
+- 🎉 Merged pull request [#2](https://github.com/SystemElva/Kernel/pull/2) in [SystemElva/Kernel](https://github.com/SystemElva/Kernel)
 <!--END_SECTION-->
 
 <!-- START_SECTION: wakatime.weekly_langs -->
 ```rust
-Total Time: 7 hrs 9 mins
+Total Time: 2 hrs 5 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀ 5 hrs 2 mins
-- "C"             ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 55 mins
-- "C/C++"         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 43 mins
-- "Text"          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 10 mins
-- "Csproj"        ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 1 hr 52 mins
+- "Text"          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 8 mins
+- "Csproj"        ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 mins
+- "XML"           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 0 secs
+- "GitIgnore ..." ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 0 secs
 ```
 <!--END_SECTION-->
 
@@ -89,7 +89,8 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
+  <!--TEMPLATE "[{username} ({name}) - {status}]({profile_url})" -->
+[mew_mila (Camila) - Away](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games

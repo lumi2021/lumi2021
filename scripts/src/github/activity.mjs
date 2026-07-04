@@ -1,10 +1,10 @@
 import { validateAuth } from "./common.mjs";
 
 export async function activity(section, github_auth) {
-    const token = validateAuth(github_auth);
+    const [username, token] = validateAuth(github_auth);
 
     console.log("Requesting github's contribution data...");
-    const data = (await get_contributions(token)).slice(0, 10);
+    const data = (await get_contributions(token, username)).slice(0, 10);
     console.log("Processing github's contribution data...");
 
     // const activity = [
@@ -17,7 +17,9 @@ export async function activity(section, github_auth) {
     let content = [];
 
     const emojis = {
+        commit: '✏️',
         opened_pr: '↗️',
+        closed_pr: '❌',
         merged_pr: '🎉',
         opened_issue: '‼️',
         closed_issue: '✅',
@@ -28,38 +30,62 @@ export async function activity(section, github_auth) {
         const e = data[i];
         
         switch (e.type) {
+            case "commit": {
+                content.push(`- ${emojis.commit} Made ${e.commits.length} `
+                    +`${e.commits.length == 1 ? 'commit' : 'commits'}`);
+            } break;
+
             case "pull_request": {
-                if (e.pullRequest.state == 'MERGED') {
-                    content.push(`- ${emojis.merged_pr} Merged pull request `
+                switch (e.pullRequest.state) {
+                    case 'OPEN':
+                        content.push(`- ${emojis.opened_pr} Openned pull request `
                         + `[#${e.pullRequest.number}](${e.pullRequest.url}) `
                         + `in [${e.pullRequest.repository.nameWithOwner}](${e.pullRequest.repository.url})`);
-                } else {
-                    content.push(`- ${emojis.opened_pr} Openned pull request `
+                    break;
+
+                    case 'CLOSED':
+                        content.push(`- ${emojis.closed_pr} Closed pull request `
                         + `[#${e.pullRequest.number}](${e.pullRequest.url}) `
                         + `in [${e.pullRequest.repository.nameWithOwner}](${e.pullRequest.repository.url})`);
+                    break;
+
+                    case 'MERGED':
+                        content.push(`- ${emojis.merged_pr} Merged pull request `
+                        + `[#${e.pullRequest.number}](${e.pullRequest.url}) `
+                        + `in [${e.pullRequest.repository.nameWithOwner}](${e.pullRequest.repository.url})`);
+                    break;
+
+                    default: console.warn(`Unknown pr state "${e.pullRequest.state}"`); break;
                 }
             } break;
 
             case "issue": {
-                if (e.issue.state == 'CLOSED') {
-                    content.push(`- ${emojis.closed_issue} Closed pull request `
+                switch (e.issue.state) {
+                    case 'OPEN':
+                        content.push(`- ${emojis.opened_issue} Opened pull request `
                         + `[#${e.issue.number}](${e.issue.url}) `
                         + `in [${e.issue.repository.nameWithOwner}](${e.issue.repository.url})`);
-                } else {
-                    content.push(`- ${emojis.opened_issue} Opened pull request `
+                    break;
+
+                    case 'CLOSED':
+                        content.push(`- ${emojis.closed_issue} Closed pull request `
                         + `[#${e.issue.number}](${e.issue.url}) `
                         + `in [${e.issue.repository.nameWithOwner}](${e.issue.repository.url})`);
+                    break;
+
+                    default: console.warn(`Unknown issue state "${e.issue.state}"`); break;
                 }
             } break;
+
+            default: console.warn(`Unknown github contribution type "${e.type}"`); break;
         }
     }
 
     return content.join('\n');
 }
 
-async function get_contributions(token) {
+async function get_contributions(token, username) {
     
-
     const commits = `
         commitContributionsByRepository {
             repository {
@@ -122,11 +148,11 @@ async function get_contributions(token) {
         }
         }
     `;
-
     const query = `
         query {
-        viewer {
+        user(login: "${username}") {
             contributionsCollection {
+            ${commits}
             ${pullRequests}
             ${issues}
             ${reviews}
@@ -137,20 +163,41 @@ async function get_contributions(token) {
 
     const response = await graphql_fetch(query, token);
     const data = (await response.json());
+
     if (data.errors) throw new Error(JSON.stringify(data.errors));
 
-    const cc = data.data.viewer.contributionsCollection;
+    const cc = data.data.user.contributionsCollection;
+
+    const commitsResponse = cc.commitContributionsByRepository.flatMap(repo =>
+        repo.contributions.nodes.map(commit => ({
+            type: "commit",
+            date: commit.occurredAt,
+            repository: repo.repository.nameWithOwner,
+            ...commit,
+        }))
+    );
+
+    const dailyCommits = new Map();
+
+    for (const commit of commitsResponse) {
+        const week = getWeek(commit.date);
+
+        if (!dailyCommits.has(week)) {
+            dailyCommits.set(week, {
+                type: "commit",
+                date: week,
+                count: 1,
+                commits: [commit],
+            });
+        } else {
+            const entry = dailyCommits.get(week);
+            entry.count++;
+            entry.commits.push(commit);
+        }
+    }
 
     const contributions = [
-        // ...cc.commitContributionsByRepository
-        // .flatMap(repo =>
-        //     repo.contributions.nodes.map(commit => ({
-        //     type: "commit",
-        //     date: commit.occurredAt,
-        //     repository: repo.repository.nameWithOwner,
-        //     ...commit,
-        //     }))
-        // ),
+        ...dailyCommits.values(),
 
         ...cc.pullRequestContributions.nodes.map(pr => ({
             type: "pull_request",
@@ -183,4 +230,15 @@ async function graphql_fetch(query, token) {
         },
         body: JSON.stringify({ query }),
     });
+}
+
+function getWeek(date) {
+    const d = new Date(date);
+
+    d.setHours(0, 0, 0, 0);
+    const dia = d.getDay();
+    const diff = dia === 0 ? -6 : 1 - dia;
+    d.setDate(d.getDate() + diff);
+
+    return d.toISOString().slice(0, 10);
 }

@@ -1,11 +1,15 @@
-export function validateAuth(waka_auth) {
-    if (waka_auth == undefined) {
-        throw new Error(
-            "No wakatime API key found!\n"
-            + "Please define an WAKATIME_AUTH environment variable with "
-            + "the format \"{wakatime_api_key}\""
-        );
-    }
+export function validateAuth() {
+    const wakatime_api_key = process.env["WAKATIME_API_KEY"];
 
-    return waka_auth.api_key;
+    let errors = [];
+
+    if (wakatime_api_key == undefined) {
+        errors.push("No wakatime API key found!\n"
+                  + "Please define it as an WAKATIME_API_KEY "
+                  + "environment variable");
+        hasError = true;
+    }
+    if (errors.length > 0) throw new Error(errors.join("\n"));
+    
+    return [wakatime_api_key];
 }

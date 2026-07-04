@@ -1,13 +1,13 @@
 import { validateAuth } from "./common.mjs";
 import { activity } from "./activity.mjs";
 
-async function process(service, section, github_auth) {
+async function process(service, section) {
     switch (service[0]) {
-        case 'activity': return activity(section, github_auth); break;
+        case 'activity': return activity(section); break;
 
         default:
-            console.warn("Unknown service 'github." + service[0] + "'. skipping.");
-            break;
+            console.warn(`Unknown service 'github.${service[0]}'. skipping.`);
+        break;
     }
 }
 

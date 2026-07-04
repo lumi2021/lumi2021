@@ -1,8 +1,15 @@
-import { steamGet, validateAuth } from "./common.mjs";
+import { getConsumptionMode, steamGet, validateAuth } from "./common.mjs";
 
-export async function perfectedGamesService(section, steam_auth) {
-    const [USER_ID, API_KEY] = validateAuth(steam_auth);
+export async function perfectedGamesService(section) {
+    const mode = getConsumptionMode();
+    if (mode != 'HIGH') {
+        console.warn(`Skipped steam.perfected_games in ${mode} consumption mode`);
+        return section.content;
+    }
 
+    const [USER_ID, API_KEY] = validateAuth();
+    
+    console.log("Loading steam's owned games...");
     const owned = (
         await steamGet(
             "IPlayerService/GetOwnedGames/v1/", {
@@ -14,11 +21,13 @@ export async function perfectedGamesService(section, steam_auth) {
         )
     ).response?.games ?? [];
 
+    console.log("Filtering perfected games...");
     const perfectGames = [];
     let analyzedGames = 0;
     for (const game of owned) {
-        process.stdout.write("\rFiltering steam perfected games [" + analyzedGames++
-            + " of " + owned.length + "]");
+        console.log(`\tFiltering steam perfected games `
+            + `[${analyzedGames++} of ${owned.length}] `
+            + `(${game.name})`);
 
         try {
         
@@ -52,7 +61,7 @@ export async function perfectedGamesService(section, steam_auth) {
         const game = perfectGames[i];
 
         const name = game.name;
-        const icon = game.img_icon_url ? `![${name}](https://media.steampowered.com/steamcommunity/public/images/apps/${game.appid}/${game.img_icon_url}.jpg)` : "";
+        const icon = game.img_icon_url ? `![](https://media.steampowered.com/steamcommunity/public/images/apps/${game.appid}/${game.img_icon_url}.jpg)` : "";
 
         const total_minutes = game.playtime_forever ?? 0;
         const hours = Math.floor(total_minutes / 60);

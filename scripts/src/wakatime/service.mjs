@@ -1,13 +1,13 @@
 import { validateAuth } from "./common.mjs";
 import { weeklyLangs } from "./weekly_langs.mjs";
 
-async function process(service, section, wakatime_auth) {
+async function process(service, section) {
     switch (service[0]) {
-        case 'weekly_langs': return weeklyLangs(section, wakatime_auth); break;
+        case 'weekly_langs': return weeklyLangs(section); break;
 
         default:
-            console.warn("Unknown service 'wakatime." + service[0] + "'. skipping.");
-            break;
+            console.warn(`Unknown service 'wakatime.${service[0]}'. skipping.`);
+        break;
     }
 }
 

@@ -15,7 +15,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -24,7 +23,12 @@ jobs:
       - name: Run script
         run: node ./scripts/src/index.mjs
         env:
-          WAKATIME_AUTH: ${{ secrets.WAKATIME_AUTH }}
-          LAST_FM_AUTH: ${{ secrets.LAST_FM_AUTH }}
-          GITHUB_AUTH: ${{ secrets.GITHUB_TOKEN }}
-          STEAM_AUTH: ${{ secrets.STEAM_AUTH }}
+          PROCESS_CONSUPTION: LOW
+
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          LAST_FM_USERNAME: ${{ secrets.LAST_FM_USERNAME }}
+          LAST_FM_API_KEY: ${{ secrets.LAST_FM_API_KEY }}
+
+          GITHUB_USERNAME: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_API_KEY: ${{ secrets.GITHUB_API_KEY }}

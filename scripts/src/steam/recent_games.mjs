@@ -1,7 +1,13 @@
-import { steamGet, validateAuth } from "./common.mjs";
+import { getConsumptionMode, steamGet, validateAuth } from "./common.mjs";
 
-export async function recentGamesService(section, steam_auth) {
-    const [USER_ID, API_KEY] = validateAuth(steam_auth);
+export async function recentGamesService(section) {
+    const mode = getConsumptionMode();
+    if (mode != 'HIGH') {
+        console.warn(`Skipped steam.recent_games in ${mode} consumption mode`);
+        return section.content;
+    }
+
+    const [USER_ID, API_KEY] = validateAuth();
 
     const recent = (
         await steamGet(
@@ -18,7 +24,6 @@ export async function recentGamesService(section, steam_auth) {
             + " of " + recent.length + "]");
 
         try {
-        
             const ach = await steamGet(
                 "ISteamUserStats/GetPlayerAchievements/v1/", {
                     steamid: USER_ID,
@@ -48,7 +53,7 @@ export async function recentGamesService(section, steam_auth) {
         const game = recent[i];
 
         const name = game.name;
-        const icon = game.img_icon_url ? `![${name}](https://media.steampowered.com/steamcommunity/public/images/apps/${game.appid}/${game.img_icon_url}.jpg)` : "";
+        const icon = game.img_icon_url ? `![](https://media.steampowered.com/steamcommunity/public/images/apps/${game.appid}/${game.img_icon_url}.jpg)` : "";
 
         const total_minutes = game.playtime_2weeks ?? 0;
         const hours = Math.floor(total_minutes / 60);
