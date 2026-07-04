@@ -2,6 +2,7 @@ import steam from "./steam/service.mjs";
 import github from "./github/service.mjs";
 import wakatime from "./wakatime/service.mjs";
 
+import { execSync } from "node:child_process";
 import fs from "node:fs/promises";
 import path from "path";
 
@@ -19,6 +20,8 @@ async function main() {
 
     const NEW_README_CONTENT = glueContent(README_CONTENT, sections);
     await fs.writeFile(newPath, NEW_README_CONTENT, "utf-8");
+
+    gitPush(newPath);
 }
 
 async function processSections(sections, auth) {
@@ -111,6 +114,19 @@ function extractTemplates(sectionText) {
     }
 
     return templates;
+}
+
+function gitPush(out_path) {
+    execSync(`git add ${out_path}`);
+    const hasChanges = execSync("git diff --cached --quiet || echo changed").toString().trim();
+
+    if (hasChanges === "changed") {
+        execSync('git commit -m "chore: update README"', { stdio: "inherit" });
+        execSync("git push", { stdio: "inherit" });
+        console.log("Pushed changes.");
+    } else {
+        console.log("Nothing to commit.");
+    }
 }
 
 await main();
