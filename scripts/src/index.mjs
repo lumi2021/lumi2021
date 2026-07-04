@@ -117,6 +117,9 @@ function extractTemplates(sectionText) {
 }
 
 function gitPush(out_path) {
+    execSync('git config user.name "github-actions[bot]"');
+    execSync('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"');
+
     execSync(`git add ${out_path}`);
     const hasChanges = execSync("git diff --cached --quiet || echo changed").toString().trim();
 
