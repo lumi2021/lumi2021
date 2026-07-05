@@ -96,9 +96,9 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <!-- START_SECTION: steam.recent_games -->
 | Icon | Name | Time played | Achievements |
 |:----:|:----:|:-----------:|:------------:|
-| ![](https://media.steampowered.com/steamcommunity/public/images/apps/1454400/e0c68bbdb2813528f0802ef6751655e33a42c9bb.jpg) | Cookie Clicker | 48h 43m | 541 / 637 (85%) |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/1454400/e0c68bbdb2813528f0802ef6751655e33a42c9bb.jpg) | Cookie Clicker | 58h 9m | 541 / 637 (85%) |
 | ![](https://media.steampowered.com/steamcommunity/public/images/apps/346010/16667f445723c720782314269e41f9daa8a7fb56.jpg) | Besiege | 8h 21m | 8 / 54 (15%) |
-| ![](https://media.steampowered.com/steamcommunity/public/images/apps/246620/9e39dcfd5a300732c16111b268853ef11a0ba4d0.jpg) | Plague Inc: Evolved | 5h 8m | 23 / 250 (9%) |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/246620/9e39dcfd5a300732c16111b268853ef11a0ba4d0.jpg) | Plague Inc: Evolved | 6h 54m | 28 / 250 (11%) |
 | ![](https://media.steampowered.com/steamcommunity/public/images/apps/457140/d37534163ebac8351e0bda0bf30f8f2174c921b6.jpg) | Oxygen Not Included | 3h 51m | 9 / 51 (18%) |
 | ![](https://media.steampowered.com/steamcommunity/public/images/apps/4747510/baf7df3f7ee5a54c02a4ee4092b13c84f36e769f.jpg) | BOMBANANA! Demo | 2h 30m | n/a |
 <!--END_SECTION-->
