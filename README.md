@@ -105,10 +105,10 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
-![](/home/leo/Documentos/repos/lumi2021/actions/cache/steam/game_banners/255520.svg)
-![](/home/leo/Documentos/repos/lumi2021/actions/cache/steam/game_banners/433340.svg)
-![](/home/leo/Documentos/repos/lumi2021/actions/cache/steam/game_banners/1997680.svg)
-![](/home/leo/Documentos/repos/lumi2021/actions/cache/steam/game_banners/3270680.svg)
+![](actions/cache/steam/game_banners/255520.svg)
+![](actions/cache/steam/game_banners/433340.svg)
+![](actions/cache/steam/game_banners/1997680.svg)
+![](actions/cache/steam/game_banners/3270680.svg)
 <!--END_SECTION-->
 
 
