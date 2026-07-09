@@ -66,7 +66,7 @@ export async function recentGamesService(section) {
         const achievements = achievements_total == 0
             ? "n/a"
             : `${achievements_unlocked} / ${achievements_total} `
-            + `(${Math.round(achievements_unlocked / achievements_total * 100)}%)`;
+            + `(${Math.round(achievements_unlocked / achievements_total * 100)}%`;
 
         content.push(`| ${icon} | ${name} | ${playtime} | ${achievements} |`);
     }

@@ -8,16 +8,16 @@ import path from "path";
 
 
 async function main() {
+    const CACHE_DIRECTORY = process.env["CACHE_DIRECTORY"] = process.env["CACHE_DIRECTORY"] || "./actions/cache";
     const README_INPUT_FILE = path.resolve(process.env["README_IN_PATH"] || "README.template.md");
     const README_OUTPUT_FILE = path.resolve(process.env["README_OUT_PATH"] || "README.md");
     const README_CONTENT = await fs.readFile(README_INPUT_FILE, "utf-8");
 
-    const sections = extractSections(README_CONTENT);
-    
-    await processSections(sections);
-
+    fs.mkdir(CACHE_DIRECTORY, { recursive: true });
     const newPath = path.resolve(README_OUTPUT_FILE);
 
+    const sections = extractSections(README_CONTENT);
+    await processSections(sections);
     const NEW_README_CONTENT = glueContent(README_CONTENT, sections);
     await fs.writeFile(newPath, NEW_README_CONTENT, "utf-8");
 
