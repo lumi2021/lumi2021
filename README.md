@@ -89,7 +89,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
+[mew_mila (Camila) - Away](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games
@@ -105,10 +105,10 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
-<img src="https://media.steampowered.com/steamcommunity/public/images/apps/255520/56c3840d52a0da4f397d9991d368c75ed53d99fa.jpg" align="left" width="200"/>
-<img src="https://media.steampowered.com/steamcommunity/public/images/apps/433340/814236b2c3a100cf76b00390585f351708e4c1e4.jpg" align="left" width="200"/>
-<img src="https://media.steampowered.com/steamcommunity/public/images/apps/1997680/e5d50aeecf300b6c7034864fbd163cbb2b0d31b6.jpg" align="left" width="200"/>
-<img src="https://media.steampowered.com/steamcommunity/public/images/apps/3270680/647ed50f77ec2636e201a9d8fc6bc855ba599cc2.jpg" align="left" width="200"/>
+<img src="https://media.steampowered.com/steamcommunity/public/images/apps/255520/capsule_231x87.jpg" align="left" width="200"/>
+<img src="https://media.steampowered.com/steamcommunity/public/images/apps/433340/capsule_231x87.jpg" align="left" width="200"/>
+<img src="https://media.steampowered.com/steamcommunity/public/images/apps/1997680/capsule_231x87.jpg" align="left" width="200"/>
+<img src="https://media.steampowered.com/steamcommunity/public/images/apps/3270680/capsule_231x87.jpg" align="left" width="200"/>
 <!--END_SECTION-->
 
 
