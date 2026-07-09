@@ -43,24 +43,24 @@
 - 🎉 Merged pull request [#17](https://github.com/taijarals/lobo_ovelha_cacador/pull/17) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - 🎉 Merged pull request [#16](https://github.com/taijarals/lobo_ovelha_cacador/pull/16) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - ‼️ Opened pull request [#92](https://github.com/tgies/klattsch/issues/92) in [tgies/klattsch](https://github.com/tgies/klattsch)
-- ✏️ Made 6 commits
+- ✏️ Made 5 commits
 - 🎉 Merged pull request [#15](https://github.com/taijarals/lobo_ovelha_cacador/pull/15) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
-- 🎉 Merged pull request [#1](https://github.com/camila-academic/predator-prey-model/pull/1) in [camila-academic/predator-prey-model](https://github.com/camila-academic/predator-prey-model)
 - ↗️ Openned pull request [#120611](https://github.com/godotengine/godot/pull/120611) in [godotengine/godot](https://github.com/godotengine/godot)
-- ✏️ Made 8 commits
+- ✏️ Made 6 commits
 - ❌ Closed pull request [#9](https://github.com/taijarals/lobo_ovelha_cacador/pull/9) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
-- ✏️ Made 4 commits
+- ✏️ Made 2 commits
+- ✏️ Made 2 commits
 <!--END_SECTION-->
 
 <!-- START_SECTION: wakatime.weekly_langs -->
 ```rust
-Total Time: 7 hrs 9 mins
+Total Time: 21 hrs 6 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀ 5 hrs 2 mins
-- "C"             ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 55 mins
-- "C/C++"         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 43 mins
-- "Text"          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 10 mins
-- "Csproj"        ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀ 13 hrs 36 mins
+- "Zig"           ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 hrs 36 mins
+- "C"             ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 55 mins
+- "C/C++"         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 43 mins
+- "IL"            ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 23 mins
 ```
 <!--END_SECTION-->
 
@@ -89,7 +89,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
+[mew_mila (Camila) - Away](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games
