@@ -96,21 +96,19 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <!-- START_SECTION: steam.recent_games -->
 | Icon | Name | Time played | Achievements |
 |:----:|:----:|:-----------:|:------------:|
-| ![Cookie Clicker](https://media.steampowered.com/steamcommunity/public/images/apps/1454400/e0c68bbdb2813528f0802ef6751655e33a42c9bb.jpg) | Cookie Clicker | 36h 38m | 537 / 637 (84%) |
-| ![Besiege](https://media.steampowered.com/steamcommunity/public/images/apps/346010/16667f445723c720782314269e41f9daa8a7fb56.jpg) | Besiege | 6h 56m | 6 / 54 (11%) |
-| ![Oxygen Not Included](https://media.steampowered.com/steamcommunity/public/images/apps/457140/d37534163ebac8351e0bda0bf30f8f2174c921b6.jpg) | Oxygen Not Included | 3h 51m | 9 / 51 (18%) |
-| ![BOMBANANA! Demo](https://media.steampowered.com/steamcommunity/public/images/apps/4747510/baf7df3f7ee5a54c02a4ee4092b13c84f36e769f.jpg) | BOMBANANA! Demo | 2h 30m | n/a |
-| ![Aseprite](https://media.steampowered.com/steamcommunity/public/images/apps/431730/da61bd2806f69205a97609dcdd4ca27df3baf800.jpg) | Aseprite | 1h 13m | n/a |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/1454400/e0c68bbdb2813528f0802ef6751655e33a42c9bb.jpg) | Cookie Clicker | 85h 38m | 551 / 637 (86%) |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/246620/9e39dcfd5a300732c16111b268853ef11a0ba4d0.jpg) | Plague Inc: Evolved | 11h 39m | 48 / 250 (19%) |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/346010/16667f445723c720782314269e41f9daa8a7fb56.jpg) | Besiege | 8h 21m | 8 / 54 (15%) |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/250900/16d46c8630499bfc54d20745ac90786a302cd643.jpg) | The Binding of Isaac: Rebirth | 2h 39m | 9 / 641 (1%) |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/457140/d37534163ebac8351e0bda0bf30f8f2174c921b6.jpg) | Oxygen Not Included | 2h 36m | 9 / 51 (18%) |
 <!--END_SECTION-->
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
-| Icon | Name | Time played |
-|:----:|:----:|:-----------:|
-| ![Viscera Cleanup Detail: Shadow Warrior](https://media.steampowered.com/steamcommunity/public/images/apps/255520/56c3840d52a0da4f397d9991d368c75ed53d99fa.jpg) | Viscera Cleanup Detail: Shadow Warrior | 1h 39m |
-| ![Slime Rancher](https://media.steampowered.com/steamcommunity/public/images/apps/433340/814236b2c3a100cf76b00390585f351708e4c1e4.jpg) | Slime Rancher | 36h 34m |
-| ![REFLEXIA Prototype ver.](https://media.steampowered.com/steamcommunity/public/images/apps/1997680/e5d50aeecf300b6c7034864fbd163cbb2b0d31b6.jpg) | REFLEXIA Prototype ver. | 2h 59m |
-| ![Kota`s New Journey](https://media.steampowered.com/steamcommunity/public/images/apps/3270680/647ed50f77ec2636e201a9d8fc6bc855ba599cc2.jpg) | Kota`s New Journey | 1h 49m |
+<img src="https://media.steampowered.com/steamcommunity/public/images/apps/255520/56c3840d52a0da4f397d9991d368c75ed53d99fa.jpg)" align="left" width="200"/>
+<img src="https://media.steampowered.com/steamcommunity/public/images/apps/433340/814236b2c3a100cf76b00390585f351708e4c1e4.jpg)" align="left" width="200"/>
+<img src="https://media.steampowered.com/steamcommunity/public/images/apps/1997680/e5d50aeecf300b6c7034864fbd163cbb2b0d31b6.jpg)" align="left" width="200"/>
+<img src="https://media.steampowered.com/steamcommunity/public/images/apps/3270680/647ed50f77ec2636e201a9d8fc6bc855ba599cc2.jpg)" align="left" width="200"/>
 <!--END_SECTION-->
 
 
