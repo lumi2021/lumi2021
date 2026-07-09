@@ -110,21 +110,317 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/library_hero.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/library_600x900.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/logo.png"/>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="460"
+     height="215"
+     viewBox="0 0 460 215">
+
+    <defs>
+        <linearGradient id="fade"
+                        x1="0"
+                        y1="0"
+                        x2="0"
+                        y2="1">
+            <stop offset="45%" stop-color="transparent"/>
+            <stop offset="100%" stop-color="#111"/>
+        </linearGradient>
+
+        <filter id="shadow">
+            <feDropShadow dx="0"
+                          dy="2"
+                          stdDeviation="3"
+                          flood-opacity=".45"/>
+        </filter>
+    </defs>
+
+    <image
+        href="undefined"
+        width="460"
+        height="215"
+        preserveAspectRatio="xMidYMid slice"/>
+
+    <rect
+        width="460"
+        height="215"
+        fill="url(#fade)"/>
+
+    <text
+        x="20"
+        y="175"
+        fill="white"
+        font-size="24"
+        font-family="Arial"
+        filter="url(#shadow)">
+        Viscera%20Cleanup%20Detail%3A%20Shadow%20Warrior
+    </text>
+
+    <text
+        x="20"
+        y="198"
+        fill="#cccccc"
+        font-size="16"
+        font-family="Arial">
+        undefined
+    </text>
+
+    <rect
+        x="365"
+        y="170"
+        width="75"
+        height="28"
+        rx="14"
+        fill="#4CAF50"/>
+
+    <text
+        x="402"
+        y="189"
+        text-anchor="middle"
+        fill="white"
+        font-size="15"
+        font-weight="bold"
+        font-family="Arial">
+        ✓ 100%
+    </text>
+
+</svg>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/header.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/capsule_231x87.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/library_hero.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/library_600x900.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/logo.png"/>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="460"
+     height="215"
+     viewBox="0 0 460 215">
+
+    <defs>
+        <linearGradient id="fade"
+                        x1="0"
+                        y1="0"
+                        x2="0"
+                        y2="1">
+            <stop offset="45%" stop-color="transparent"/>
+            <stop offset="100%" stop-color="#111"/>
+        </linearGradient>
+
+        <filter id="shadow">
+            <feDropShadow dx="0"
+                          dy="2"
+                          stdDeviation="3"
+                          flood-opacity=".45"/>
+        </filter>
+    </defs>
+
+    <image
+        href="undefined"
+        width="460"
+        height="215"
+        preserveAspectRatio="xMidYMid slice"/>
+
+    <rect
+        width="460"
+        height="215"
+        fill="url(#fade)"/>
+
+    <text
+        x="20"
+        y="175"
+        fill="white"
+        font-size="24"
+        font-family="Arial"
+        filter="url(#shadow)">
+        Slime%20Rancher
+    </text>
+
+    <text
+        x="20"
+        y="198"
+        fill="#cccccc"
+        font-size="16"
+        font-family="Arial">
+        undefined
+    </text>
+
+    <rect
+        x="365"
+        y="170"
+        width="75"
+        height="28"
+        rx="14"
+        fill="#4CAF50"/>
+
+    <text
+        x="402"
+        y="189"
+        text-anchor="middle"
+        fill="white"
+        font-size="15"
+        font-weight="bold"
+        font-family="Arial">
+        ✓ 100%
+    </text>
+
+</svg>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/header.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/capsule_231x87.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/library_hero.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/library_600x900.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/logo.png"/>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="460"
+     height="215"
+     viewBox="0 0 460 215">
+
+    <defs>
+        <linearGradient id="fade"
+                        x1="0"
+                        y1="0"
+                        x2="0"
+                        y2="1">
+            <stop offset="45%" stop-color="transparent"/>
+            <stop offset="100%" stop-color="#111"/>
+        </linearGradient>
+
+        <filter id="shadow">
+            <feDropShadow dx="0"
+                          dy="2"
+                          stdDeviation="3"
+                          flood-opacity=".45"/>
+        </filter>
+    </defs>
+
+    <image
+        href="undefined"
+        width="460"
+        height="215"
+        preserveAspectRatio="xMidYMid slice"/>
+
+    <rect
+        width="460"
+        height="215"
+        fill="url(#fade)"/>
+
+    <text
+        x="20"
+        y="175"
+        fill="white"
+        font-size="24"
+        font-family="Arial"
+        filter="url(#shadow)">
+        REFLEXIA%20Prototype%20ver.
+    </text>
+
+    <text
+        x="20"
+        y="198"
+        fill="#cccccc"
+        font-size="16"
+        font-family="Arial">
+        undefined
+    </text>
+
+    <rect
+        x="365"
+        y="170"
+        width="75"
+        height="28"
+        rx="14"
+        fill="#4CAF50"/>
+
+    <text
+        x="402"
+        y="189"
+        text-anchor="middle"
+        fill="white"
+        font-size="15"
+        font-weight="bold"
+        font-family="Arial">
+        ✓ 100%
+    </text>
+
+</svg>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/header.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/capsule_231x87.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/library_hero.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/library_600x900.jpg" align="left"/>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/logo.png"/>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="460"
+     height="215"
+     viewBox="0 0 460 215">
+
+    <defs>
+        <linearGradient id="fade"
+                        x1="0"
+                        y1="0"
+                        x2="0"
+                        y2="1">
+            <stop offset="45%" stop-color="transparent"/>
+            <stop offset="100%" stop-color="#111"/>
+        </linearGradient>
+
+        <filter id="shadow">
+            <feDropShadow dx="0"
+                          dy="2"
+                          stdDeviation="3"
+                          flood-opacity=".45"/>
+        </filter>
+    </defs>
+
+    <image
+        href="undefined"
+        width="460"
+        height="215"
+        preserveAspectRatio="xMidYMid slice"/>
+
+    <rect
+        width="460"
+        height="215"
+        fill="url(#fade)"/>
+
+    <text
+        x="20"
+        y="175"
+        fill="white"
+        font-size="24"
+        font-family="Arial"
+        filter="url(#shadow)">
+        Kota%60s%20New%20Journey
+    </text>
+
+    <text
+        x="20"
+        y="198"
+        fill="#cccccc"
+        font-size="16"
+        font-family="Arial">
+        undefined
+    </text>
+
+    <rect
+        x="365"
+        y="170"
+        width="75"
+        height="28"
+        rx="14"
+        fill="#4CAF50"/>
+
+    <text
+        x="402"
+        y="189"
+        text-anchor="middle"
+        fill="white"
+        font-size="15"
+        font-weight="bold"
+        font-family="Arial">
+        ✓ 100%
+    </text>
+
+</svg>
 <!--END_SECTION-->
 
 
