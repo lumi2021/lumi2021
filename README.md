@@ -105,10 +105,10 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
-<img src="https://media.steampowered.com/steamcommunity/public/images/apps/255520/library_hero.jpg"/>
-<img src="https://media.steampowered.com/steamcommunity/public/images/apps/433340/library_hero.jpg"/>
-<img src="https://media.steampowered.com/steamcommunity/public/images/apps/1997680/library_hero.jpg"/>
-<img src="https://media.steampowered.com/steamcommunity/public/images/apps/3270680/library_hero.jpg"/>
+<img src="https://media.steampowered.com/steamcommunity/public/images/apps/255520/library_hero.jpg" align="left" width="200"/>
+<img src="https://media.steampowered.com/steamcommunity/public/images/apps/433340/library_hero.jpg" align="left" width="200"/>
+<img src="https://media.steampowered.com/steamcommunity/public/images/apps/1997680/library_hero.jpg" align="left" width="200"/>
+<img src="https://media.steampowered.com/steamcommunity/public/images/apps/3270680/library_hero.jpg" align="left" width="200"/>
 <!--END_SECTION-->
 
 
