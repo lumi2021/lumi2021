@@ -105,10 +105,26 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
-<img src="https://media.steampowered.com/steamcommunity/public/images/apps/255520/capsule_231x87.jpg" align="left" width="200"/>
-<img src="https://media.steampowered.com/steamcommunity/public/images/apps/433340/capsule_231x87.jpg" align="left" width="200"/>
-<img src="https://media.steampowered.com/steamcommunity/public/images/apps/1997680/capsule_231x87.jpg" align="left" width="200"/>
-<img src="https://media.steampowered.com/steamcommunity/public/images/apps/3270680/capsule_231x87.jpg" align="left" width="200"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/header.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/capsule_231x87.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/library_hero.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/library_600x900.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/logo.png"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/header.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/capsule_231x87.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/library_hero.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/library_600x900.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/logo.png"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/header.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/capsule_231x87.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/library_hero.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/library_600x900.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/logo.png"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/header.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/capsule_231x87.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/library_hero.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/library_600x900.jpg" align="left"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/logo.png"/>
 <!--END_SECTION-->
 
 
