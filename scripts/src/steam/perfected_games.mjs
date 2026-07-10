@@ -2,7 +2,7 @@ import { getConsumptionMode, getOwnedGames, validateAuth } from "./common.mjs";
 import fs from "node:fs/promises";
 import path from "path";
 
-import { makeWideCard } from "./game-card.mjs";
+import { makeThinCard, makeWideCard } from "./game-card.mjs";
 
 export async function perfectedGamesService(section) {
     const mode = getConsumptionMode();
@@ -47,7 +47,7 @@ export async function perfectedGamesService(section) {
     content.push("<p>");
     
     for (let i = 0; i < perfectGames.length; i++) {
-        const game = recent[i];
+        const game = perfectGames[i];
 
         const wide_svg_path = `${banners_dir}/${game.appid}_wide.svg`;
         const thin_svg_path = `${banners_dir}/${game.appid}_thin.svg`;
@@ -64,5 +64,6 @@ export async function perfectedGamesService(section) {
 
     content.push("</p>");
     content.push("<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>");
+    
     return content.join('\n');
 }
