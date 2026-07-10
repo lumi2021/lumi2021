@@ -94,7 +94,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
     <p>4:20</p>
 </p>
 <p>
-    <img src="" width="75" align="left"/>
+    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="75" align="left"/>
     <p><strong><a href="https://www.last.fm/music/Cavetown/_/I%27m+Low+on+Gas+and+You+Need+A+Jacket">I'm Low on Gas and You Need A Jacket</a></strong> - <a href="https://www.last.fm/music/Cavetown">Cavetown</a></p>
     <p>—</p>
 </p>
