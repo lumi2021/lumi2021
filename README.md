@@ -108,18 +108,18 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
 <tr>
-  <td style="border: none; padding: 5px;">
+  <td style="border: none; padding: 5px; background: transparent">
     <img src="actions/cache/steam/game_banners/255520_wide.svg" width="410" alt="Viscera Cleanup Detail: Shadow Warrior">
   </td>
-  <td style="border: none; padding: 5px;">
+  <td style="border: none; padding: 5px; background: transparent">
     <img src="actions/cache/steam/game_banners/433340_wide.svg" width="410" alt="Slime Rancher">
   </td>
 </tr>
 <tr>
-  <td style="border: none; padding: 5px;">
+  <td style="border: none; padding: 5px; background: transparent">
     <img src="actions/cache/steam/game_banners/1997680_wide.svg" width="410" alt="REFLEXIA Prototype ver.">
   </td>
-  <td style="border: none; padding: 5px;">
+  <td style="border: none; padding: 5px; background: transparent">
     <img src="actions/cache/steam/game_banners/3270680_wide.svg" width="410" alt="Kota`s New Journey">
   </td>
 </tr>
