@@ -112,24 +112,18 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Recent games
 <!-- START_SECTION: steam.recent_games -->
-<p>
+<div align="center">
     <picture>
-        <source media="(max-width: 500px)" width="200" srcset="actions/cache/steam/game_banners/recent/1454400_thin.svg">
-        <img src="actions/cache/steam/game_banners/recent/1454400_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="Cookie Clicker">
+        <source media="(max-width: 500px)" srcset="actions/cache/steam/game_banners/recent/1454400_thin.svg">
+        <source media="(min-width: 500px)" srcset="actions/cache/steam/game_banners/recent/1454400_wide.svg">
+        <img width="49%" dragabble="false">
     </picture>
     <picture>
-        <source media="(max-width: 500px)" width="200" srcset="actions/cache/steam/game_banners/recent/246620_thin.svg">
-        <img src="actions/cache/steam/game_banners/recent/246620_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="Plague Inc: Evolved">
+        <source media="(max-width: 500px)" srcset="actions/cache/steam/game_banners/recent/1454400_thin.svg">
+        <source media="(min-width: 500px)" srcset="actions/cache/steam/game_banners/recent/1454400_wide.svg">
+        <img width="49%" dragabble="false">
     </picture>
-    <picture>
-        <source media="(max-width: 500px)" width="200" srcset="actions/cache/steam/game_banners/recent/346010_thin.svg">
-        <img src="actions/cache/steam/game_banners/recent/346010_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="Besiege">
-    </picture>
-    <picture>
-        <source media="(max-width: 500px)" width="200" srcset="actions/cache/steam/game_banners/recent/250900_thin.svg">
-        <img src="actions/cache/steam/game_banners/recent/250900_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="The Binding of Isaac: Rebirth">
-    </picture>
-</p>
+</div>
 <p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
