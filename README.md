@@ -73,13 +73,21 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 <!-- ## Musics I like -->
 <!-- START_SECTION: last_fm -->
-| # | Cover | Track | Artist | Duration | Times listened |
-|--:|:-----:|-------|--------|----------|----------------|
-| 1 | ![x](https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png) | [Velcro](https://www.last.fm/music/Elio+Mei/_/Velcro) | [Elio Mei](https://www.last.fm/music/Elio+Mei) | — | 23 |
-| 2 | ![x](https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png) | [Playing Dead](https://www.last.fm/music/Elio+Mei/_/Playing+Dead) | [Elio Mei](https://www.last.fm/music/Elio+Mei) | — | 21 |
-| 3 | ![x](https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png) | [One Man Circus](https://www.last.fm/music/elio+mei/_/One+Man+Circus) | [elio mei](https://www.last.fm/music/elio+mei) | — | 19 |
-| 4 | ![x](https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png) | [How To Let Go](https://www.last.fm/music/August+Greenwood/_/How+To+Let+Go) | [August Greenwood](https://www.last.fm/music/August+Greenwood) | 4:20 | 17 |
-| 5 | ![x](https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png) | [I'm Low on Gas and You Need A Jacket](https://www.last.fm/music/Cavetown/_/I%27m+Low+on+Gas+and+You+Need+A+Jacket) | [Cavetown](https://www.last.fm/music/Cavetown) | 3:23 | 17 |
+<p>
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png/>
+</p>
+<p>
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png/>
+</p>
+<p>
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png/>
+</p>
+<p>
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png/>
+</p>
+<p>
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png/>
+</p>
 <!--END_SECTION-->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
 
@@ -88,7 +96,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
+[mew_mila (Camila) - Away](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games
