@@ -98,7 +98,11 @@ export async function perfectedGamesService(section) {
 
 function makeCard(game) {
     return `
-<svg xmlns="http://www.w3.org/2000/svg" width="460"height="215" viewBox="0 0 460 215">
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="460"
+    height="215"
+    viewBox="0 0 460 215"
+>
 
     <defs>
         <linearGradient id="fade"
