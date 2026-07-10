@@ -114,13 +114,13 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <!-- START_SECTION: steam.recent_games -->
 <div align="center">
     <picture>
-        <source media="(max-width: 500px)" srcset="actions/cache/steam/game_banners/recent/1454400_thin.svg">
-        <source media="(min-width: 500px)" srcset="actions/cache/steam/game_banners/recent/1454400_wide.svg">
+        <source media="(max-width: 1000px)" srcset="actions/cache/steam/game_banners/recent/1454400_thin.svg">
+        <source media="(min-width: 1000px)" srcset="actions/cache/steam/game_banners/recent/1454400_wide.svg">
         <img width="49%" dragabble="false">
     </picture>
     <picture>
-        <source media="(max-width: 500px)" srcset="actions/cache/steam/game_banners/recent/1454400_thin.svg">
-        <source media="(min-width: 500px)" srcset="actions/cache/steam/game_banners/recent/1454400_wide.svg">
+        <source media="(max-width: 1000px)" srcset="actions/cache/steam/game_banners/recent/1454400_thin.svg">
+        <source media="(min-width: 1000px)" srcset="actions/cache/steam/game_banners/recent/1454400_wide.svg">
         <img width="49%" dragabble="false">
     </picture>
 </div>
