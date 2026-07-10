@@ -96,7 +96,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <!-- START_SECTION: steam.recent_games -->
 | Icon | Name | Time played | Achievements |
 |:----:|:----:|:-----------:|:------------:|
-| ![](https://media.steampowered.com/steamcommunity/public/images/apps/1454400/e0c68bbdb2813528f0802ef6751655e33a42c9bb.jpg) | Cookie Clicker | 87h 38m | 551 / 637 (86% |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/1454400/e0c68bbdb2813528f0802ef6751655e33a42c9bb.jpg) | Cookie Clicker | 88h 8m | 551 / 637 (86% |
 | ![](https://media.steampowered.com/steamcommunity/public/images/apps/246620/9e39dcfd5a300732c16111b268853ef11a0ba4d0.jpg) | Plague Inc: Evolved | 11h 39m | 48 / 250 (19% |
 | ![](https://media.steampowered.com/steamcommunity/public/images/apps/346010/16667f445723c720782314269e41f9daa8a7fb56.jpg) | Besiege | 8h 21m | 8 / 54 (15% |
 | ![](https://media.steampowered.com/steamcommunity/public/images/apps/250900/16d46c8630499bfc54d20745ac90786a302cd643.jpg) | The Binding of Isaac: Rebirth | 2h 39m | 9 / 641 (1% |
