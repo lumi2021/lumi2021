@@ -89,30 +89,45 @@ export async function perfectedGamesService(section) {
 
     var content = [];
 
-    for (let i = 0; i < perfectGames.length; i++) {
-        const game = perfectGames[i];
+    content.push(`<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">`);
+    var count = 0;
 
-        const name = game.name;
+    content.push('<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">');
+    
+    content.push("<tr>");    
+    for (let i = 0; i < perfectGames.length; i++) {
+    
+        if (i > 0 && i % 2 === 0) {
+            content.push("</tr>");
+            content.push("<tr>");
+        }
+
+        const game = perfectGames[i];
         
         const total_minutes = game.playtime_forever ?? 0;
         const hours = Math.floor(total_minutes / 60);
         const mins = total_minutes % 60;
         
-        const playtime = hours > 0 ? `${hours}h ${mins}m` : `${mins}m`;
+        game.playtime = hours > 0 ? `${hours}h ${mins}m` : `${mins}m`;
         
-        const svg_path = `${banners_dir}/${game.appid}.svg`;
-        await fs.writeFile(svg_path, await makeCardHorizontal(game), "utf-8");
-
-        content.push(`![${game.name}](${svg_path})`);
+        const wide_svg_path = `${banners_dir}/${game.appid}_wide.svg`;
+        await fs.writeFile(wide_svg_path, await makeWideCard(game), "utf-8");
+        
+        content.push(`  <td style="border: none; padding: 5px; background: transparent">`);
+        content.push(`    <img src="${wide_svg_path}" width="410" alt="${game.name}">`);
+        content.push(`  </td>`);
     }
+    
+    content.push("</tr>"); // CORRIGIDO: Fecha a última linha da tabela
+    content.push("</table>");
 
+    content.push("</table>");
     content.push("<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>");
     return content.join('\n');
 
 }
 
-
-async function makeCardHorizontal(game) {
+async function makeWideCard(game) {
     const dom = new JSDOM(`<!DOCTYPE html><body></body>`);
     const document = dom.window.document;
     const svgNS = "http://www.w3.org/2000/svg";
