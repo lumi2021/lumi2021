@@ -100,6 +100,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <img src="actions/cache/steam/game_banners/recent/346010_wide.svg" width="410" alt="Besiege">
 <img src="actions/cache/steam/game_banners/recent/250900_wide.svg" width="410" alt="The Binding of Isaac: Rebirth">
 </p>
+<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 ### Perfected games
@@ -110,9 +111,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <img src="actions/cache/steam/game_banners/perfected/1997680_wide.svg" width="410" alt="REFLEXIA Prototype ver.">
 <img src="actions/cache/steam/game_banners/perfected/3270680_wide.svg" width="410" alt="Kota`s New Journey">
 </p>
-<!--END_SECTION-->
-
-<!-- START_SECTION: steam.last_achievements -->
+<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 
