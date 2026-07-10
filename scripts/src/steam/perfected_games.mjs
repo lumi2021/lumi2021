@@ -44,6 +44,7 @@ export async function perfectedGamesService(section) {
     await fs.mkdir(banners_dir, { recursive: true });
 
     const content = [];
+    content.push("<p>");
     
     for (let i = 0; i < perfectGames.length; i++) {
         const game = recent[i];
@@ -61,5 +62,7 @@ export async function perfectedGamesService(section) {
         content.push('    </picture>');
     }
 
+    content.push("</p>");
+    content.push("<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>");
     return content.join('\n');
 }
