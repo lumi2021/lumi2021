@@ -40,28 +40,9 @@
 ## My Activity
 
 <!-- START_SECTION: github.activity -->
-- 🎉 Merged pull request [#16](https://github.com/taijarals/lobo_ovelha_cacador/pull/16) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
-- ‼️ Opened pull request [#92](https://github.com/tgies/klattsch/issues/92) in [tgies/klattsch](https://github.com/tgies/klattsch)
-- 🎉 Merged pull request [#15](https://github.com/taijarals/lobo_ovelha_cacador/pull/15) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
-- 🎉 Merged pull request [#1](https://github.com/camila-academic/predator-prey-model/pull/1) in [camila-academic/predator-prey-model](https://github.com/camila-academic/predator-prey-model)
-- ↗️ Openned pull request [#120611](https://github.com/godotengine/godot/pull/120611) in [godotengine/godot](https://github.com/godotengine/godot)
-- ↗️ Openned pull request [#9](https://github.com/taijarals/lobo_ovelha_cacador/pull/9) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
-- 🎉 Merged pull request [#2](https://github.com/camila-academic/leasons/pull/2) in [camila-academic/leasons](https://github.com/camila-academic/leasons)
-- 🎉 Merged pull request [#1](https://github.com/camila-academic/leasons/pull/1) in [camila-academic/leasons](https://github.com/camila-academic/leasons)
-- ✅ Closed pull request [#24504](https://github.com/ziglang/zig/issues/24504) in [ziglang/zig](https://github.com/ziglang/zig)
-- 🎉 Merged pull request [#2](https://github.com/SystemElva/Kernel/pull/2) in [SystemElva/Kernel](https://github.com/SystemElva/Kernel)
 <!--END_SECTION-->
 
 <!-- START_SECTION: wakatime.weekly_langs -->
-```rust
-Total Time: 2 hrs 5 mins
-
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀ 1 hr 52 mins
-- "Text"          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 8 mins
-- "Csproj"        ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 mins
-- "XML"           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 0 secs
-- "GitIgnore ..." ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 0 secs
-```
 <!--END_SECTION-->
 
 <!-- START_SECTION: github.most_starred -->
@@ -90,28 +71,14 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 ### Steam
 <!-- START_SECTION: steam.profile -->
   <!--TEMPLATE "[{username} ({name}) - {status}]({profile_url})" -->
-[mew_mila (Camila) - Away](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games
 <!-- START_SECTION: steam.recent_games -->
-| Icon | Name | Time played | Achievements |
-|:----:|:----:|:-----------:|:------------:|
-| ![Cookie Clicker](https://media.steampowered.com/steamcommunity/public/images/apps/1454400/e0c68bbdb2813528f0802ef6751655e33a42c9bb.jpg) | Cookie Clicker | 36h 38m | 537 / 637 (84%) |
-| ![Besiege](https://media.steampowered.com/steamcommunity/public/images/apps/346010/16667f445723c720782314269e41f9daa8a7fb56.jpg) | Besiege | 6h 56m | 6 / 54 (11%) |
-| ![Oxygen Not Included](https://media.steampowered.com/steamcommunity/public/images/apps/457140/d37534163ebac8351e0bda0bf30f8f2174c921b6.jpg) | Oxygen Not Included | 3h 51m | 9 / 51 (18%) |
-| ![BOMBANANA! Demo](https://media.steampowered.com/steamcommunity/public/images/apps/4747510/baf7df3f7ee5a54c02a4ee4092b13c84f36e769f.jpg) | BOMBANANA! Demo | 2h 30m | n/a |
-| ![Aseprite](https://media.steampowered.com/steamcommunity/public/images/apps/431730/da61bd2806f69205a97609dcdd4ca27df3baf800.jpg) | Aseprite | 1h 13m | n/a |
 <!--END_SECTION-->
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
-| Icon | Name | Time played |
-|:----:|:----:|:-----------:|
-| ![Viscera Cleanup Detail: Shadow Warrior](https://media.steampowered.com/steamcommunity/public/images/apps/255520/56c3840d52a0da4f397d9991d368c75ed53d99fa.jpg) | Viscera Cleanup Detail: Shadow Warrior | 1h 39m |
-| ![Slime Rancher](https://media.steampowered.com/steamcommunity/public/images/apps/433340/814236b2c3a100cf76b00390585f351708e4c1e4.jpg) | Slime Rancher | 36h 34m |
-| ![REFLEXIA Prototype ver.](https://media.steampowered.com/steamcommunity/public/images/apps/1997680/e5d50aeecf300b6c7034864fbd163cbb2b0d31b6.jpg) | REFLEXIA Prototype ver. | 2h 59m |
-| ![Kota`s New Journey](https://media.steampowered.com/steamcommunity/public/images/apps/3270680/647ed50f77ec2636e201a9d8fc6bc855ba599cc2.jpg) | Kota`s New Journey | 1h 49m |
 <!--END_SECTION-->
 
 
