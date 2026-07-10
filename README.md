@@ -73,22 +73,14 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 <!-- ## Musics I like -->
 <!-- START_SECTION: last_fm -->
-<p>
-    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
-</p>
-<p>
-    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
-</p>
-<p>
-    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
-</p>
-<p>
-    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
-</p>
-<p>
-    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
-</p>
-
+  <!--TEMPLATE {
+    id: '#',
+    track_cover: 'Cover',
+    track_link: 'Track',
+    track_artist_link: 'Artist',
+    track_duration: 'Duration',
+    times_listened: 'Times Listened',
+  } -->
 <!--END_SECTION-->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
 
