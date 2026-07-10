@@ -89,7 +89,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
+[mew_mila (Camila) - Away](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games
@@ -116,6 +116,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/library_600x900.jpg" width="200" alt="Cover"/>
 <p><strong>Logo:</strong></p>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/logo.png" width="200" alt="Logo"/>
+
 ![](actions/cache/steam/game_banners/255520.svg)
 ### Asset Review for Slime Rancher
 <p><strong>Header:</strong></p>
@@ -128,6 +129,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/library_600x900.jpg" width="200" alt="Cover"/>
 <p><strong>Logo:</strong></p>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/logo.png" width="200" alt="Logo"/>
+
 ![](actions/cache/steam/game_banners/433340.svg)
 ### Asset Review for REFLEXIA Prototype ver.
 <p><strong>Header:</strong></p>
@@ -140,6 +142,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/library_600x900.jpg" width="200" alt="Cover"/>
 <p><strong>Logo:</strong></p>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/logo.png" width="200" alt="Logo"/>
+
 ![](actions/cache/steam/game_banners/1997680.svg)
 ### Asset Review for Kota`s New Journey
 <p><strong>Header:</strong></p>
@@ -152,6 +155,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/library_600x900.jpg" width="200" alt="Cover"/>
 <p><strong>Logo:</strong></p>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/logo.png" width="200" alt="Logo"/>
+
 ![](actions/cache/steam/game_banners/3270680.svg)
 <!--END_SECTION-->
 
