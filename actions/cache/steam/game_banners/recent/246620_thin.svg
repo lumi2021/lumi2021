@@ -18,7 +18,7 @@
 				stop-color="transparent"
 			/>
 			<stop
-				offset="100%"
+				offset="95%"
 				stop-color="#111"
 			/>
 		</linearGradient>
@@ -39,4 +39,31 @@
 		height="900"
 		preserveAspectRatio="xMidYMid slice"
 	/>
+	<rect
+		width="600"
+		height="900"
+		fill="url(#fade)"
+	/>
+	<text
+		x="10"
+		y="870"
+		fill="#ffffff"
+		font-size="64"
+		font-weight="600"
+		text-anchor="start"
+		font-family="system-ui, -apple-system, sans-serif"
+	>
+		12h
+		26m
+	</text>
+	<text
+		x="590"
+		y="870"
+		fill="white"
+		font-size="64"
+		font-weight="bold"
+		text-anchor="end"
+	>
+		🏆 20%
+	</text>
 </svg>
