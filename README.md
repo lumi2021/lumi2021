@@ -105,6 +105,50 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
+header
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/header.jpg"/>
+capsule
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/capsule_231x87.jpg"/>
+hero
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/library_hero.jpg"/>
+600x900
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/library_600x900.jpg"/>
+logo
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/logo.png"/>
+![](actions/cache/steam/game_banners/255520.svg)
+header
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/header.jpg"/>
+capsule
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/capsule_231x87.jpg"/>
+hero
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/library_hero.jpg"/>
+600x900
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/library_600x900.jpg"/>
+logo
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/logo.png"/>
+![](actions/cache/steam/game_banners/433340.svg)
+header
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/header.jpg"/>
+capsule
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/capsule_231x87.jpg"/>
+hero
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/library_hero.jpg"/>
+600x900
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/library_600x900.jpg"/>
+logo
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/logo.png"/>
+![](actions/cache/steam/game_banners/1997680.svg)
+header
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/header.jpg"/>
+capsule
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/capsule_231x87.jpg"/>
+hero
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/library_hero.jpg"/>
+600x900
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/library_600x900.jpg"/>
+logo
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/logo.png"/>
+![](actions/cache/steam/game_banners/3270680.svg)
 <!--END_SECTION-->
 
 
