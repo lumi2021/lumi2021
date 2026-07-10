@@ -45,15 +45,8 @@ export async function perfectedGamesService(section) {
 
     const content = [];
     content.push("<p>");
-    //content.push('<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">');
-    //content.push("<tr>");
     
     for (let i = 0; i < perfectGames.length; i++) {
-        //if (i > 0 && i % 2 === 0) {
-            //    content.push("</tr>");
-            //    content.push("<tr>");
-            //}
-
         const game = perfectGames[i];
 
         const wide_svg_path = `${banners_dir}/${game.appid}_wide.svg`;
@@ -63,15 +56,9 @@ export async function perfectedGamesService(section) {
             "utf-8"
         );
         
-        //content.push(`  <td style="border: none; padding: 5px; background: transparent">`);
-        //content.push(`    <img src="${wide_svg_path}" width="410" alt="${game.name}">`);
-        content.push(`<img src="${wide_svg_path}"  alt="${game.name}">`);
-        //content.push(`  </td>`);
+        content.push(`<img src="${wide_svg_path}" width="410" alt="${game.name}">`);
     }
-    
-    //content.push("</tr>");
-    //content.push("</table>");
-    //content.push("<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>");
+
     content.push("</p>");
     return content.join('\n');
 }

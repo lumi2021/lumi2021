@@ -39,27 +39,17 @@ export async function recentGamesService(section) {
     await fs.mkdir(banners_dir, { recursive: true });
 
     const content = [];
-    content.push('<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">');
-    content.push("<tr>");
+    content.push("<p>");
 
     for (let i = 0; i < recent.length; i++) {
-        if (i > 0 && i % 2 === 0) {
-            content.push("</tr>");
-            content.push("<tr>");
-        }
-
         const game = recent[i];
 
         const wide_svg_path = `${banners_dir}/${game.appid}_wide.svg`;
         await fs.writeFile(wide_svg_path, await makeWideCard(game), "utf-8");
 
-        content.push(`  <td style="border: none; padding: 5px; background: transparent">`);
-        content.push(`    <img src="${wide_svg_path}" width="410" alt="${game.name}">`);
-        content.push(`  </td>`);
+        content.push(`<img src="${wide_svg_path}" width="410" alt="${game.name}">`);
     }
 
-    content.push("</tr>");
-    content.push("</table>");
-    content.push("<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>");
+    content.push("</p>");
     return content.join('\n');
 }
