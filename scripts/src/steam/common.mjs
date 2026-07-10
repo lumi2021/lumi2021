@@ -1,5 +1,49 @@
 export const STATUS = ["Offline", "Online", "Busy", "Away", "Snooze" ];
 
+let ownedGamesPromise = null;
+const achievementsCache = new Map();
+
+export function getOwnedGames(steamid, api_key) {
+    if (!ownedGamesPromise) {
+        console.log("Loading steam's owned games...");
+        ownedGamesPromise = steamGet(
+            "IPlayerService/GetOwnedGames/v1/",
+            {
+                steamid,
+                include_appinfo: true,
+                include_played_free_games: true,
+            },
+            api_key
+        ).then(res => res.response?.games ?? []);
+    }
+    return ownedGamesPromise;
+}
+export function getAchievements(appid, steamid, api_key) {
+    if (!achievementsCache.has(appid)) {
+        const promise = steamGet(
+            "ISteamUserStats/GetPlayerAchievements/v1/",
+            { steamid, appid },
+            api_key
+        ).catch(() => null);
+        achievementsCache.set(appid, promise);
+    }
+    return achievementsCache.get(appid);
+}
+
+export function formatPlaytime(totalMinutes) {
+    const minutes = totalMinutes ?? 0;
+    const hours = Math.floor(minutes / 60);
+    const mins = minutes % 60;
+    const readable = hours > 0 ? `${hours}h ${mins}m` : `${mins}m`;
+
+    return {
+        hours: hours,
+        mins: mins,
+        time: readable,
+    };
+}
+
+
 export async function steamGet(endpoint, params, api_key) {
     const url = new URL(`https://api.steampowered.com/${endpoint}`);
 
@@ -21,7 +65,6 @@ export async function steamGet(endpoint, params, api_key) {
 
     throw new Error(`Failed to fetch ${endpoint} after 5 attempts`);
 }
-
 export function validateAuth() {
     const steam_user_id = process.env["STEAM_USER_ID"];
     const steam_api_key = process.env["STEAM_API_KEY"];
@@ -46,4 +89,4 @@ export function validateAuth() {
 }
 export function getConsumptionMode() {
     return process.env["PROCESS_CONSUPTION"] || 'MEDIUM';
-}
+}   
