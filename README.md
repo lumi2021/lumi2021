@@ -114,19 +114,19 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <!-- START_SECTION: steam.recent_games -->
 <p>
     <picture>
-        <source media="(max-width: 400px)" srcset="actions/cache/steam/game_banners/recent/1454400_thin.svg">
+        <source media="(max-width: 500px)" srcset="actions/cache/steam/game_banners/recent/1454400_thin.svg">
         <img src="actions/cache/steam/game_banners/recent/1454400_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="Cookie Clicker">
     </picture>
     <picture>
-        <source media="(max-width: 400px)" srcset="actions/cache/steam/game_banners/recent/246620_thin.svg">
+        <source media="(max-width: 500px)" srcset="actions/cache/steam/game_banners/recent/246620_thin.svg">
         <img src="actions/cache/steam/game_banners/recent/246620_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="Plague Inc: Evolved">
     </picture>
     <picture>
-        <source media="(max-width: 400px)" srcset="actions/cache/steam/game_banners/recent/346010_thin.svg">
+        <source media="(max-width: 500px)" srcset="actions/cache/steam/game_banners/recent/346010_thin.svg">
         <img src="actions/cache/steam/game_banners/recent/346010_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="Besiege">
     </picture>
     <picture>
-        <source media="(max-width: 400px)" srcset="actions/cache/steam/game_banners/recent/250900_thin.svg">
+        <source media="(max-width: 500px)" srcset="actions/cache/steam/game_banners/recent/250900_thin.svg">
         <img src="actions/cache/steam/game_banners/recent/250900_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="The Binding of Isaac: Rebirth">
     </picture>
 </p>
