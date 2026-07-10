@@ -51,5 +51,6 @@ export async function recentGamesService(section) {
     }
 
     content.push("</p>");
+    content.push("<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>");
     return content.join('\n');
 }
