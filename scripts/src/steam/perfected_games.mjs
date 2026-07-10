@@ -65,7 +65,7 @@ export async function perfectedGamesService(section) {
         
         //content.push(`  <td style="border: none; padding: 5px; background: transparent">`);
         //content.push(`    <img src="${wide_svg_path}" width="410" alt="${game.name}">`);
-        content.push(`<img src="${wide_svg_path}" width="410" alt="${game.name}">`);
+        content.push(`<img src="${wide_svg_path}"  alt="${game.name}">`);
         //content.push(`  </td>`);
     }
     
