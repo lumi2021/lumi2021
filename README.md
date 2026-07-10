@@ -107,15 +107,61 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Away](https://steamcommunity.com/profiles/76561198434273671/)
+[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games
 <!-- START_SECTION: steam.recent_games -->
+<p>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/recent/1454400_thin.svg">
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/recent/1454400_wide.svg">
+        <img style="max-width: 100%; padding: 5px;" alt="Cookie Clicker">
+    </picture>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/recent/246620_thin.svg">
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/recent/246620_wide.svg">
+        <img style="max-width: 100%; padding: 5px;" alt="Plague Inc: Evolved">
+    </picture>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/recent/346010_thin.svg">
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/recent/346010_wide.svg">
+        <img style="max-width: 100%; padding: 5px;" alt="Besiege">
+    </picture>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/recent/250900_thin.svg">
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/recent/250900_wide.svg">
+        <img style="max-width: 100%; padding: 5px;" alt="The Binding of Isaac: Rebirth">
+    </picture>
+</p>
+<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
+<p>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/perfected/255520_thin.svg">
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/perfected/255520_wide.svg">
+        <img style="max-width: 100%; padding: 5px;" alt="Viscera Cleanup Detail: Shadow Warrior">
+    </picture>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/perfected/433340_thin.svg">
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/perfected/433340_wide.svg">
+        <img style="max-width: 100%; padding: 5px;" alt="Slime Rancher">
+    </picture>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/perfected/1997680_thin.svg">
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/perfected/1997680_wide.svg">
+        <img style="max-width: 100%; padding: 5px;" alt="REFLEXIA Prototype ver.">
+    </picture>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/perfected/3270680_thin.svg">
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/perfected/3270680_wide.svg">
+        <img style="max-width: 100%; padding: 5px;" alt="Kota`s New Journey">
+    </picture>
+</p>
+<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 
