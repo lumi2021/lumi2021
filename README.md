@@ -73,14 +73,27 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 <!-- ## Musics I like -->
 <!-- START_SECTION: last_fm -->
-  <!--TEMPLATE {
-    id: '#',
-    track_cover: 'Cover',
-    track_link: 'Track',
-    track_artist_link: 'Artist',
-    track_duration: 'Duration',
-    times_listened: 'Times Listened',
-  } -->
+<p>
+    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
+**[Velcro](https://www.last.fm/music/Elio+Mei/_/Velcro)** - [Elio Mei](https://www.last.fm/music/Elio+Mei)
+</p>
+<p>
+    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
+**[Playing Dead](https://www.last.fm/music/Elio+Mei/_/Playing+Dead)** - [Elio Mei](https://www.last.fm/music/Elio+Mei)
+</p>
+<p>
+    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
+**[One Man Circus](https://www.last.fm/music/elio+mei/_/One+Man+Circus)** - [elio mei](https://www.last.fm/music/elio+mei)
+</p>
+<p>
+    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
+**[How To Let Go](https://www.last.fm/music/August+Greenwood/_/How+To+Let+Go)** - [August Greenwood](https://www.last.fm/music/August+Greenwood)
+</p>
+<p>
+    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
+**[I'm Low on Gas and You Need A Jacket](https://www.last.fm/music/Cavetown/_/I%27m+Low+on+Gas+and+You+Need+A+Jacket)** - [Cavetown](https://www.last.fm/music/Cavetown)
+</p>
+
 <!--END_SECTION-->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
 
