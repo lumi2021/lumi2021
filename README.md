@@ -74,19 +74,19 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <!-- ## Musics I like -->
 <!-- START_SECTION: last_fm -->
 <p>
-    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30/>
+    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
 </p>
 <p>
-    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30/>
+    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
 </p>
 <p>
-    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30/>
+    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
 </p>
 <p>
-    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30/>
+    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
 </p>
 <p>
-    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30/>
+    <img src="https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png" width="30" align="left"/>
 </p>
 \
 <!--END_SECTION-->
