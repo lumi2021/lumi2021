@@ -89,14 +89,14 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
+[mew_mila (Camila) - Away](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games
 <!-- START_SECTION: steam.recent_games -->
 | Icon | Name | Time played | Achievements |
 |:----:|:----:|:-----------:|:------------:|
-| ![](https://media.steampowered.com/steamcommunity/public/images/apps/1454400/e0c68bbdb2813528f0802ef6751655e33a42c9bb.jpg) | Cookie Clicker | 88h 8m | 551 / 637 (86% |
+| ![](https://media.steampowered.com/steamcommunity/public/images/apps/1454400/e0c68bbdb2813528f0802ef6751655e33a42c9bb.jpg) | Cookie Clicker | 88h 38m | 551 / 637 (86% |
 | ![](https://media.steampowered.com/steamcommunity/public/images/apps/246620/9e39dcfd5a300732c16111b268853ef11a0ba4d0.jpg) | Plague Inc: Evolved | 11h 39m | 48 / 250 (19% |
 | ![](https://media.steampowered.com/steamcommunity/public/images/apps/346010/16667f445723c720782314269e41f9daa8a7fb56.jpg) | Besiege | 8h 21m | 8 / 54 (15% |
 | ![](https://media.steampowered.com/steamcommunity/public/images/apps/250900/16d46c8630499bfc54d20745ac90786a302cd643.jpg) | The Binding of Isaac: Rebirth | 2h 39m | 9 / 641 (1% |
@@ -105,10 +105,30 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
-![Viscera Cleanup Detail: Shadow Warrior](actions/cache/steam/game_banners/255520.svg)
-![Slime Rancher](actions/cache/steam/game_banners/433340.svg)
-![REFLEXIA Prototype ver.](actions/cache/steam/game_banners/1997680.svg)
-![Kota`s New Journey](actions/cache/steam/game_banners/3270680.svg)
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+<tr>
+<tr/>
+<tr>
+<td style="border: none; padding: 5px;">
+![Viscera Cleanup Detail: Shadow Warrior](actions/cache/steam/game_banners/255520_wide.svg)
+<td/>
+<tr/>
+<tr>
+<td style="border: none; padding: 5px;">
+![Slime Rancher](actions/cache/steam/game_banners/433340_wide.svg)
+<td/>
+<tr/>
+<tr>
+<td style="border: none; padding: 5px;">
+![REFLEXIA Prototype ver.](actions/cache/steam/game_banners/1997680_wide.svg)
+<td/>
+<tr/>
+<tr>
+<td style="border: none; padding: 5px;">
+![Kota`s New Journey](actions/cache/steam/game_banners/3270680_wide.svg)
+<td/>
+<tr>
+</table>
 <p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
