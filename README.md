@@ -76,18 +76,23 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <p>
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png/>
 </p>
+\
 <p>
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png/>
 </p>
+\
 <p>
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png/>
 </p>
+\
 <p>
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png/>
 </p>
+\
 <p>
 <img src="https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png/>
 </p>
+\
 <!--END_SECTION-->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
 
