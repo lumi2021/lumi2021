@@ -52,7 +52,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R413JQF9)
 
 
-<!-- ## Musics I like -->
+## Songs I like
 <!-- START_SECTION: last_fm -->
   <!--TEMPLATE {
     id: '#',

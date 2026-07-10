@@ -1,6 +1,7 @@
 import steam from "./steam/service.mjs";
 import github from "./github/service.mjs";
 import wakatime from "./wakatime/service.mjs";
+import last_fm from "./last_fm/service.mjs";
 
 import { execSync } from "node:child_process";
 import fs from "node:fs/promises";
@@ -35,7 +36,7 @@ async function processSections(sections, auth) {
             switch (parts[0]) {
                 case 'github': section.new_content = await github.process(parts.slice(1), section); break;
                 case 'wakatime': section.new_content = await wakatime.process(parts.slice(1), section); break;
-                case 'last_fm': break;
+                case 'last_fm': section.new_content = await last_fm.process(section); break;
                 case 'steam': section.new_content = await steam.process(parts.slice(1), section); break;
 
                 default:
