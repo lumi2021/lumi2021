@@ -44,22 +44,21 @@ export async function perfectedGamesService(section) {
     await fs.mkdir(banners_dir, { recursive: true });
 
     const content = [];
-    content.push("<p>");
     
     for (let i = 0; i < perfectGames.length; i++) {
-        const game = perfectGames[i];
+        const game = recent[i];
 
         const wide_svg_path = `${banners_dir}/${game.appid}_wide.svg`;
-        await fs.writeFile(
-            wide_svg_path,
-            await makeWideCard(game),
-            "utf-8"
-        );
-        
-        content.push(`<img src="${wide_svg_path}" width="410" alt="${game.name}">`);
-    }
+        const thin_svg_path = `${banners_dir}/${game.appid}_thin.svg`;
 
-    content.push("</p>");
-    content.push("<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>");
+        await fs.writeFile(wide_svg_path, await makeWideCard(game), "utf-8");
+        await fs.writeFile(thin_svg_path, await makeThinCard(game), "utf-8");
+
+        content.push('    <picture>');
+        content.push(`        <source media="(max-width: 1061px)" width="24%" srcset="${thin_svg_path}">`);
+        content.push(`        <source media="(min-width: 1061px)" width="49%" srcset="${wide_svg_path}">`);
+        content.push(`        <img style="max-width: 100%; padding: 5px;" alt="${game.name}">`);
+        content.push('    </picture>');
+
     return content.join('\n');
 }
