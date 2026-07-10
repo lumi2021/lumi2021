@@ -107,18 +107,11 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
+[mew_mila (Camila) - Away](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games
 <!-- START_SECTION: steam.recent_games -->
-<p>
-<img src="actions/cache/steam/game_banners/recent/1454400_wide.svg" width="410" alt="Cookie Clicker">
-<img src="actions/cache/steam/game_banners/recent/246620_wide.svg" width="410" alt="Plague Inc: Evolved">
-<img src="actions/cache/steam/game_banners/recent/346010_wide.svg" width="410" alt="Besiege">
-<img src="actions/cache/steam/game_banners/recent/250900_wide.svg" width="410" alt="The Binding of Isaac: Rebirth">
-</p>
-<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 ### Perfected games
