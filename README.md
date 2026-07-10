@@ -115,19 +115,23 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <p>
     <picture>
         <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/recent/1454400_thin.svg">
-        <img src="actions/cache/steam/game_banners/recent/1454400_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="Cookie Clicker">
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/recent/1454400_wide.svg">
+        <img style="max-width: 100%; padding: 5px;" alt="Cookie Clicker">
     </picture>
     <picture>
         <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/recent/246620_thin.svg">
-        <img src="actions/cache/steam/game_banners/recent/246620_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="Plague Inc: Evolved">
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/recent/246620_wide.svg">
+        <img style="max-width: 100%; padding: 5px;" alt="Plague Inc: Evolved">
     </picture>
     <picture>
         <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/recent/346010_thin.svg">
-        <img src="actions/cache/steam/game_banners/recent/346010_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="Besiege">
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/recent/346010_wide.svg">
+        <img style="max-width: 100%; padding: 5px;" alt="Besiege">
     </picture>
     <picture>
         <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/recent/250900_thin.svg">
-        <img src="actions/cache/steam/game_banners/recent/250900_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="The Binding of Isaac: Rebirth">
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/recent/250900_wide.svg">
+        <img style="max-width: 100%; padding: 5px;" alt="The Binding of Isaac: Rebirth">
     </picture>
 </p>
 <p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
