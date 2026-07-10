@@ -72,12 +72,10 @@ export async function makeWideCard(game) {
     const image_logo_fw = canvas_width / 2;
     const image_logo_fh = (image_logo_fw / image_logo_w) * image_logo_h;
 
-    const x_offset = 20;
-    const y_offset = canvas_height - image_logo_fh - 20;
-
+    // Icon
     const icon = document.createElementNS(svgNS, "image");
-        icon.setAttribute("x", x_offset);
-        icon.setAttribute("y", y_offset);
+        icon.setAttribute("x", 20);
+        icon.setAttribute("y", 20);
         icon.setAttribute("href", image_logo);
         icon.setAttribute("width", image_logo_fw);
         icon.setAttribute("height", image_logo_fh);
