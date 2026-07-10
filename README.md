@@ -76,17 +76,17 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <p>
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
     <p><strong><a href="https://www.last.fm/music/Elio+Mei/_/Velcro">Velcro</a></strong> - <a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a></p>
-    <p>—</p>
+    <p>1:53</p>
 </p>
 <p>
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
     <p><strong><a href="https://www.last.fm/music/Elio+Mei/_/Playing+Dead">Playing Dead</a></strong> - <a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a></p>
-    <p>—</p>
+    <p>4:47</p>
 </p>
 <p>
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
     <p><strong><a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">One Man Circus</a></strong> - <a href="https://www.last.fm/music/elio+mei">elio mei</a></p>
-    <p>—</p>
+    <p>5:49</p>
 </p>
 <p>
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/74/ee/96/74ee965f-63d4-bd1e-61bf-c24ce30cc4ff/artwork.jpg/60x60bb.jpg" width="75" align="left"/>
@@ -96,7 +96,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <p>
     <img src="" width="75" align="left"/>
     <p><strong><a href="https://www.last.fm/music/Cavetown/_/I%27m+Low+on+Gas+and+You+Need+A+Jacket">I'm Low on Gas and You Need A Jacket</a></strong> - <a href="https://www.last.fm/music/Cavetown">Cavetown</a></p>
-    <p>3:23</p>
+    <p>—</p>
 </p>
 
 <!--END_SECTION-->
