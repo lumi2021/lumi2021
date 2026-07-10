@@ -2,7 +2,7 @@ import { getConsumptionMode, getOwnedGames, validateAuth } from "./common.mjs";
 import fs from "node:fs/promises";
 import path from "path";
 
-import { makeWideCard } from "./game-card.mjs";
+import { makeThinCard, makeWideCard } from "./game-card.mjs";
 
 export async function recentGamesService(section) {
     const mode = getConsumptionMode();
@@ -45,9 +45,15 @@ export async function recentGamesService(section) {
         const game = recent[i];
 
         const wide_svg_path = `${banners_dir}/${game.appid}_wide.svg`;
-        await fs.writeFile(wide_svg_path, await makeWideCard(game), "utf-8");
+        const thin_svg_path = `${banners_dir}/${game.appid}_thin.svg`;
 
-        content.push(`<img src="${wide_svg_path}" width="410" alt="${game.name}">`);
+        await fs.writeFile(wide_svg_path, await makeWideCard(game), "utf-8");
+        await fs.writeFile(thin_svg_path, await makeThinCard(game), "utf-8");
+
+        content.push('    <picture>');
+        content.push(`        <source media="(max-width: 400px)" srcset="${thin_svg_path}">`);
+        content.push(`        <img src="${wide_svg_path}" width="410" style="max-width: 100%; padding: 5px;" alt="${game.name}">`);
+        content.push('    </picture>');
     }
 
     content.push("</p>");

@@ -68,8 +68,8 @@ async function lastFmTracksService(section) {
     console.log("Loading tracks' cover images...");
     tracks = await Promise.all(
         tracks.map(async (track) => {
-            const artistName = track.artist?.name ?? "";
-            const trackName = track.name ?? "";
+            const artistName = track.artist?.name ?? "Unknown Artist";
+            const trackName = track.name ?? "Unknown Track";
             
             let coverUrl = "";
             let itunesDurationSec = 0;
@@ -103,7 +103,8 @@ async function lastFmTracksService(section) {
         const artist_url = artist.url ?? "";
         const track_url = track.url ?? "";
         
-        const coverUrl = track.itunesCover ?? track.image?.[1]?.["#text"] ?? "";
+        const coverUrl = track.itunesCover
+            || "https://raw.githubusercontent.com/lumi2021/lumi2021/refs/heads/main/scripts/assets/song-no-cover.png";
 
         const durationSec = parseInt(track.itunesDuration, 10) || 0;
         let duration = "—";
