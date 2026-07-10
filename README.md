@@ -117,25 +117,12 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-<tr>
-  <td style="border: none; padding: 5px; background: transparent">
-    <img src="actions/cache/steam/game_banners/perfected/255520_wide.svg" width="410" alt="Viscera Cleanup Detail: Shadow Warrior">
-  </td>
-  <td style="border: none; padding: 5px; background: transparent">
-    <img src="actions/cache/steam/game_banners/perfected/433340_wide.svg" width="410" alt="Slime Rancher">
-  </td>
-</tr>
-<tr>
-  <td style="border: none; padding: 5px; background: transparent">
-    <img src="actions/cache/steam/game_banners/perfected/1997680_wide.svg" width="410" alt="REFLEXIA Prototype ver.">
-  </td>
-  <td style="border: none; padding: 5px; background: transparent">
-    <img src="actions/cache/steam/game_banners/perfected/3270680_wide.svg" width="410" alt="Kota`s New Journey">
-  </td>
-</tr>
-</table>
-<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
+<p>
+<img src="actions/cache/steam/game_banners/perfected/255520_wide.svg" width="410" alt="Viscera Cleanup Detail: Shadow Warrior">
+<img src="actions/cache/steam/game_banners/perfected/433340_wide.svg" width="410" alt="Slime Rancher">
+<img src="actions/cache/steam/game_banners/perfected/1997680_wide.svg" width="410" alt="REFLEXIA Prototype ver.">
+<img src="actions/cache/steam/game_banners/perfected/3270680_wide.svg" width="410" alt="Kota`s New Journey">
+</p>
 <!--END_SECTION-->
 
 
