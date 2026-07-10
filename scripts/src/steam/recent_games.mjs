@@ -51,7 +51,7 @@ export async function recentGamesService(section) {
         await fs.writeFile(thin_svg_path, await makeThinCard(game), "utf-8");
 
         content.push('    <picture>');
-        content.push(`        <source media="(max-width: 1012px)" width="24.9%" srcset="${thin_svg_path}">`);
+        content.push(`        <source media="(max-width: 1061px)" width="24.5%" srcset="${thin_svg_path}">`);
         content.push(`        <img src="${wide_svg_path}" width="410" style="max-width: 100%; padding: 5px;" alt="${game.name}">`);
         content.push('    </picture>');
     }
