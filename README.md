@@ -112,6 +112,25 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Recent games
 <!-- START_SECTION: steam.recent_games -->
+<p>
+    <picture>
+        <source media="(max-width: 768px)" srcset="actions/cache/steam/game_banners/recent/1454400_wide.svg">
+        <img src="actions/cache/steam/game_banners/recent/1454400_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="Cookie Clicker">
+    </picture>
+    <picture>
+        <source media="(max-width: 768px)" srcset="actions/cache/steam/game_banners/recent/246620_wide.svg">
+        <img src="actions/cache/steam/game_banners/recent/246620_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="Plague Inc: Evolved">
+    </picture>
+    <picture>
+        <source media="(max-width: 768px)" srcset="actions/cache/steam/game_banners/recent/346010_wide.svg">
+        <img src="actions/cache/steam/game_banners/recent/346010_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="Besiege">
+    </picture>
+    <picture>
+        <source media="(max-width: 768px)" srcset="actions/cache/steam/game_banners/recent/250900_wide.svg">
+        <img src="actions/cache/steam/game_banners/recent/250900_wide.svg" width="410" style="max-width: 100%; padding: 5px;" alt="The Binding of Isaac: Rebirth">
+    </picture>
+</p>
+<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 ### Perfected games
