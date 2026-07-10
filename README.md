@@ -89,7 +89,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Away](https://steamcommunity.com/profiles/76561198434273671/)
+[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games
@@ -122,6 +122,11 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+<tr>
+</tr>
+</table>
+<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 
