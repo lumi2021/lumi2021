@@ -215,8 +215,8 @@ export async function makeThinCard(game) {
     // Hero image
     const hero_image = document.createElementNS(svgNS, "image");
         hero_image.setAttribute("href", image_cover);
-        hero_image.setAttribute("width", "460");
-        hero_image.setAttribute("height", "215");
+        hero_image.setAttribute("width", "600");
+        hero_image.setAttribute("height", "900");
         hero_image.setAttribute("preserveAspectRatio", "xMidYMid slice");
     svg.appendChild(hero_image);
 

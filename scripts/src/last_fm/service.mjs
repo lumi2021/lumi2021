@@ -119,11 +119,11 @@ async function lastFmTracksService(section) {
         const trackHLink = `<a href="${track_url}">${track_name}</a>`;
         const artistHLink = `<a href="${artist_url}">${artist_name}</a>`;
 
-        content.push('<p>');
+        content.push('<div style="clear: both; padding: 10px 0;">');
         content.push(`    <img src="${coverUrl}" width="75" align="left"/>`);
         content.push(`    <p><strong>${trackHLink}</strong> - ${artistHLink}</p>`);
         content.push(`    <p>${duration}</p>`);
-        content.push('</p>');
+        content.push('</div>');
     });
 
     content.push("");
