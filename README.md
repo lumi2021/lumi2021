@@ -111,11 +111,6 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
     <img src="actions/cache/steam/game_banners/recent/250900_wide.svg" width="410" alt="The Binding of Isaac: Rebirth">
   </td>
 </tr>
-<tr>
-  <td style="border: none; padding: 5px; background: transparent">
-    <img src="actions/cache/steam/game_banners/recent/431730_wide.svg" width="410" alt="Aseprite">
-  </td>
-</tr>
 </table>
 <p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
