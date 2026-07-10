@@ -112,7 +112,7 @@ capsule \
 hero \
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/library_hero.jpg"/>
 cover \
-<img src="undefined"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/library_600x900.jpg"/>
 logo \
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/logo.png"/>
 ![](actions/cache/steam/game_banners/255520.svg)
@@ -123,7 +123,7 @@ capsule \
 hero \
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/library_hero.jpg"/>
 cover \
-<img src="undefined"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/library_600x900.jpg"/>
 logo \
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/logo.png"/>
 ![](actions/cache/steam/game_banners/433340.svg)
@@ -134,7 +134,7 @@ capsule \
 hero \
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/library_hero.jpg"/>
 cover \
-<img src="undefined"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/library_600x900.jpg"/>
 logo \
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/logo.png"/>
 ![](actions/cache/steam/game_banners/1997680.svg)
@@ -145,7 +145,7 @@ capsule \
 hero \
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/library_hero.jpg"/>
 cover \
-<img src="undefined"/>
+<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/library_600x900.jpg"/>
 logo \
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/logo.png"/>
 ![](actions/cache/steam/game_banners/3270680.svg)
