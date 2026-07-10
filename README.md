@@ -105,58 +105,6 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
-### Asset Review for Viscera Cleanup Detail: Shadow Warrior
-<p><strong>Header:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/header.jpg" width="460" alt="Header"/>
-<p><strong>Capsule:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/capsule_231x87.jpg" width="231" alt="Capsule"/>
-<p><strong>Hero:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/library_hero.jpg" width="460" alt="Hero"/>
-<p><strong>Cover (Vertical):</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/library_600x900.jpg" width="200" alt="Cover"/>
-<p><strong>Logo:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/logo.png" width="200" alt="Logo"/>
-
-![](actions/cache/steam/game_banners/255520.svg)
-### Asset Review for Slime Rancher
-<p><strong>Header:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/header.jpg" width="460" alt="Header"/>
-<p><strong>Capsule:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/capsule_231x87.jpg" width="231" alt="Capsule"/>
-<p><strong>Hero:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/library_hero.jpg" width="460" alt="Hero"/>
-<p><strong>Cover (Vertical):</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/library_600x900.jpg" width="200" alt="Cover"/>
-<p><strong>Logo:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/logo.png" width="200" alt="Logo"/>
-
-![](actions/cache/steam/game_banners/433340.svg)
-### Asset Review for REFLEXIA Prototype ver.
-<p><strong>Header:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/header.jpg" width="460" alt="Header"/>
-<p><strong>Capsule:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/capsule_231x87.jpg" width="231" alt="Capsule"/>
-<p><strong>Hero:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/library_hero.jpg" width="460" alt="Hero"/>
-<p><strong>Cover (Vertical):</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/library_600x900.jpg" width="200" alt="Cover"/>
-<p><strong>Logo:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/logo.png" width="200" alt="Logo"/>
-
-![](actions/cache/steam/game_banners/1997680.svg)
-### Asset Review for Kota`s New Journey
-<p><strong>Header:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/header.jpg" width="460" alt="Header"/>
-<p><strong>Capsule:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/capsule_231x87.jpg" width="231" alt="Capsule"/>
-<p><strong>Hero:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/library_hero.jpg" width="460" alt="Hero"/>
-<p><strong>Cover (Vertical):</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/library_600x900.jpg" width="200" alt="Cover"/>
-<p><strong>Logo:</strong></p>
-<img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/logo.png" width="200" alt="Logo"/>
-
-![](actions/cache/steam/game_banners/3270680.svg)
 <!--END_SECTION-->
 
 
