@@ -71,7 +71,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R413JQF9)
 
 
-<!-- ## Musics I like -->
+## Songs I like
 <!-- START_SECTION: last_fm -->
 <p>
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
