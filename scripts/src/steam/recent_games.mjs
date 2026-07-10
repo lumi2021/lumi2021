@@ -1,4 +1,4 @@
-import { getConsumptionMode, getOwnedGames, getAchievements, validateAuth, formatPlaytime } from "./common.mjs";
+import { getConsumptionMode, getOwnedGames, validateAuth } from "./common.mjs";
 import fs from "node:fs/promises";
 import path from "path";
 
@@ -14,40 +14,25 @@ export async function recentGamesService(section) {
     const [USER_ID, API_KEY] = validateAuth();
     const cache_dir = process.env["CACHE_DIRECTORY"];
 
-    const owned = await getOwnedGames(USER_ID, API_KEY);
+    console.log("[Steam API] Loading recent games...");
+    
+    const ownedWithAchievements = await getOwnedGames(USER_ID, API_KEY);
 
-    const recent = owned
+    const recent = ownedWithAchievements
         .filter(g => (g.playtime_2weeks ?? 0) > 0)
         .sort((a, b) => (b.playtime_2weeks ?? 0) - (a.playtime_2weeks ?? 0))
-        .slice(0, 5)
-        .map(g => ({ ...g }));
-
-    let analyzedGames = 0;
-    for (const game of recent) {
-        game.playtime = formatPlaytime(game.playtime_2weeks);
-        game.image_header = `${game.appid}/header.jpg`;
-        game.image_capsule = `${game.appid}/capsule_231x87.jpg`;
-        game.image_hero = `${game.appid}/library_hero.jpg`;
-        game.image_cover = `${game.appid}/library_600x900.jpg`;
-        game.image_logo = `${game.appid}/logo.png`;
-
-        process.stdout.write(`\rGathering recent games' extra data `
-            + `[${analyzedGames++} of ${recent.length}] `
-            + `(${game.name})`);
-
-        try {
-
-            const ach = await getAchievements(game.appid, USER_ID, API_KEY);
-            const stats = ach?.playerstats;
-            if (!stats || stats.success == false) continue;
-            if (!stats?.success || !stats.achievements?.length) continue;
-
-            game.total_achievements = stats.achievements.length;
-            game.unlocked_achievements = stats.achievements.filter(a => a.achieved === 1).length;
-        }
-        catch { continue; }
-    }
-    process.stdout.write("\n");
+        .slice(0, 4)
+        .map(g => {
+            return {
+                ...g,
+                playtime: g.playtime_forever_hours, 
+                image_header: `${g.appid}/header.jpg`,
+                image_capsule: `${g.appid}/capsule_231x87.jpg`,
+                image_hero: `${g.appid}/library_hero.jpg`,
+                image_cover: `${g.appid}/library_600x900.jpg`,
+                image_logo: `${g.appid}/logo.png`,
+            };
+        });
 
     const banners_dir = path.join(cache_dir, "steam/game_banners/recent");
     await fs.rm(banners_dir, { recursive: true, force: true });

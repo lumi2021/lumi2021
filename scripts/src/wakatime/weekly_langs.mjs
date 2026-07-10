@@ -28,7 +28,7 @@ export async function weeklyLangs(section) {
         const percent = Number(e.percent) / 100;
 
         line += ('"' + truncate(e.name, 13) + '"').padEnd(16);
-        line += progressBar(percent, 20, levels) + " ";
+        line += progressBar(percent, 30, levels) + " ";
         line += e.text;
         
         content.push(line);
