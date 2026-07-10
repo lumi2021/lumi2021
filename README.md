@@ -114,7 +114,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/library_hero.jpg" width="460" alt="Hero"/>
 <p><strong>Cover (Vertical):</strong></p>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/library_600x900.jpg" width="200" alt="Cover"/>
-<p><strong>Logo (Pode falhar em jogos antigos):</strong></p>
+<p><strong>Logo:</strong></p>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/255520/logo.png" width="200" alt="Logo"/>
 ![](actions/cache/steam/game_banners/255520.svg)
 ### Asset Review for Slime Rancher
@@ -126,7 +126,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/library_hero.jpg" width="460" alt="Hero"/>
 <p><strong>Cover (Vertical):</strong></p>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/library_600x900.jpg" width="200" alt="Cover"/>
-<p><strong>Logo (Pode falhar em jogos antigos):</strong></p>
+<p><strong>Logo:</strong></p>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/433340/logo.png" width="200" alt="Logo"/>
 ![](actions/cache/steam/game_banners/433340.svg)
 ### Asset Review for REFLEXIA Prototype ver.
@@ -138,7 +138,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/library_hero.jpg" width="460" alt="Hero"/>
 <p><strong>Cover (Vertical):</strong></p>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/library_600x900.jpg" width="200" alt="Cover"/>
-<p><strong>Logo (Pode falhar em jogos antigos):</strong></p>
+<p><strong>Logo:</strong></p>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1997680/logo.png" width="200" alt="Logo"/>
 ![](actions/cache/steam/game_banners/1997680.svg)
 ### Asset Review for Kota`s New Journey
@@ -150,7 +150,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/library_hero.jpg" width="460" alt="Hero"/>
 <p><strong>Cover (Vertical):</strong></p>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/library_600x900.jpg" width="200" alt="Cover"/>
-<p><strong>Logo (Pode falhar em jogos antigos):</strong></p>
+<p><strong>Logo:</strong></p>
 <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3270680/logo.png" width="200" alt="Logo"/>
 ![](actions/cache/steam/game_banners/3270680.svg)
 <!--END_SECTION-->
