@@ -113,7 +113,6 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Recent games
 <!-- START_SECTION: steam.recent_games -->
-<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 ### Perfected games
