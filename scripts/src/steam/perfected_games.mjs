@@ -56,7 +56,7 @@ export async function perfectedGamesService(section) {
         await fs.writeFile(thin_svg_path, await makeThinCard(game), "utf-8");
 
         content.push('    <picture>');
-        content.push(`        <source media="(max-width: 1061px)" width="24%" srcset="${thin_svg_path}">`);
+        content.push(`        <source media="(max-width: 1061px)" width="21%" srcset="${thin_svg_path}">`);
         content.push(`        <source media="(min-width: 1061px)" width="49%" srcset="${wide_svg_path}">`);
         content.push(`        <img style="max-width: 100%; padding: 5px;" alt="${game.name}">`);
         content.push('    </picture>');
