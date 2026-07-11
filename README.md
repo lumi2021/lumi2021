@@ -31,7 +31,6 @@
 ![Ionic](https://img.shields.io/badge/Ionic-404040?style=for-the-badge&logo=Ionic)
 ![Node.js](https://img.shields.io/badge/node.js-404040?style=for-the-badge&logo=node.js) \
 ![OpenGL](https://img.shields.io/badge/OpenGL-606060?style=for-the-badge&logo=opengl)
-![Vulkan](https://img.shields.io/badge/Vulkan-606060?style=for-the-badge&logo=vulkan)
 ![x86_64 Assembly](https://img.shields.io/badge/Assembly-606060?style=for-the-badge&logo=intel)
 ![Bash](https://img.shields.io/badge/Bash-606060?style=for-the-badge&logo=GNU-bash)
 ![And +](https://img.shields.io/badge/And%20%2B-205020?style=for-the-badge)
@@ -41,6 +40,7 @@
 ## My Activity
 
 <!-- START_SECTION: github.activity -->
+- ✏️ Made 1 commit
 - 🎉 Merged pull request [#17](https://github.com/taijarals/lobo_ovelha_cacador/pull/17) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - 🎉 Merged pull request [#16](https://github.com/taijarals/lobo_ovelha_cacador/pull/16) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - ‼️ Opened pull request [#92](https://github.com/tgies/klattsch/issues/92) in [tgies/klattsch](https://github.com/tgies/klattsch)
@@ -50,18 +50,17 @@
 - ✏️ Made 6 commits
 - ❌ Closed pull request [#9](https://github.com/taijarals/lobo_ovelha_cacador/pull/9) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - ✏️ Made 2 commits
-- ✏️ Made 2 commits
 <!--END_SECTION-->
 
 <!-- START_SECTION: wakatime.weekly_langs -->
 ```rust
-Total Time: 21 hrs 19 mins
+Total Time: 26 hrs 21 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 13 hrs 21 mins
-- "Zig"           ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 hrs 36 mins
-- "JavaScript"    ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 57 mins
-- "IL"            ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 23 mins
-- "Text"          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 16 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 10 hrs 33 mins
+- "JavaScript"    ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 6 hrs 39 mins
+- "Zig"           ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 5 hrs 41 mins
+- "Markdown"      ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 2 mins
+- "GDScript3"     ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 46 mins
 ```
 <!--END_SECTION-->
 
@@ -74,32 +73,14 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ## Songs I like
 <!-- START_SECTION: last_fm -->
-<div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/Elio+Mei/_/Velcro">Velcro</a></strong> - <a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a></p>
-    <p>1:53</p>
-</div>
-<div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/Elio+Mei/_/Playing+Dead">Playing Dead</a></strong> - <a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a></p>
-    <p>4:47</p>
-</div>
-<div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">One Man Circus</a></strong> - <a href="https://www.last.fm/music/elio+mei">elio mei</a></p>
-    <p>5:49</p>
-</div>
-<div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/74/ee/96/74ee965f-63d4-bd1e-61bf-c24ce30cc4ff/artwork.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/August+Greenwood/_/How+To+Let+Go">How To Let Go</a></strong> - <a href="https://www.last.fm/music/August+Greenwood">August Greenwood</a></p>
-    <p>4:20</p>
-</div>
-<div style="clear: both; padding: 10px 0;">
-    <img src="https://raw.githubusercontent.com/lumi2021/lumi2021/refs/heads/main/scripts/assets/song-no-cover.png" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/Cavetown/_/I%27m+Low+on+Gas+and+You+Need+A+Jacket">I'm Low on Gas and You Need A Jacket</a></strong> - <a href="https://www.last.fm/music/Cavetown">Cavetown</a></p>
-    <p>—</p>
-</div>
-
+  <!--TEMPLATE {
+    id: '#',
+    track_cover: 'Cover',
+    track_link: 'Track',
+    track_artist_link: 'Artist',
+    track_duration: 'Duration',
+    times_listened: 'Times Listened',
+  } -->
 <!--END_SECTION-->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
 
@@ -108,7 +89,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
+[mew_mila (Camila) - Offline](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games
@@ -142,22 +123,22 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <!-- START_SECTION: steam.perfected_games -->
 <p>
     <picture>
-        <source media="(max-width: 1061px)" width="22%" srcset="actions/cache/steam/game_banners/perfected/255520_thin.svg">
+        <source media="(max-width: 1061px)" width="21%" srcset="actions/cache/steam/game_banners/perfected/255520_thin.svg">
         <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/perfected/255520_wide.svg">
         <img style="max-width: 100%; padding: 5px;" alt="Viscera Cleanup Detail: Shadow Warrior">
     </picture>
     <picture>
-        <source media="(max-width: 1061px)" width="22%" srcset="actions/cache/steam/game_banners/perfected/433340_thin.svg">
+        <source media="(max-width: 1061px)" width="21%" srcset="actions/cache/steam/game_banners/perfected/433340_thin.svg">
         <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/perfected/433340_wide.svg">
         <img style="max-width: 100%; padding: 5px;" alt="Slime Rancher">
     </picture>
     <picture>
-        <source media="(max-width: 1061px)" width="22%" srcset="actions/cache/steam/game_banners/perfected/1997680_thin.svg">
+        <source media="(max-width: 1061px)" width="21%" srcset="actions/cache/steam/game_banners/perfected/1997680_thin.svg">
         <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/perfected/1997680_wide.svg">
         <img style="max-width: 100%; padding: 5px;" alt="REFLEXIA Prototype ver.">
     </picture>
     <picture>
-        <source media="(max-width: 1061px)" width="22%" srcset="actions/cache/steam/game_banners/perfected/3270680_thin.svg">
+        <source media="(max-width: 1061px)" width="21%" srcset="actions/cache/steam/game_banners/perfected/3270680_thin.svg">
         <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/perfected/3270680_wide.svg">
         <img style="max-width: 100%; padding: 5px;" alt="Kota`s New Journey">
     </picture>
