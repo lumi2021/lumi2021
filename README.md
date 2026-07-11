@@ -108,29 +108,29 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Away](https://steamcommunity.com/profiles/76561198434273671/)
+[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games
 <!-- START_SECTION: steam.recent_games -->
 <picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_1454400_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_1454400_wide.svg">
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/1454400_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1454400_wide.svg">
     <img style="max-width: 100%; alt="Cookie Clicker">
 </picture>
 <picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_504230_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_504230_wide.svg">
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/504230_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/504230_wide.svg">
     <img style="max-width: 100%; alt="Celeste">
 </picture>
 <picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_431730_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_431730_wide.svg">
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/431730_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/431730_wide.svg">
     <img style="max-width: 100%; alt="Aseprite">
 </picture>
 <picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_1289310_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_1289310_wide.svg">
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/1289310_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1289310_wide.svg">
     <img style="max-width: 100%; alt="Helltaker">
 </picture>
 <p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
@@ -140,23 +140,23 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <!-- START_SECTION: steam.perfected_games -->
 <p>
 <picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_255520_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_255520_wide.svg">
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/255520_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/255520_wide.svg">
     <img style="max-width: 100%; alt="Viscera Cleanup Detail: Shadow Warrior">
 </picture>
 <picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_433340_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_433340_wide.svg">
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/433340_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/433340_wide.svg">
     <img style="max-width: 100%; alt="Slime Rancher">
 </picture>
 <picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_1997680_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_1997680_wide.svg">
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/1997680_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1997680_wide.svg">
     <img style="max-width: 100%; alt="REFLEXIA Prototype ver.">
 </picture>
 <picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_3270680_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_3270680_wide.svg">
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/3270680_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/3270680_wide.svg">
     <img style="max-width: 100%; alt="Kota`s New Journey">
 </picture>
 </p>
