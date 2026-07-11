@@ -113,6 +113,27 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Recent games
 <!-- START_SECTION: steam.recent_games -->
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_1454400_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_1454400_wide.svg">
+    <img style="max-width: 100%; alt="Cookie Clicker">
+</picture>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_504230_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_504230_wide.svg">
+    <img style="max-width: 100%; alt="Celeste">
+</picture>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_431730_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_431730_wide.svg">
+    <img style="max-width: 100%; alt="Aseprite">
+</picture>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_1289310_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_1289310_wide.svg">
+    <img style="max-width: 100%; alt="Helltaker">
+</picture>
+<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 ### Perfected games
