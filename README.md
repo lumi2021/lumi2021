@@ -118,6 +118,29 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
+<p>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_255520_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_255520_wide.svg">
+    <img style="max-width: 100%; alt="Viscera Cleanup Detail: Shadow Warrior">
+</picture>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_433340_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_433340_wide.svg">
+    <img style="max-width: 100%; alt="Slime Rancher">
+</picture>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_1997680_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_1997680_wide.svg">
+    <img style="max-width: 100%; alt="REFLEXIA Prototype ver.">
+</picture>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/generated/steam_game_card_3270680_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/generated/steam_game_card_3270680_wide.svg">
+    <img style="max-width: 100%; alt="Kota`s New Journey">
+</picture>
+</p>
+<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 
