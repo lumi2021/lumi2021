@@ -31,6 +31,7 @@
 ![Ionic](https://img.shields.io/badge/Ionic-404040?style=for-the-badge&logo=Ionic)
 ![Node.js](https://img.shields.io/badge/node.js-404040?style=for-the-badge&logo=node.js) \
 ![OpenGL](https://img.shields.io/badge/OpenGL-606060?style=for-the-badge&logo=opengl)
+![Vulkan](https://img.shields.io/badge/Vulkan-606060?style=for-the-badge&logo=opengl)
 ![x86_64 Assembly](https://img.shields.io/badge/Assembly-606060?style=for-the-badge&logo=intel)
 ![Bash](https://img.shields.io/badge/Bash-606060?style=for-the-badge&logo=GNU-bash)
 ![And +](https://img.shields.io/badge/And%20%2B-205020?style=for-the-badge)
