@@ -123,6 +123,7 @@ async function lastFmTracksService(section) {
         content.push(`    <img src="${coverUrl}" width="75" align="left"/>`);
         content.push(`    <p><strong>${trackHLink}</strong> - ${artistHLink}</p>`);
         content.push(`    <p>${duration}</p>`);
+        content.push(`    <br clear="left"/>`);
         content.push('</div>');
     });
 

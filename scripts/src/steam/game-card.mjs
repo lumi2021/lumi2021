@@ -278,7 +278,7 @@ async function makeThinCard(game) {
             badge_text = `🏆 ${Math.round(unlocked_percent * 100)}%`;
         }
         
-        if (badge_text == undefined) {
+        if (badge_text != undefined) {
             const textBadge = document.createElementNS(svgNS, "text");
                 textBadge.setAttribute("x", "590");
                 textBadge.setAttribute("y", "870");
