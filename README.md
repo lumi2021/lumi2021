@@ -41,6 +41,7 @@
 ## My Activity
 
 <!-- START_SECTION: github.activity -->
+- ✏️ Made 1 commit
 - 🎉 Merged pull request [#17](https://github.com/taijarals/lobo_ovelha_cacador/pull/17) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - 🎉 Merged pull request [#16](https://github.com/taijarals/lobo_ovelha_cacador/pull/16) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - ‼️ Opened pull request [#92](https://github.com/tgies/klattsch/issues/92) in [tgies/klattsch](https://github.com/tgies/klattsch)
@@ -50,18 +51,17 @@
 - ✏️ Made 6 commits
 - ❌ Closed pull request [#9](https://github.com/taijarals/lobo_ovelha_cacador/pull/9) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - ✏️ Made 2 commits
-- ✏️ Made 2 commits
 <!--END_SECTION-->
 
 <!-- START_SECTION: wakatime.weekly_langs -->
 ```rust
-Total Time: 21 hrs 19 mins
+Total Time: 26 hrs 30 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 13 hrs 21 mins
-- "Zig"           ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 hrs 36 mins
-- "JavaScript"    ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 57 mins
-- "IL"            ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 23 mins
-- "Text"          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 16 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 10 hrs 35 mins
+- "JavaScript"    ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 6 hrs 41 mins
+- "Zig"           ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 5 hrs 41 mins
+- "Markdown"      ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 2 mins
+- "GDScript"      ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 46 mins
 ```
 <!--END_SECTION-->
 
@@ -90,14 +90,14 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
     <p>5:49</p>
 </div>
 <div style="clear: both; padding: 10px 0;">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
+    <p><strong><a href="https://www.last.fm/music/elio+mei/_/Speak+Of+The+Devil">Speak Of The Devil</a></strong> - <a href="https://www.last.fm/music/elio+mei">elio mei</a></p>
+    <p>1:29</p>
+</div>
+<div style="clear: both; padding: 10px 0;">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/74/ee/96/74ee965f-63d4-bd1e-61bf-c24ce30cc4ff/artwork.jpg/60x60bb.jpg" width="75" align="left"/>
     <p><strong><a href="https://www.last.fm/music/August+Greenwood/_/How+To+Let+Go">How To Let Go</a></strong> - <a href="https://www.last.fm/music/August+Greenwood">August Greenwood</a></p>
     <p>4:20</p>
-</div>
-<div style="clear: both; padding: 10px 0;">
-    <img src="https://raw.githubusercontent.com/lumi2021/lumi2021/refs/heads/main/scripts/assets/song-no-cover.png" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/Cavetown/_/I%27m+Low+on+Gas+and+You+Need+A+Jacket">I'm Low on Gas and You Need A Jacket</a></strong> - <a href="https://www.last.fm/music/Cavetown">Cavetown</a></p>
-    <p>—</p>
 </div>
 
 <!--END_SECTION-->
@@ -108,59 +108,57 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Offline](https://steamcommunity.com/profiles/76561198434273671/)
+[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games
 <!-- START_SECTION: steam.recent_games -->
-<p>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/recent/1454400_thin.svg">
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/recent/1454400_wide.svg">
-        <img style="max-width: 100%; padding: 5px;" alt="Cookie Clicker">
-    </picture>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/recent/246620_thin.svg">
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/recent/246620_wide.svg">
-        <img style="max-width: 100%; padding: 5px;" alt="Plague Inc: Evolved">
-    </picture>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/recent/346010_thin.svg">
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/recent/346010_wide.svg">
-        <img style="max-width: 100%; padding: 5px;" alt="Besiege">
-    </picture>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/recent/250900_thin.svg">
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/recent/250900_wide.svg">
-        <img style="max-width: 100%; padding: 5px;" alt="The Binding of Isaac: Rebirth">
-    </picture>
-</p>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/1454400_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1454400_wide.svg">
+    <img style="max-width: 100%; alt="Cookie Clicker">
+</picture>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/504230_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/504230_wide.svg">
+    <img style="max-width: 100%; alt="Celeste">
+</picture>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/431730_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/431730_wide.svg">
+    <img style="max-width: 100%; alt="Aseprite">
+</picture>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/1289310_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1289310_wide.svg">
+    <img style="max-width: 100%; alt="Helltaker">
+</picture>
 <p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
 <p>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/perfected/255520_thin.svg">
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/perfected/255520_wide.svg">
-        <img style="max-width: 100%; padding: 5px;" alt="Viscera Cleanup Detail: Shadow Warrior">
-    </picture>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/perfected/433340_thin.svg">
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/perfected/433340_wide.svg">
-        <img style="max-width: 100%; padding: 5px;" alt="Slime Rancher">
-    </picture>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/perfected/1997680_thin.svg">
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/perfected/1997680_wide.svg">
-        <img style="max-width: 100%; padding: 5px;" alt="REFLEXIA Prototype ver.">
-    </picture>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam/game_banners/perfected/3270680_thin.svg">
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam/game_banners/perfected/3270680_wide.svg">
-        <img style="max-width: 100%; padding: 5px;" alt="Kota`s New Journey">
-    </picture>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/433340_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/433340_wide.svg">
+    <img style="max-width: 100%; alt="Slime Rancher">
+</picture>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/255520_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/255520_wide.svg">
+    <img style="max-width: 100%; alt="Viscera Cleanup Detail: Shadow Warrior">
+</picture>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/1997680_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1997680_wide.svg">
+    <img style="max-width: 100%; alt="REFLEXIA Prototype ver.">
+</picture>
+<picture>
+    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/3270680_thin.svg">
+    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/3270680_wide.svg">
+    <img style="max-width: 100%; alt="Kota`s New Journey">
+</picture>
 </p>
 <p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
