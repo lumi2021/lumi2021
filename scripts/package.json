@@ -1,11 +1,17 @@
 {
   "name": "lumi_workflows",
   "version": "1.0.0",
+  "author": "lumi2021",
+  "license": "MIT",
   "description": "Cool workflows for customizing your github README",
+
   "main": "src/index.mjs",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "lumi2021",
-  "license": "MIT"
+
+  "imports": {
+    "#global": "./src/global.mjs"
+  }
 }

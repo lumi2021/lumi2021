@@ -1,15 +1,46 @@
+import fs from 'node:fs/promises';
+import { existsSync } from 'node:fs';
+import path from 'node:path';
 import { JSDOM } from 'jsdom';
 import prettier from 'prettier';
 import xmlPlugin from '@prettier/plugin-xml';
 
+import global from "#global";
 
-export async function makeWideCard(game) {
+const badge_bad_color = '#cc0000';
+const badge_good_color = '#4CAF50';
+const badge_meh_color = '#555555';
+
+
+export async function getResponsiveCard(game) {
+    const cache_dir = global.cache_directory;
+    const github_article_max_px = 1061;
+
+    const wide_svg_path = path.join(cache_dir, `${game.appid}_wide.svg`);
+    const thin_svg_path = path.join(cache_dir, `${game.appid}_thin.svg`);
+
+    // Only one needs to be checked as both are created as pairs
+    if (!existsSync(wide_svg_path)) {
+        await fs.writeFile(wide_svg_path, await makeWideCard(game), "utf-8");
+        await fs.writeFile(thin_svg_path, await makeThinCard(game), "utf-8");
+    }
+
+    return [
+        '<picture>',
+        `    <source media="(max-width: ${github_article_max_px}px" width="24%" srcset="${thin_svg_path}">`,
+        `    <source media="(min-width: ${github_article_max_px}px)" width="49%" srcset="${wide_svg_path}">`,
+        `    <img style="max-width: 100%; alt="${game.name}">`,
+        '</picture>'
+    ];
+}
+
+async function makeWideCard(game) {
     const dom = new JSDOM(`<!DOCTYPE html><body></body>`);
     const document = dom.window.document;
     const svgNS = "http://www.w3.org/2000/svg";
 
-    const [image_hero] = await imageToBase64(`https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/${game.image_hero}`);
-    const [image_logo, image_logo_w, image_logo_h] = await imageToBase64(`https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/${game.image_logo}`);
+    const [image_hero] = await imageToBase64(game.images.hero);
+    const [image_logo, image_logo_w, image_logo_h] = await imageToBase64(game.images.logo);
 
     const canvas_width = 460;
     const canvas_height = 215;
@@ -84,7 +115,7 @@ export async function makeWideCard(game) {
 
     
     // Time played
-    const playtime_text = game.playtime.time || "0h 0m";
+    const playtime_text = game.playtime.time || '0h 0min';
     const playtime_pill_width = 65 + playtime_text.length * 8;
 
     const rectPlaytime = document.createElementNS(svgNS, "rect");
@@ -109,24 +140,17 @@ export async function makeWideCard(game) {
 
     // Badge
     {
-        const bad_color = '#cc0000';
-        const good_color = '#4CAF50';
-        const meh_color = '#555555';
-
         let badge_color = '#000000';
         let badge_text = 0;
 
-        const total_achiev = game.total_achievements;
-        const unlock_achiev = game.unlocked_achievements;
-
-        if (total_achiev == undefined || unlock_achiev == undefined) {
-            badge_color = meh_color;
+        const unlocked_percent = getAchievementPercent(game);
+        if (!unlocked_percent) {
+            badge_color = badge_meh_color;
             badge_text = "NA";
         }
         else {
-            const achiev_percent = unlock_achiev / total_achiev;
-            badge_text = `🏆 ${Math.round(achiev_percent * 100)}%`;
-            badge_color = lerpColor(bad_color, good_color, achiev_percent);
+            badge_text = `🏆 ${Math.round(unlocked_percent * 100)}%`;
+            badge_color = lerpColor(badge_bad_color, badge_good_color, unlocked_percent);
         }
         
         const rectBadge = document.createElementNS(svgNS, "rect");
@@ -163,12 +187,12 @@ export async function makeWideCard(game) {
         useTabs: true
     });
 }
-export async function makeThinCard(game) {
+async function makeThinCard(game) {
     const dom = new JSDOM(`<!DOCTYPE html><body></body>`);
     const document = dom.window.document;
     const svgNS = "http://www.w3.org/2000/svg";
 
-    const [image_cover] = await imageToBase64(`https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/${game.image_cover}`);
+    const [image_cover] = await imageToBase64(game.images.cover);
     const canvas_width = 600;
     const canvas_height = 900;
 
@@ -188,7 +212,7 @@ export async function makeThinCard(game) {
     linearGradient.setAttribute("y2", "1");
 
     const stop1 = document.createElementNS(svgNS, "stop");
-    stop1.setAttribute("offset", "0%");
+    stop1.setAttribute("offset", "50%");
     stop1.setAttribute("stop-color", "transparent");
 
     const stop2 = document.createElementNS(svgNS, "stop");
@@ -229,13 +253,13 @@ export async function makeThinCard(game) {
 
 
     // Time played
-    const playtime_text = game.playtime.time || "0h 0m";
+    const playtime_text = game.playtime.time || '0min';;
 
     const textPlaytime = document.createElementNS(svgNS, "text");
         textPlaytime.setAttribute("x", "10");
         textPlaytime.setAttribute("y", "870");
         textPlaytime.setAttribute("fill", "#ffffff");
-        textPlaytime.setAttribute("font-size", "64");
+        textPlaytime.setAttribute("font-size", "50");
         textPlaytime.setAttribute("font-weight", "600");
         textPlaytime.setAttribute("text-anchor", "start");
         textPlaytime.setAttribute("font-family", "system-ui, -apple-system, sans-serif");
@@ -244,36 +268,28 @@ export async function makeThinCard(game) {
 
     // Badge
     {
-        const bad_color = '#cc0000';
-        const good_color = '#4CAF50';
-        const meh_color = '#555555';
+        let badge_text;
 
-        let badge_color = '#000000';
-        let badge_text = 0;
-
-        const total_achiev = game.total_achievements;
-        const unlock_achiev = game.unlocked_achievements;
-
-        if (total_achiev == undefined || unlock_achiev == undefined) {
-            badge_color = meh_color;
-            badge_text = "NA";
+        const unlocked_percent = getAchievementPercent(game);
+        if (!unlocked_percent) {
+            badge_text = undefined;
         }
         else {
-            const achiev_percent = unlock_achiev / total_achiev;
-            badge_text = `🏆 ${Math.round(achiev_percent * 100)}%`;
-            badge_color = lerpColor(bad_color, good_color, achiev_percent);
+            badge_text = `🏆 ${Math.round(unlocked_percent * 100)}%`;
         }
         
-        const textBadge = document.createElementNS(svgNS, "text");
-            textBadge.setAttribute("x", "590");
-            textBadge.setAttribute("y", "870");
-            textBadge.setAttribute("fill", "white");
-            textBadge.setAttribute("font-size", "64");
-            textBadge.setAttribute("font-weight", "bold");
-            textBadge.setAttribute("text-anchor", "end");
-            textPlaytime.setAttribute("font-family", "system-ui, -apple-system, sans-serif");
-            textBadge.textContent = badge_text;
-        svg.appendChild(textBadge);
+        if (badge_text == undefined) {
+            const textBadge = document.createElementNS(svgNS, "text");
+                textBadge.setAttribute("x", "590");
+                textBadge.setAttribute("y", "870");
+                textBadge.setAttribute("fill", "white");
+                textBadge.setAttribute("font-size", "50");
+                textBadge.setAttribute("font-weight", "bold");
+                textBadge.setAttribute("text-anchor", "end");
+                textBadge.setAttribute("font-family", "system-ui, -apple-system, sans-serif");
+                textBadge.textContent = badge_text;
+            svg.appendChild(textBadge);
+        }
     }
 
 
@@ -290,7 +306,13 @@ export async function makeThinCard(game) {
     });
 }
 
-export function escapeXml(unsafe) {
+
+function getAchievementPercent(game) {
+    if (game.all_achievements.length == 0) return null;
+    return game.unlocked_achievements.length / game.all_achievements.length;
+}
+
+function escapeXml(unsafe) {
     return unsafe.replace(/[<>&'"]/g, (c) => {
         switch (c) {
             case '<': return '&lt;';
@@ -330,7 +352,7 @@ async function imageToBase64(url) {
                 i++;
             }
         }
-        else throw Error(`Unknown image format ${mimeType}`);
+        else throw Error(`Unknown image format ${mimeType} from url '${url}'`);
 
         const data = `data:${mimeType};base64,${buffer.toString('base64')}`;
 
