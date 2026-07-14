@@ -26,10 +26,10 @@ this is a test
 [tq language compiler](https://github.com/tqlang/tq-compiler)
 
 ## Randomness About Me
--- 
--- 
--- 
--- 
+-🔭 Currently working on a [compiler](https://github.com/tqlang/tq-compiler) and an [operating system](https://github.com/Anthragon/Distribution)
+-🌱 Breathing
+-📫 Talk with me in my Discord DM ([@lumi_nya](https://discordapp.com/users/632992487375634432))
+-😄 Pronouns: She / Her
 
 <!-- Unhandled html -->
 <!-- Unhandled html -->
