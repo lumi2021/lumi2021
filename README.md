@@ -1,7 +1,7 @@
 
 <picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?color=cfcfcf">
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?color=00000">
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=%0AWelcome%21%0AI%27m+Camila%2C+a+19y+old+programming+enthusiast%0AI+write+code+%3A%29%0A&color=cfcfcf">
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=%0AWelcome%21%0AI%27m+Camila%2C+a+19y+old+programming+enthusiast%0AI+write+code+%3A%29%0A&color=00000">
    <img draggable="false" width="100%">
 </picture>
 
