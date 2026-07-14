@@ -1,6 +1,6 @@
-> Test
-> Test
-> Test
+# Test
+## Test
+### Test
 <!-- Unhandled -->
 > This is a test
 ```js
@@ -13,24 +13,24 @@ const test = this()
    <img draggable="false" width="100%">
 </picture>
 <!-- Unhandled -->
-> Randomness About Me
+## Randomness About Me
 <!-- Unhandled -->
 <!-- Unhandled -->
 <!-- Unhandled -->
 <!-- Unhandled -->
 <!-- Unhandled -->
-> My Activity
+## My Activity
 <!-- Invalid HTML element 'github' -->
 <!-- Unhandled -->
-> Songs I like
+## Songs I like
 <!-- Unhandled -->
-> Socials
-> Steam
+## Socials
+### Steam
 <!-- Unhandled -->
-> Recent games
+### Recent games
 <!-- Invalid HTML element 'steam' -->
-> Perfected games
+### Perfected games
 <!-- Invalid HTML element 'steam' -->
-> Others
+### Others
 <!-- Unhandled -->
 > Thanks for read :p
