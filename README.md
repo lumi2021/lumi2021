@@ -2,7 +2,7 @@
 <picture>
    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=700&height=78&font=Fira+Code&size=12&duration=2000&pause=300&repeat=false&vCenter=true&center=false&color=000000">
    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=700&height=78&font=Fira+Code&size=12&duration=2000&pause=300&repeat=false&vCenter=true&center=false&color=cfcfcf">
-   <img draggable="false" width="100%">
+   <img draggable="false" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=700&height=78&font=Fira+Code&size=12&duration=2000&pause=300&repeat=false&vCenter=true&center=false&color=cfcfcf">
 </picture>
 
 > please give a look on my last projects: \
