@@ -6,9 +6,9 @@
 
 > please give a look on my last projects: \
 <!--
-Error: Node 'link' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
-    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:69:23)
+Error: Node 'break' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:70:19)
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:78:23)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:38:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
@@ -18,7 +18,7 @@ Error: Node 'link' not implemented!
 -->
 <!--
 Error: Node 'heading' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:70:19)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -27,7 +27,7 @@ Error: Node 'heading' not implemented!
 -->
 <!--
 Error: Node 'list' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:70:19)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -35,8 +35,9 @@ Error: Node 'list' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -44,8 +45,9 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -53,8 +55,9 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -62,8 +65,9 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -71,8 +75,9 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -80,64 +85,9 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<br />
-
-<!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -147,8 +97,9 @@ Error: Node 'image' not implemented!
 <br />
 
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -156,8 +107,9 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -165,8 +117,39 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
+-->
+<!--
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
+-->
+<!--
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
+-->
+<!--
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -176,8 +159,9 @@ Error: Node 'image' not implemented!
 <br />
 
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -185,8 +169,9 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -194,8 +179,21 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
+-->
+<br />
+
+<!--
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -203,8 +201,9 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -212,8 +211,29 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'image' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
+-->
+<!--
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
+-->
+<!--
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -222,7 +242,7 @@ Error: Node 'image' not implemented!
 -->
 <!--
 Error: Node 'heading' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:70:19)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -231,8 +251,8 @@ Error: Node 'heading' not implemented!
 -->
 <!--
 Error: Node 'break' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
-    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:69:23)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:70:19)
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:78:23)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:38:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
@@ -242,7 +262,7 @@ Error: Node 'break' not implemented!
 -->
 <!--
 Error: Node 'heading' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:70:19)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -250,19 +270,21 @@ Error: Node 'heading' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'link' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
-    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:69:23)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:78:23)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:21)
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:78:23)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:38:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
     at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
 Error: Node 'heading' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:70:19)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -271,7 +293,7 @@ Error: Node 'heading' not implemented!
 -->
 <!--
 Error: Node 'heading' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:70:19)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -280,7 +302,7 @@ Error: Node 'heading' not implemented!
 -->
 <!--
 Error: Node 'heading' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:70:19)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -289,7 +311,7 @@ Error: Node 'heading' not implemented!
 -->
 <!--
 Error: Node 'heading' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:70:19)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -298,7 +320,7 @@ Error: Node 'heading' not implemented!
 -->
 <!--
 Error: Node 'heading' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:70:19)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -306,14 +328,16 @@ Error: Node 'heading' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <!--
-Error: Node 'link' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
-    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:69:23)
+TypeError: nodes is not iterable
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:77:21)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:50:22)
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:78:23)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:21)
+    at compileAstNodesLine (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:78:23)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:38:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:11:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
     at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 > Thanks for read :p
