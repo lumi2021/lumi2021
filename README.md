@@ -1,8 +1,8 @@
 
 <picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=500&height=78&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=000000">
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=500&height=78&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=cfcfcf">
-   <img draggable="false" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=500&height=78&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=cfcfcf">
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=500&height=78&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&background=ff0000&color=000000">
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=500&height=78&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&background=ff0000&color=cfcfcf">
+   <img draggable="false" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=500&height=78&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&background=ff0000&color=cfcfcf">
 </picture>
 
 > please give a look on my last projects: \
