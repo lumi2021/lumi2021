@@ -15,7 +15,7 @@ const test = this()
    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?color=00000">
    <img draggable="false" width="100%">
 </picture>
-<!-- Unhandled break -->
+> please give a look on my last projects: \[zig library for building disk images](undefined) \[tq language compiler](undefined)
 ## Randomness About Me
 <!-- Unhandled listItem -->
 <!-- Unhandled html -->
