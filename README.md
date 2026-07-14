@@ -1,7 +1,10 @@
 # Test
 ## Test
 ### Test
-<!-- Unhandled emphasis -->
+This is **a test**
+This is **a test**
+This is _a_ test
+This is _a_ test
 > This is a test
 ```js
 const test = this()
