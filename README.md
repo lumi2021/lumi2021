@@ -5,7 +5,9 @@
 </picture>
 > please give a look on my last projects: \
 [null](https://github.com/lumi2021/image-builder) \[null](https://github.com/tqlang/tq-compiler)
+
 ## Randomness About Me
+
 - 🔭 Currently working on a [null](https://github.com/tqlang/tq-compiler) and an [null](https://github.com/Anthragon/Distribution)
 - 🌱 Breathing
 - 📫 Talk with me in my Discord DM ([null](https://discordapp.com/users/632992487375634432))
@@ -33,19 +35,33 @@
 ![x86_64 Assembly](https://img.shields.io/badge/x86_64%20Assembly-606060?style=for-the-badge&logo=intel)
 ![Bash](https://img.shields.io/badge/Bash-606060?style=for-the-badge&logo=GNU-bash)
 ![And +](https://img.shields.io/badge/And%20%2B-205020?style=for-the-badge&logo=)
+
 ## My Activity
+
 <!-- error: function () { [native code] } -->
 <!-- error: function () { [native code] } -->
 Support my work, buy me a coffee! \[null](https://ko-fi.com/R5R413JQF9)
+
 ## Songs I like
+
 <!-- error: function () { [native code] } -->
 [null](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
+
 ## Socials
+
+
 ### Steam
+
+
 ### Recent games
+
 <!-- error: function () { [native code] } -->
+
 ### Perfected games
+
 <!-- error: function () { [native code] } -->
+
 ### Others
+
 [null](https://discordapp.com/users/632992487375634432)\[null](https://www.linkedin.com/in/leoaraujodev)\[null](https://www.threads.com/@42batata42)
 > Thanks for read :p
