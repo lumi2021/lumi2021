@@ -1,5 +1,10 @@
 
-<!-- Cannot access 'lines' before initialization -->
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=700&height=127&font=Fira+Code&size=12&duration=2000&pause=300&repeat=false&color=cfcfcf">
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=700&height=127&font=Fira+Code&size=12&duration=2000&pause=300&repeat=false&color=00000">
+   <img draggable="false" width="100%">
+</picture>
+
 > please give a look on my last projects: \
 [zig library for building disk images](https://github.com/lumi2021/image-builder) \
 [tq language compiler](https://github.com/tqlang/tq-compiler)
