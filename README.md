@@ -17,7 +17,7 @@ const test = this()
 </picture>
 > please give a look on my last projects: \[zig library for building disk images](undefined) \[tq language compiler](undefined)
 ## Randomness About Me
-<!-- Unhandled listItem -->
+- 🔭 Currently working on a [compiler](undefined) and an [operating system](undefined)- 🌱 Breathing- 📫 Talk with me in my Discord DM ([@lumi_nya](undefined))- 😄 Pronouns: She / Her
 <!-- Unhandled html -->
 <!-- Unhandled html -->
 <!-- Unhandled html -->
