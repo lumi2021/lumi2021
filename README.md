@@ -3,6 +3,7 @@
     <source  media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21&multiline=true&width=250&height=18&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=cfcfcf"/>
     <img  draggable="false" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21&multiline=true&width=250&height=18&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=cfcfcf"/>
 </picture>
+
 > please give a look on my last projects: \
 <!--
 Error: Node 'link' not implemented!
@@ -88,6 +89,7 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <br />
+
 <!--
 Error: Node 'image' not implemented!
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
@@ -143,6 +145,7 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <br />
+
 <!--
 Error: Node 'image' not implemented!
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
@@ -171,6 +174,7 @@ Error: Node 'image' not implemented!
     at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
 -->
 <br />
+
 <!--
 Error: Node 'image' not implemented!
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:62:19)
