@@ -48,7 +48,7 @@
 <github type="activity"/>
 <wakatime type="weekly"/>
 
-Support my work, buy me a coffee!
+Support my work, buy me a coffee! \
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R413JQF9)
 
 
