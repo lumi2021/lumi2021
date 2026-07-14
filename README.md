@@ -11,8 +11,6 @@ const test = this()
 ```
 <!-- element_node.children is not iterable -->
 
-
-
 <picture>
    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?color=cfcfcf">
    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?color=00000">
@@ -28,7 +26,6 @@ const test = this()
 <!-- Unhandled html -->
 <!-- Unhandled html -->
 <!-- Unhandled html -->
-
 
 ## My Activity
 <!-- Invalid HTML element 'github' -->
