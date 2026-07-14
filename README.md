@@ -1,7 +1,7 @@
 
 <picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%0AI+write+code+%3A%29&multiline=true&color=cfcfcf">
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%0AI+write+code+%3A%29&multiline=true&color=00000">
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%0AI+write+code+%3A%29&multiline=true&size=12&width=700&height=500&color=cfcfcf">
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%0AI+write+code+%3A%29&multiline=true&size=12&width=700&height=500&color=00000">
    <img draggable="false" width="100%">
 </picture>
 
