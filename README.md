@@ -1,7 +1,7 @@
 
 <picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=700&height=90&font=Fira+Code&size=12&duration=2000&pause=300&repeat=false&color=cfcfcf">
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=700&height=90&font=Fira+Code&size=12&duration=2000&pause=300&repeat=false&color=00000">
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=700&height=90&font=Fira+Code&size=12&duration=2000&pause=300&repeat=false&vCenter=true&hCenter=false&color=cfcfcf">
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=700&height=90&font=Fira+Code&size=12&duration=2000&pause=300&repeat=false&vCenter=true&hCenter=false&color=00000">
    <img draggable="false" width="100%">
 </picture>
 
