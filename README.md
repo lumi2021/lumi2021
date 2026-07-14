@@ -1,3 +1,10 @@
+<!-- element_node is not defined -->
+<!-- element_node is not defined -->
+<!-- element_node is not defined -->
+<!-- Unknown AST node 'paragraph' -->
+<!-- element_node is not defined -->
+<!-- Unknown AST node 'code' -->
+<!-- Unknown AST node 'paragraph' -->
 <!-- htmlParser is not defined -->
 <!-- htmlParser is not defined -->
 <!-- element_node is not defined -->
