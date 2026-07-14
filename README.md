@@ -60,7 +60,7 @@ Support my work, buy me a coffee! \
 ## Socials
 
 ### Steam
-<steam type="profile">[{username} ({name}) - {status}]({profile_url})</steam>
+<!-- <steam type="profile">[{username} ({name}) - {status}]({profile_url})</steam> -->
 
 ### Recent games
 <steam type="recent_games">
