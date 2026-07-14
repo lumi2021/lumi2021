@@ -29,9 +29,9 @@ const test = this()
 
 ## My Activity
 <!-- Invalid HTML element 'github' -->
-<!-- Unhandled image -->
+<!-- element_node.children is not iterable -->
 ## Songs I like
-<!-- Unhandled image -->
+<!-- element_node.children is not iterable -->
 ## Socials
 ### Steam
 <!-- Unhandled html -->
@@ -40,5 +40,5 @@ const test = this()
 ### Perfected games
 <!-- Invalid HTML element 'steam' -->
 ### Others
-<!-- Unhandled image -->
+<!-- element_node.children is not iterable -->
 > Thanks for read :p
