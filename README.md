@@ -21,11 +21,9 @@ const test = this()
 <!-- Unhandled html -->
 ## My Activity
 <!-- Invalid HTML element 'github' -->
-Support my work, buy me a coffee!
-![undefined]()
+<!-- Unhandled image -->
 ## Songs I like
-<last_fm/>
-![undefined]()
+<!-- Unhandled image -->
 ## Socials
 ### Steam
 <!-- Unhandled html -->
@@ -34,7 +32,5 @@ Support my work, buy me a coffee!
 ### Perfected games
 <!-- Invalid HTML element 'steam' -->
 ### Others
-![undefined]()
-![undefined]()
-![undefined]()
+<!-- Unhandled image -->
 > Thanks for read :p
