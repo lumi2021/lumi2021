@@ -1,12 +1,9 @@
 
 # Test
 
-#
-# Test
+## Test
 
-#
-#
-# Test
+### Test
 This is **a test**
 This is **a test**
 This is _a_ test
@@ -28,8 +25,7 @@ this is a test
 [zig library for building disk images](https://github.com/lumi2021/image-builder) \
 [tq language compiler](https://github.com/tqlang/tq-compiler)
 
-#
-# Randomness About Me
+## Randomness About Me
 - 🔭 Currently working on a [compiler](https://github.com/tqlang/tq-compiler) and an [operating system](https://github.com/Anthragon/Distribution)- 🌱 Breathing- 📫 Talk with me in my Discord DM ([@lumi_nya](https://discordapp.com/users/632992487375634432))- 😄 Pronouns: She / Her
 <!-- Unhandled html -->
 <!-- Unhandled html -->
@@ -37,35 +33,24 @@ this is a test
 <!-- Unhandled html -->
 
 
-#
-# My Activity
+## My Activity
 <!-- Invalid HTML element 'github' -->
 <!-- element_node.children is not iterable -->
 
-#
-# Songs I like
+## Songs I like
 <!-- element_node.children is not iterable -->
 
-#
-# Socials
+## Socials
 
-#
-#
-# Steam
+### Steam
 <!-- Unhandled html -->
 
-#
-#
-# Recent games
+### Recent games
 <!-- Invalid HTML element 'steam' -->
 
-#
-#
-# Perfected games
+### Perfected games
 <!-- Invalid HTML element 'steam' -->
 
-#
-#
-# Others
+### Others
 <!-- element_node.children is not iterable -->
 > Thanks for read :p
