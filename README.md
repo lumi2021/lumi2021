@@ -5,8 +5,8 @@
 [object Promise]
 [object Promise]
 [object Promise]
-<!-- Cannot `parse` without `parser` -->
-<!-- Cannot `parse` without `parser` -->
+<!-- htmlParser is not defined -->
+<!-- htmlParser is not defined -->
 [object Promise]
 [object Promise]
 [object Promise]
@@ -14,19 +14,19 @@
 [object Promise]
 [object Promise]
 [object Promise]
-<!-- Cannot `parse` without `parser` -->
+<!-- htmlParser is not defined -->
 [object Promise]
-<!-- Cannot `parse` without `parser` -->
-[object Promise]
-[object Promise]
+<!-- htmlParser is not defined -->
 [object Promise]
 [object Promise]
 [object Promise]
 [object Promise]
 [object Promise]
-<!-- Cannot `parse` without `parser` -->
 [object Promise]
-<!-- Cannot `parse` without `parser` -->
+[object Promise]
+<!-- htmlParser is not defined -->
+[object Promise]
+<!-- htmlParser is not defined -->
 [object Promise]
 [object Promise]
 [object Promise]
