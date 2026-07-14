@@ -4,91 +4,91 @@
 [object Object]
 > please give a look on my last projects: \
 [object Object]
-<-- error: Error -->   <-- error: Error --> <-- error: Error -->
+<!-- Error:   <!-- Error: <!-- Error:
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error -->
-[object Object]
-<br />
-[object Object]
-<-- error: Error -->
-[object Object]
-<-- error: Error -->
-[object Object]
-<-- error: Error -->
-[object Object]
-<-- error: Error -->
-[object Object]
-<-- error: Error -->
-[object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
 <br />
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
+[object Object]
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
+[object Object]
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
+[object Object]
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
 <br />
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error -->
+<br />
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-
-[object Object]
-Support my work, buy me a coffee!  <-- error: Error --> <-- error: Error -->
-[object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
 
 [object Object]
-<-- error: Error -->
-[object Object]
-<-- error: Error -->
-[object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
 
 [object Object]
-<-- error: Error -->
+
+[object Object]
+Support my work, buy me a coffee!  <!-- Error: <!-- Error:
+[object Object]
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
 
 [object Object]
-<-- error: Error -->
+<!-- Error:
+[object Object]
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
+[object Object]
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
 
 [object Object]
-<-- error: Error -->
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
 [object Object]
-<-- error: Error --> <-- error: Error --> <-- error: Error --> <-- error: Error --> <-- error: Error -->
+
+[object Object]
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
+[object Object]
+
+[object Object]
+<!-- Error:,,Error,    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:46:28),    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:6:22),    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12),    at process.processTicksAndRejections (node:internal/process/task_queues:103:5),    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32),    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1,-->
+[object Object]
+<!-- Error: <!-- Error: <!-- Error: <!-- Error: <!-- Error:
 [object Object]
 > Thanks for read :p
 [object Object]
