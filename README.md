@@ -1,12 +1,12 @@
 # Test
 ## Test
 ### Test
-<!-- Unhandled strong -->
+<!-- Unhandled emphasis -->
 > This is a test
 ```js
 const test = this()
 ```
-<!-- Unhandled inlineCode -->
+<!-- element_node.children is not iterable -->
 <picture>
    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?color=cfcfcf">
    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?color=00000">
@@ -21,9 +21,11 @@ const test = this()
 <!-- Unhandled html -->
 ## My Activity
 <!-- Invalid HTML element 'github' -->
-<!-- Unhandled link -->
+Support my work, buy me a coffee!
+![undefined]()
 ## Songs I like
-<!-- Unhandled link -->
+<last_fm/>
+![undefined]()
 ## Socials
 ### Steam
 <!-- Unhandled html -->
@@ -32,5 +34,7 @@ const test = this()
 ### Perfected games
 <!-- Invalid HTML element 'steam' -->
 ### Others
-<!-- Unhandled link -->
+![undefined]()
+![undefined]()
+![undefined]()
 > Thanks for read :p
