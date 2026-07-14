@@ -9,7 +9,8 @@ This is _a_ test
 ```js
 const test = this()
 ```
-<!-- element_node.children is not iterable -->
+This is a `test` \
+this is a test
 
 <picture>
    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?color=cfcfcf">
