@@ -41,9 +41,9 @@
 
 <!--
 TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:103:38)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:104:38)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:86:58)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:144:24)
+    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:145:24)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:52:21)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
@@ -56,9 +56,9 @@ TypeError: node.children is not iterable
 
 <!--
 TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:103:38)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:104:38)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:86:58)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:144:24)
+    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:145:24)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:52:21)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
@@ -84,9 +84,9 @@ TypeError: node.children is not iterable
 
 <!--
 TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:103:38)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:104:38)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:86:58)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:144:24)
+    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:145:24)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:52:21)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
