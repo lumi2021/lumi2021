@@ -75,6 +75,1838 @@ Support my work, buy me a coffee! \
 
 ### Recent games
 
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
 
 ### Perfected games
 
