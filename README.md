@@ -5,231 +5,50 @@
 </picture>
 
 > please give a look on my last projects: \
-[zig library for building disk images](https://github.com/lumi2021/image-builder)   \
-[tq language compiler](https://github.com/tqlang/tq-compiler)
+[null](https://github.com/lumi2021/image-builder)   \
+[null](https://github.com/tqlang/tq-compiler)
 
 ## Randomness About Me
 
-- 🔭 Currently working on a  [compiler](https://github.com/tqlang/tq-compiler)  and an  [operating system](https://github.com/Anthragon/Distribution)
+- 🔭 Currently working on a  [null](https://github.com/tqlang/tq-compiler)  and an  [null](https://github.com/Anthragon/Distribution)
 - 🌱 Breathing
-- 📫 Talk with me in my Discord DM ( [@lumi_nya](https://discordapp.com/users/632992487375634432) )
+- 📫 Talk with me in my Discord DM ( [null](https://discordapp.com/users/632992487375634432) )
 - 😄 Pronouns: She / Her
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
+![null](https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python)
+![null](https://img.shields.io/badge/C-202020?style=for-the-badge&logo=c)
+![null](https://img.shields.io/badge/C%2B%2B-202020?style=for-the-badge&logo=c%2B%2B)
+![null](https://img.shields.io/badge/C%23-202020?style=for-the-badge&logo=dotnet)
+![null](https://img.shields.io/badge/Zig-202020?style=for-the-badge&logo=zig)
+![null](https://img.shields.io/badge/Lua-202020?style=for-the-badge&logo=lua)
 <br />
 
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
+![null](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=JavaScript)
+![null](https://img.shields.io/badge/TypeScript-202020?style=for-the-badge&logo=TypeScript)
+![null](https://img.shields.io/badge/GDScript-202020?style=for-the-badge&logo=godot%20engine)
+![null](https://img.shields.io/badge/Java-202020?style=for-the-badge&logo=gradle)
+![null](https://img.shields.io/badge/Kotlin-202020?style=for-the-badge&logo=kotlin)
+![null](https://img.shields.io/badge/LaTeX-202020?style=for-the-badge&logo=latex)
 <br />
 
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
+![null](https://img.shields.io/badge/Angular-404040?style=for-the-badge&logo=angular)
+![null](https://img.shields.io/badge/Ionic-404040?style=for-the-badge&logo=Ionic)
+![null](https://img.shields.io/badge/Node.js-404040?style=for-the-badge&logo=node.js)
 <br />
 
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
+![null](https://img.shields.io/badge/OpenGL-606060?style=for-the-badge&logo=opengl)
+![null](https://img.shields.io/badge/Vulkan-606060?style=for-the-badge&logo=vulkan)
+![null](https://img.shields.io/badge/x86_64%20Assembly-606060?style=for-the-badge&logo=intel)
+![null](https://img.shields.io/badge/Bash-606060?style=for-the-badge&logo=GNU-bash)
+![null](https://img.shields.io/badge/And%20%2B-205020?style=for-the-badge&logo=)
 
 ## My Activity
 
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:73:27)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:121:24)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:45:21)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
+Support my work, buy me a coffee!  \
+[null](https://ko-fi.com/R5R413JQF9)
 
 ## Songs I like
 
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:73:27)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:121:24)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:45:21)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
+[null](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
 
 ## Socials
 
@@ -245,16 +64,7 @@ TypeError: node.children is not iterable
 
 ### Others
 
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:82:34)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:73:27)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:121:24)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:45:21)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
+[null](https://discordapp.com/users/632992487375634432) \
+[null](https://www.linkedin.com/in/leoaraujodev) \
+[null](https://www.threads.com/@42batata42)
 > Thanks for read :p
