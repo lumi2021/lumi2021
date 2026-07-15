@@ -6,7 +6,6 @@ import path from "node:path";
 
 let lastFmPromise = null;
 
-
 async function fetchLastFmTopTracks(username, apiKey) {
     if (lastFmPromise) return lastFmPromise;
 
@@ -54,12 +53,6 @@ function validateLastFmAuth() {
 
 
 async function lastFmTracksService(section) {
-    const mode = getConsumptionMode();
-    if (mode !== 'HIGH') {
-        console.warn(`Skipped lastfm.top_tracks in ${mode} consumption mode`);
-        return section.content;
-    }
-
     const [USER, API_KEY] = validateLastFmAuth();
 
     console.log("Loading Last.fm top tracks...");

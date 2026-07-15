@@ -11,27 +11,26 @@ import fs from "node:fs";
 
 
 async function main() {
-    global.cache_directory = process.env["CACHE_DIRECTORY"] = process.env["CACHE_DIRECTORY"] || "./actions/cache";
-    fs.mkdirSync(path.join(global.cache_directory, "generated"), { recursive: true });
-    
+    // load cache
+    global.cache_directory = process.env["CACHE_DIRECTORY"] = process.env["CACHE_DIRECTORY"] || "./actions/cache";    
     global.cache_index_path = path.join(global.cache_directory, "index.json");
     if (fs.existsSync(global.cache_index_path)) global.cache_info = JSON.parse(fs.readFileSync(global.cache_index_path, "utf-8"));
     else global.cache_info = {};
 
     const README_INPUT_FILE = path.resolve(process.env["README_IN_PATH"] || "README.template.md");
     const README_OUTPUT_FILE = path.resolve(process.env["README_OUT_PATH"] || "README.md");
+    const NEW_PATH = path.resolve(README_OUTPUT_FILE);
 
+    // Process content
     const README_CONTENT = fs.readFileSync(README_INPUT_FILE, "utf-8");
-
-    const newPath = path.resolve(README_OUTPUT_FILE);
-
     const sections = extractSections(README_CONTENT);
     await processSections(sections);
     const NEW_README_CONTENT = glueContent(README_CONTENT, sections);
-    await fs.writeFileSync(newPath, NEW_README_CONTENT, null, 2);
-
+    
+    // save data
+    await fs.writeFileSync(NEW_PATH, NEW_README_CONTENT, null, 2);
     fs.writeFileSync(global.cache_index_path, JSON.stringify(global.cache_info, null, 2));
-    gitPush(newPath);
+    gitPush(NEW_PATH);
 }
 
 async function processSections(sections, auth) {

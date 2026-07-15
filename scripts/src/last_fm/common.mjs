@@ -1,7 +1,3 @@
-export function getConsumptionMode() {
-    return process.env["PROCESS_CONSUPTION"] || 'MEDIUM';
-}
-
 export function validateAuth() {
     const wakatime_api_key = process.env["WAKATIME_API_KEY"];
 

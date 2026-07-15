@@ -4,6 +4,7 @@
 	height="215"
 	viewBox="0 0 460 215"
 >
+	<!--Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.-->
 	<defs
 	>
 		<linearGradient
@@ -55,7 +56,7 @@
 	<rect
 		x="60"
 		y="175"
-		width="145"
+		width="137"
 		height="28"
 		rx="14"
 		fill="#000000"
@@ -69,8 +70,8 @@
 		font-weight="600"
 		font-family="system-ui, -apple-system, sans-serif"
 	>
-		659h
-		18min
+		689h
+		8min
 	</text>
 	<rect
 		x="10"

@@ -144,7 +144,3 @@ export function validateAuth() {
     
     return [steam_user_id, steam_api_key];
 }
-
-export function getConsumptionMode() {
-    return process.env["PROCESS_CONSUPTION"] || 'MEDIUM';
-}

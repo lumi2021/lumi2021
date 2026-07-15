@@ -1,4 +1,4 @@
-name: Update README - daily
+name: Update README
 
 on:
   schedule:
@@ -26,8 +26,6 @@ jobs:
       - name: Run script
         run: node ./scripts/src/index.mjs
         env:
-          PROCESS_CONSUPTION: LOW
-
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
           LAST_FM_USERNAME: ${{ secrets.LAST_FM_USERNAME }}

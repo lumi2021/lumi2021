@@ -53,7 +53,18 @@
 		text-anchor="start"
 		font-family="system-ui, -apple-system, sans-serif"
 	>
-		660h
-		9min
+		689h
+		8min
+	</text>
+	<text
+		x="590"
+		y="870"
+		fill="white"
+		font-size="50"
+		font-weight="bold"
+		text-anchor="end"
+		font-family="system-ui, -apple-system, sans-serif"
+	>
+		🏆 86%
 	</text>
 </svg>

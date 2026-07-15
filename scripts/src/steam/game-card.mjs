@@ -2,7 +2,7 @@ import fs from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { JSDOM } from 'jsdom';
-import prettier from 'prettier';
+import prettier, { doc } from 'prettier';
 import xmlPlugin from '@prettier/plugin-xml';
 
 import global from "#global";
@@ -11,11 +11,13 @@ const badge_bad_color = '#cc0000';
 const badge_good_color = '#4CAF50';
 const badge_meh_color = '#555555';
 
+const disclaimer = 'Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.';
 
 export async function getResponsiveCard(game) {
-    const cache_dir = global.cache_directory;
+    const cache_dir = path.join(global.cache_directory, 'steam_cards_generated');
     const github_article_max_px = 1061;
 
+    fs.mkdir(cache_dir, { recursive: true });
     const wide_svg_path = path.join(cache_dir, `${game.appid}_wide.svg`);
     const thin_svg_path = path.join(cache_dir, `${game.appid}_thin.svg`);
 
@@ -25,13 +27,7 @@ export async function getResponsiveCard(game) {
         await fs.writeFile(thin_svg_path, await makeThinCard(game), "utf-8");
     }
 
-    return [
-        '<picture>',
-        `    <source media="(max-width: ${github_article_max_px}px" width="24%" srcset="${thin_svg_path}">`,
-        `    <source media="(min-width: ${github_article_max_px}px)" width="49%" srcset="${wide_svg_path}">`,
-        `    <img style="max-width: 100%; alt="${game.name}">`,
-        '</picture>'
-    ];
+    return [wide_svg_path, thin_svg_path];
 }
 
 async function makeWideCard(game) {
@@ -50,6 +46,9 @@ async function makeWideCard(game) {
     svg.setAttribute("width", canvas_width);
     svg.setAttribute("height", canvas_height);
     svg.setAttribute("viewBox", `0 0 ${canvas_width} ${canvas_height}`);
+
+    const comment = document.createComment(disclaimer);
+    svg.appendChild(comment);
 
     const defs = document.createElementNS(svgNS, "defs");
 
@@ -201,6 +200,9 @@ async function makeThinCard(game) {
     svg.setAttribute("width", canvas_width);
     svg.setAttribute("height", canvas_height);
     svg.setAttribute("viewBox", `0 0 ${canvas_width} ${canvas_height}`);
+
+    const comment = document.createComment(disclaimer);
+    svg.appendChild(comment);
 
     const defs = document.createElementNS(svgNS, "defs");
 

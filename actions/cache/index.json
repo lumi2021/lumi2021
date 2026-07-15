@@ -1,1 +1,48 @@
-{}
+{
+  "steam_recent_game_data": {
+    "250900": {
+      "name": "The Binding of Isaac: Rebirth",
+      "thin_path": "actions/cache/steam_cards_generated/250900_thin.svg",
+      "wide_path": "actions/cache/steam_cards_generated/250900_wide.svg"
+    },
+    "427520": {
+      "name": "Factorio",
+      "thin_path": "actions/cache/steam_cards_generated/427520_thin.svg",
+      "wide_path": "actions/cache/steam_cards_generated/427520_wide.svg"
+    },
+    "1454400": {
+      "name": "Cookie Clicker",
+      "thin_path": "actions/cache/steam_cards_generated/1454400_thin.svg",
+      "wide_path": "actions/cache/steam_cards_generated/1454400_wide.svg"
+    },
+    "1604000": {
+      "name": "Milk outside a bag of milk outside a bag of milk",
+      "thin_path": "actions/cache/steam_cards_generated/1604000_thin.svg",
+      "wide_path": "actions/cache/steam_cards_generated/1604000_wide.svg"
+    }
+  },
+  "steam_recent_last_updated": "2026-07-15T18:59:59.357Z",
+  "steam_perfected_game_data": {
+    "255520": {
+      "name": "Viscera Cleanup Detail: Shadow Warrior",
+      "thin_path": "actions/cache/steam_cards_generated/255520_thin.svg",
+      "wide_path": "actions/cache/steam_cards_generated/255520_wide.svg"
+    },
+    "433340": {
+      "name": "Slime Rancher",
+      "thin_path": "actions/cache/steam_cards_generated/433340_thin.svg",
+      "wide_path": "actions/cache/steam_cards_generated/433340_wide.svg"
+    },
+    "1289310": {
+      "name": "Helltaker",
+      "thin_path": "actions/cache/steam_cards_generated/1289310_thin.svg",
+      "wide_path": "actions/cache/steam_cards_generated/1289310_wide.svg"
+    },
+    "1997680": {
+      "name": "REFLEXIA Prototype ver.",
+      "thin_path": "actions/cache/steam_cards_generated/1997680_thin.svg",
+      "wide_path": "actions/cache/steam_cards_generated/1997680_wide.svg"
+    }
+  },
+  "steam_perfected_last_updated": "2026-07-15T19:01:03.902Z"
+}
