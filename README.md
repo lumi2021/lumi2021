@@ -129,11 +129,6 @@ Support my work, buy me a coffee! \
         <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/1997680_wide.svg"/>
         <img  style="max-width: 100%;" alt="REFLEXIA Prototype ver."/>
     </picture>
-    <picture >
-        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/3270680_thin.svg"/>
-        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/3270680_wide.svg"/>
-        <img  style="max-width: 100%;" alt="Kota`s New Journey"/>
-    </picture>
 </p>
 <p  align="center">
     <sub >
