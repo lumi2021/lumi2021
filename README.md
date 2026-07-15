@@ -50,6 +50,15 @@
 - ✏️ Made 6 commits
 - ❌ Closed pull request [#9](https://github.com/taijarals/lobo_ovelha_cacador/pull/9) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 
+<!--
+Error: Node 'code' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:130:19)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
 Support my work, buy me a coffee! \
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R413JQF9)
 
