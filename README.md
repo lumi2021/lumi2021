@@ -61,6 +61,9 @@ Total Time: 31 hrs 25 mins
 ```
 Support my work, buy me a coffee! \
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R413JQF9)
+
+## Songs I like
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
 
 ## Games
@@ -68,28 +71,16 @@ Support my work, buy me a coffee! \
 
 ### Recent games
 
-<p>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/1454400_thin.svg"/>
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1454400_wide.svg"/>
-        <img style="max-width: 100%;" alt="Cookie Clicker"/>
-    </picture>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/427520_thin.svg"/>
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/427520_wide.svg"/>
-        <img style="max-width: 100%;" alt="Factorio"/>
-    </picture>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/250900_thin.svg"/>
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/250900_wide.svg"/>
-        <img style="max-width: 100%;" alt="The Binding of Isaac: Rebirth"/>
-    </picture>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/1604000_thin.svg"/>
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1604000_wide.svg"/>
-        <img style="max-width: 100%;" alt="Milk outside a bag of milk outside a bag of milk"/>
-    </picture>
-</p>
+<!--
+Error: Node 'undefined' not implemented!
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:128:32)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
+-->
 <p align="center">
     <sub>
         <i>
@@ -100,36 +91,6 @@ Support my work, buy me a coffee! \
 
 
 ### Perfected games
-
-<p>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/1289310_thin.svg"/>
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1289310_wide.svg"/>
-        <img style="max-width: 100%;" alt="Helltaker"/>
-    </picture>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/433340_thin.svg"/>
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/433340_wide.svg"/>
-        <img style="max-width: 100%;" alt="Slime Rancher"/>
-    </picture>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/255520_thin.svg"/>
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/255520_wide.svg"/>
-        <img style="max-width: 100%;" alt="Viscera Cleanup Detail: Shadow Warrior"/>
-    </picture>
-    <picture>
-        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/1997680_thin.svg"/>
-        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1997680_wide.svg"/>
-        <img style="max-width: 100%;" alt="REFLEXIA Prototype ver."/>
-    </picture>
-</p>
-<p align="center">
-    <sub>
-        <i>
-            Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.
-        </i>
-    </sub>
-</p>
 
 
 ## Socials
