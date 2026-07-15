@@ -39,96 +39,17 @@
 
 ## My Activity
 
-<!--
-Error: Node 'listItem' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:130:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
--->
-<!--
-Error: Node 'listItem' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:130:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
--->
-<!--
-Error: Node 'listItem' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:130:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
--->
-<!--
-Error: Node 'listItem' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:130:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
--->
-<!--
-Error: Node 'listItem' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:130:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
--->
-<!--
-Error: Node 'listItem' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:130:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
--->
-<!--
-Error: Node 'listItem' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:130:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
--->
-<!--
-Error: Node 'listItem' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:130:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
--->
-<!--
-Error: Node 'listItem' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:130:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
--->
-<!--
-Error: Node 'listItem' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:130:19)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
--->
+- ✏️ Made 1 commit
+- ✏️ Made 2 commits
+- 🎉 Merged pull request  [undefined](https://github.com/taijarals/lobo_ovelha_cacador/pull/17)  in  [undefined](https://github.com/taijarals/lobo_ovelha_cacador)
+- 🎉 Merged pull request  [undefined](https://github.com/taijarals/lobo_ovelha_cacador/pull/16)  in  [undefined](https://github.com/taijarals/lobo_ovelha_cacador)
+- ‼️ Opened issue  [undefined](https://github.com/tgies/klattsch/issues/92)  in  [undefined](https://github.com/tgies/klattsch)
+- ✏️ Made 5 commits
+- 🎉 Merged pull request  [undefined](https://github.com/taijarals/lobo_ovelha_cacador/pull/15)  in  [undefined](https://github.com/taijarals/lobo_ovelha_cacador)
+- ↗️ Opened pull request  [undefined](https://github.com/godotengine/godot/pull/120611)  in  [undefined](https://github.com/godotengine/godot)
+- ✏️ Made 6 commits
+- ❌ Closed pull request  [undefined](https://github.com/taijarals/lobo_ovelha_cacador/pull/9)  in  [undefined](https://github.com/taijarals/lobo_ovelha_cacador)
+
 Support my work, buy me a coffee!  \
 [undefined](https://ko-fi.com/R5R413JQF9)
 
