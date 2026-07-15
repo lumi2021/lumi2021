@@ -1,5 +1,4 @@
 import { table } from "node:console";
-import { getConsumptionMode } from "../last_fm/common.mjs";
 import fs from "node:fs/promises";
 import path from "node:path";
 
@@ -40,7 +39,6 @@ async function fetchLastFmTopTracks(username, apiKey) {
     return lastFmPromise;
 }
 
-
 function validateLastFmAuth() {
     const api_key = process.env["LAST_FM_API_KEY"];
     const username = process.env["LAST_FM_USERNAME"];
@@ -55,10 +53,10 @@ function validateLastFmAuth() {
 async function lastFmTracksService(section) {
     const [USER, API_KEY] = validateLastFmAuth();
 
-    console.log("Loading Last.fm top tracks...");
+    console.log("[Last.fm Service] Loading Last.fm top tracks...");
     let tracks = await fetchLastFmTopTracks(USER, API_KEY);
 
-    console.log("Loading tracks' cover images...");
+    console.log("[Last.fm Service] Loading tracks' cover images...");
     tracks = await Promise.all(
         tracks.map(async (track) => {
             const artistName = track.artist?.name ?? "Unknown Artist";

@@ -1,4 +1,4 @@
-import { getConsumptionMode, getOwnedGames, validateAuth } from "./common.mjs";
+import { getOwnedGames, validateAuth } from "./common.mjs";
 import { getResponsiveCard } from "./game-card.mjs";
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -17,7 +17,7 @@ export async function perfectedGamesService(section) {
 
     if (must_update) {
         if (must_clean_cache && global.cache_info.steam_game_data && typeof global.cache_info.steam_game_data === 'object') {
-            console.log("[Steam API] Cleaning up old cached images from disk...");
+            console.log("[Steam Service] Cleaning up old cached images from disk...");
             for (const appid in global.cache_info.steam_game_data) {
                 if (Object.prototype.hasOwnProperty.call(global.cache_info.steam_game_data, appid)) {
                     const game = global.cache_info.steam_game_data[appid];
@@ -39,7 +39,7 @@ export async function perfectedGamesService(section) {
 
         const [USER_ID, API_KEY] = validateAuth();
 
-        console.log("[Steam API] Loading steam's owned games and achievements...");
+        console.log("[Steam Service] Loading steam's owned games and achievements...");
         
         const owned = await getOwnedGames(USER_ID, API_KEY);
 
@@ -52,7 +52,7 @@ export async function perfectedGamesService(section) {
             })
             .slice(0, Math.min(owned.length, 4));
 
-        console.log(`[Steam API] Found ${perfectGames.length} perfected games.`);
+        console.log(`[Steam Service] Found ${perfectGames.length} perfected games.`);
 
         const card_results = await Promise.all(perfectGames.map(async (game) => {
             const [ widePath, thinPath ] = await getResponsiveCard(game);
@@ -74,9 +74,9 @@ export async function perfectedGamesService(section) {
         global.cache_info.steam_perfected_game_data = steam_perfected_game_data;
         global.cache_info.steam_perfected_last_updated = now.toISOString();
 
-        console.log("[Steam API] Fresh data generated as dictionary, old assets purged.");
+        console.log("[Steam Service] Fresh data generated as dictionary, old assets purged.");
     } else {
-        console.log("[Steam API] Using cached steam game data...");
+        console.log("[Steam Service] Using cached steam game data...");
         steam_perfected_game_data = global.cache_info.steam_game_data || {};
     }
 
@@ -89,11 +89,11 @@ export async function perfectedGamesService(section) {
         if (Object.prototype.hasOwnProperty.call(steam_perfected_game_data, appid)) {
             const game = steam_perfected_game_data[appid];
             content.push(
-                '<picture>',
+                `<a href="https://store.steampowered.com/app/${appid}"><picture>`,
                 `    <source media="(max-width: ${github_article_max_px}px)" width="24%" srcset="${game.thin_path}">`,
                 `    <source media="(min-width: ${github_article_max_px}px)" width="49%" srcset="${game.wide_path}">`,
                 `    <img style="max-width: 100%;" alt="${game.name}">`,
-                '</picture>'
+                '</picture></a>'
             );
         }
     }

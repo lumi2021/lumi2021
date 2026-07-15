@@ -3,9 +3,9 @@ import { validateAuth } from "./common.mjs";
 export async function activity(section, github_auth) {
     const [username, token] = validateAuth(github_auth);
 
-    console.log("Requesting github's contribution data...");
+    console.log("[GitHub Service] Requesting github's contribution data...");
     const data = (await get_contributions(token, username)).slice(0, 10);
-    console.log("Processing github's contribution data...");
+    console.log("[GitHub Service] Processing github's contribution data...");
 
     // const activity = [
     //     ...commits,

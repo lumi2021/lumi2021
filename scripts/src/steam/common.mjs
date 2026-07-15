@@ -5,7 +5,7 @@ const profileCache = new Map();
 async function ensureProfileData(steamid, api_key) {
     if (profileCache.has(steamid)) return profileCache.get(steamid);
 
-    console.log(`[Steam API] Loading data for user ID: ${steamid}...`);
+    console.log(`[Steam Service] Loading data for user ID: ${steamid}...`);
 
     const games = await steamGet(
         "IPlayerService/GetOwnedGames/v1/",
