@@ -1,7 +1,7 @@
-<picture >
-    <source  media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=250&height=54&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=000000"/>
-    <source  media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=250&height=54&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=cfcfcf"/>
-    <img  draggable="false" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=250&height=54&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=cfcfcf"/>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=250&height=54&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=000000"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=250&height=54&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=cfcfcf"/>
+    <img draggable="false" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=250&height=54&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=cfcfcf"/>
 </picture>
 
 > please give a look on my last projects: \
@@ -75,31 +75,31 @@ Support my work, buy me a coffee! \
 
 ### Recent games
 
-<p >
-    <picture >
-        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/1454400_thin.svg"/>
-        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/1454400_wide.svg"/>
-        <img  style="max-width: 100%;" alt="Cookie Clicker"/>
+<p>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/1454400_thin.svg"/>
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1454400_wide.svg"/>
+        <img style="max-width: 100%;" alt="Cookie Clicker"/>
     </picture>
-    <picture >
-        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/427520_thin.svg"/>
-        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/427520_wide.svg"/>
-        <img  style="max-width: 100%;" alt="Factorio"/>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/427520_thin.svg"/>
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/427520_wide.svg"/>
+        <img style="max-width: 100%;" alt="Factorio"/>
     </picture>
-    <picture >
-        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/250900_thin.svg"/>
-        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/250900_wide.svg"/>
-        <img  style="max-width: 100%;" alt="The Binding of Isaac: Rebirth"/>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/250900_thin.svg"/>
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/250900_wide.svg"/>
+        <img style="max-width: 100%;" alt="The Binding of Isaac: Rebirth"/>
     </picture>
-    <picture >
-        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/1604000_thin.svg"/>
-        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/1604000_wide.svg"/>
-        <img  style="max-width: 100%;" alt="Milk outside a bag of milk outside a bag of milk"/>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/1604000_thin.svg"/>
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1604000_wide.svg"/>
+        <img style="max-width: 100%;" alt="Milk outside a bag of milk outside a bag of milk"/>
     </picture>
 </p>
-<p  align="center">
-    <sub >
-        <i >
+<p align="center">
+    <sub>
+        <i>
             Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.
         </i>
     </sub>
@@ -108,31 +108,31 @@ Support my work, buy me a coffee! \
 
 ### Perfected games
 
-<p >
-    <picture >
-        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/1289310_thin.svg"/>
-        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/1289310_wide.svg"/>
-        <img  style="max-width: 100%;" alt="Helltaker"/>
+<p>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/1289310_thin.svg"/>
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1289310_wide.svg"/>
+        <img style="max-width: 100%;" alt="Helltaker"/>
     </picture>
-    <picture >
-        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/433340_thin.svg"/>
-        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/433340_wide.svg"/>
-        <img  style="max-width: 100%;" alt="Slime Rancher"/>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/433340_thin.svg"/>
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/433340_wide.svg"/>
+        <img style="max-width: 100%;" alt="Slime Rancher"/>
     </picture>
-    <picture >
-        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/255520_thin.svg"/>
-        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/255520_wide.svg"/>
-        <img  style="max-width: 100%;" alt="Viscera Cleanup Detail: Shadow Warrior"/>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/255520_thin.svg"/>
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/255520_wide.svg"/>
+        <img style="max-width: 100%;" alt="Viscera Cleanup Detail: Shadow Warrior"/>
     </picture>
-    <picture >
-        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/1997680_thin.svg"/>
-        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/1997680_wide.svg"/>
-        <img  style="max-width: 100%;" alt="REFLEXIA Prototype ver."/>
+    <picture>
+        <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/1997680_thin.svg"/>
+        <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1997680_wide.svg"/>
+        <img style="max-width: 100%;" alt="REFLEXIA Prototype ver."/>
     </picture>
 </p>
-<p  align="center">
-    <sub >
-        <i >
+<p align="center">
+    <sub>
+        <i>
             Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.
         </i>
     </sub>
