@@ -90,7 +90,7 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Away](https://steamcommunity.com/profiles/76561198434273671/)
+[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
 <!--END_SECTION-->
 
 ### Recent games
@@ -102,23 +102,23 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <!-- START_SECTION: steam.perfected_games -->
 <p>
 <picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/steam_cards_generated/255520_thin.svg">">
-    <source media="(min-width: 1061px)" width="49%" srcset="<picture>">
+    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
+    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
     <img style="max-width: 100%;" alt="Viscera Cleanup Detail: Shadow Warrior">
 </picture>
 <picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/steam_cards_generated/433340_thin.svg">">
-    <source media="(min-width: 1061px)" width="49%" srcset="<picture>">
+    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
+    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
     <img style="max-width: 100%;" alt="Slime Rancher">
 </picture>
 <picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/steam_cards_generated/1289310_thin.svg">">
-    <source media="(min-width: 1061px)" width="49%" srcset="<picture>">
+    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
+    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
     <img style="max-width: 100%;" alt="Helltaker">
 </picture>
 <picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/steam_cards_generated/1997680_thin.svg">">
-    <source media="(min-width: 1061px)" width="49%" srcset="<picture>">
+    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
+    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
     <img style="max-width: 100%;" alt="REFLEXIA Prototype ver.">
 </picture>
 </p>
