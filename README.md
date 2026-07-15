@@ -14,6 +14,7 @@
 - 🌱 Breathing
 - 📫 Talk with me in my Discord DM ( [@lumi_nya](https://discordapp.com/users/632992487375634432) )
 - 😄 Pronouns: She / Her
+
 ![Python](https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-202020?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-202020?style=for-the-badge&logo=c%2B%2B)
@@ -43,9 +44,9 @@
 
 <!--
 TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:95:38)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:78:58)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:24)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:96:38)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:79:58)
+    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:137:24)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:45:21)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
@@ -58,9 +59,9 @@ TypeError: node.children is not iterable
 
 <!--
 TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:95:38)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:78:58)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:24)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:96:38)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:79:58)
+    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:137:24)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:45:21)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
@@ -86,9 +87,9 @@ TypeError: node.children is not iterable
 
 <!--
 TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:95:38)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:78:58)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:24)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:96:38)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:79:58)
+    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:137:24)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:45:21)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
