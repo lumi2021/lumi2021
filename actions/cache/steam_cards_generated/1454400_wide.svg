@@ -56,7 +56,7 @@
 	<rect
 		x="60"
 		y="175"
-		width="137"
+		width="145"
 		height="28"
 		rx="14"
 		fill="#000000"
@@ -70,8 +70,8 @@
 		font-weight="600"
 		font-family="system-ui, -apple-system, sans-serif"
 	>
-		689h
-		8min
+		692h
+		38min
 	</text>
 	<rect
 		x="10"
@@ -79,7 +79,7 @@
 		width="75"
 		height="28"
 		rx="14"
-		fill="#5d9745"
+		fill="#5d9845"
 	/>
 	<text
 		x="48"
@@ -90,6 +90,6 @@
 		font-weight="bold"
 		font-family="Arial"
 	>
-		🏆 86%
+		🏆 87%
 	</text>
 </svg>

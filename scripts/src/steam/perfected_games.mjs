@@ -6,28 +6,32 @@ import global from '#global';
 
 export async function perfectedGamesService(section) {
     const now = new Date();
-    const last_updated_str = global.cache_info.steam_last_updated;
+    const last_updated_str = global.cache_info.steam_perfected_last_updated;
     const last_updated = last_updated_str ? new Date(last_updated_str) : null;
 
     const is_day_0 = now.getDay() === 0;
-    const must_update = !global.cache_info.steam_game_data || is_day_0;
+    const must_update = !global.cache_info.steam_perfected_game_data || is_day_0;
     const must_clean_cache = last_updated && last_updated.toDateString() === now.toDateString();
 
     let steam_perfected_game_data = {};
 
     if (must_update) {
-        if (must_clean_cache && global.cache_info.steam_game_data && typeof global.cache_info.steam_game_data === 'object') {
+        if (
+            must_clean_cache
+            && global.cache_info.steam_perfected_game_data
+            && typeof global.cache_info.steam_perfected_game_data === 'object') {
+            
             console.log("[Steam Service] Cleaning up old cached images from disk...");
-            for (const appid in global.cache_info.steam_game_data) {
-                if (Object.prototype.hasOwnProperty.call(global.cache_info.steam_game_data, appid)) {
-                    const game = global.cache_info.steam_game_data[appid];
+            for (const appid in global.cache_info.steam_perfected_game_data) {
+                if (Object.prototype.hasOwnProperty.call(global.cache_info.steam_perfected_game_data, appid)) {
+                    const game = global.cache_info.steam_perfected_game_data[appid];
                     
                     if (game.thin_path && !game.thin_path.includes('<')) {
                         await fs.unlink(game.thin_path).catch(() => {
                             console.warn(`Could not delete old file: ${game.thin_path}`);
                         });
-                    
                     }
+
                     if (game.wide_path && !game.wide_path.includes('<')) {
                         await fs.unlink(game.wide_path).catch(() => {
                             console.warn(`Could not delete old file: ${game.wide_path}`);
@@ -77,7 +81,7 @@ export async function perfectedGamesService(section) {
         console.log("[Steam Service] Fresh data generated as dictionary, old assets purged.");
     } else {
         console.log("[Steam Service] Using cached steam game data...");
-        steam_perfected_game_data = global.cache_info.steam_game_data || {};
+        steam_perfected_game_data = global.cache_info.steam_perfected_game_data || {};
     }
 
     const content = [];

@@ -4,6 +4,7 @@
 	height="900"
 	viewBox="0 0 600 900"
 >
+	<!--Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.-->
 	<defs
 	>
 		<linearGradient
@@ -53,8 +54,8 @@
 		text-anchor="start"
 		font-family="system-ui, -apple-system, sans-serif"
 	>
-		689h
-		8min
+		692h
+		38min
 	</text>
 	<text
 		x="590"
@@ -65,6 +66,6 @@
 		text-anchor="end"
 		font-family="system-ui, -apple-system, sans-serif"
 	>
-		🏆 86%
+		🏆 87%
 	</text>
 </svg>
