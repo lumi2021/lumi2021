@@ -20,21 +20,18 @@
 ![C#](https://img.shields.io/badge/C%23-202020?style=for-the-badge&logo=dotnet)
 ![Zig](https://img.shields.io/badge/Zig-202020?style=for-the-badge&logo=zig)
 ![Lua](https://img.shields.io/badge/Lua-202020?style=for-the-badge&logo=lua)
-<br />
-
+ \
 ![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-202020?style=for-the-badge&logo=TypeScript)
 ![GDScript](https://img.shields.io/badge/GDScript-202020?style=for-the-badge&logo=godot%20engine)
 ![Java](https://img.shields.io/badge/Java-202020?style=for-the-badge&logo=gradle)
 ![Kotlin](https://img.shields.io/badge/Kotlin-202020?style=for-the-badge&logo=kotlin)
 ![LaTeX](https://img.shields.io/badge/LaTeX-202020?style=for-the-badge&logo=latex)
-<br />
-
+ \
 ![Angular](https://img.shields.io/badge/Angular-404040?style=for-the-badge&logo=angular)
 ![Ionic](https://img.shields.io/badge/Ionic-404040?style=for-the-badge&logo=Ionic)
 ![Node.js](https://img.shields.io/badge/Node.js-404040?style=for-the-badge&logo=node.js)
-<br />
-
+ |
 ![OpenGL](https://img.shields.io/badge/OpenGL-606060?style=for-the-badge&logo=opengl)
 ![Vulkan](https://img.shields.io/badge/Vulkan-606060?style=for-the-badge&logo=vulkan)
 ![x86_64 Assembly](https://img.shields.io/badge/x86_64%20Assembly-606060?style=for-the-badge&logo=intel)
