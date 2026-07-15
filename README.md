@@ -7,14 +7,14 @@
 
 
 > please give a look on my last projects: \
-[undefined](https://github.com/lumi2021/image-builder)   \
-[undefined](https://github.com/tqlang/tq-compiler)
+[zig library for building disk images](https://github.com/lumi2021/image-builder)   \
+[tq language compiler](https://github.com/tqlang/tq-compiler)
 
 ## Randomness About Me
 
-- 🔭 Currently working on a  [undefined](https://github.com/tqlang/tq-compiler)  and an  [undefined](https://github.com/Anthragon/Distribution)
+- 🔭 Currently working on a  [compiler](https://github.com/tqlang/tq-compiler)  and an  [operating system](https://github.com/Anthragon/Distribution)
 - 🌱 Breathing
-- 📫 Talk with me in my Discord DM ( [undefined](https://discordapp.com/users/632992487375634432) )
+- 📫 Talk with me in my Discord DM ( [@lumi_nya](https://discordapp.com/users/632992487375634432) )
 - 😄 Pronouns: She / Her
 ![Python](https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python)
 
@@ -72,12 +72,12 @@
 
 
 Support my work, buy me a coffee!  \
-[undefined](https://ko-fi.com/R5R413JQF9)
+[![null](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R413JQF9)
 
 ## Songs I like
 
 
-[undefined](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
+[![null](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
 
 ## Socials
 
@@ -99,7 +99,7 @@ Support my work, buy me a coffee!  \
 
 ### Others
 
-[undefined](https://discordapp.com/users/632992487375634432) \
-[undefined](https://www.linkedin.com/in/leoaraujodev) \
-[undefined](https://www.threads.com/@42batata42)
+[![null](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/632992487375634432) \
+[![null](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoaraujodev) \
+[![null](https://img.shields.io/badge/threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@42batata42)
 > Thanks for read :p
