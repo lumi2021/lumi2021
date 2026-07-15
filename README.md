@@ -5,14 +5,14 @@
 </picture>
 
 > please give a look on my last projects: \
-[null](https://github.com/lumi2021/image-builder)   \
-[null](https://github.com/tqlang/tq-compiler)
+[undefined](https://github.com/lumi2021/image-builder)   \
+[undefined](https://github.com/tqlang/tq-compiler)
 
 ## Randomness About Me
 
-- 🔭 Currently working on a  [null](https://github.com/tqlang/tq-compiler)  and an  [null](https://github.com/Anthragon/Distribution)
+- 🔭 Currently working on a  [undefined](https://github.com/tqlang/tq-compiler)  and an  [undefined](https://github.com/Anthragon/Distribution)
 - 🌱 Breathing
-- 📫 Talk with me in my Discord DM ( [null](https://discordapp.com/users/632992487375634432) )
+- 📫 Talk with me in my Discord DM ( [undefined](https://discordapp.com/users/632992487375634432) )
 - 😄 Pronouns: She / Her
 ![Python](https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-202020?style=for-the-badge&logo=c)
@@ -44,11 +44,11 @@
 ## My Activity
 
 Support my work, buy me a coffee!  \
-[null](https://ko-fi.com/R5R413JQF9)
+[undefined](https://ko-fi.com/R5R413JQF9)
 
 ## Songs I like
 
-[null](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
+[undefined](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
 
 ## Socials
 
@@ -64,7 +64,7 @@ Support my work, buy me a coffee!  \
 
 ### Others
 
-[null](https://discordapp.com/users/632992487375634432) \
-[null](https://www.linkedin.com/in/leoaraujodev) \
-[null](https://www.threads.com/@42batata42)
+[undefined](https://discordapp.com/users/632992487375634432) \
+[undefined](https://www.linkedin.com/in/leoaraujodev) \
+[undefined](https://www.threads.com/@42batata42)
 > Thanks for read :p
