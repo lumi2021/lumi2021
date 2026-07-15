@@ -5,12 +5,12 @@
 </picture>
 
 > please give a look on my last projects: \
-[zig library for building disk images](https://github.com/lumi2021/image-builder)   \
+[zig library for building disk images](https://github.com/lumi2021/image-builder)  \
 [tq language compiler](https://github.com/tqlang/tq-compiler)
 
 ## Randomness About Me
 
-- 🔭 Currently working on a  [compiler](https://github.com/tqlang/tq-compiler)  and an  [operating system](https://github.com/Anthragon/Distribution)
+- 🔭 Currently working on a [compiler](https://github.com/tqlang/tq-compiler) and an [operating system](https://github.com/Anthragon/Distribution)
 - 🌱 Breathing
 - 📫 Talk with me in my Discord DM ( [@lumi_nya](https://discordapp.com/users/632992487375634432) )
 - 😄 Pronouns: She / Her
@@ -22,16 +22,16 @@
 
 - ✏️ Made 1 commit
 - ✏️ Made 2 commits
-- 🎉 Merged pull request  [#17](https://github.com/taijarals/lobo_ovelha_cacador/pull/17)  in  [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
-- 🎉 Merged pull request  [#16](https://github.com/taijarals/lobo_ovelha_cacador/pull/16)  in  [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
-- ‼️ Opened issue  [#92](https://github.com/tgies/klattsch/issues/92)  in  [tgies/klattsch](https://github.com/tgies/klattsch)
+- 🎉 Merged pull request [#17](https://github.com/taijarals/lobo_ovelha_cacador/pull/17) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
+- 🎉 Merged pull request [#16](https://github.com/taijarals/lobo_ovelha_cacador/pull/16) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
+- ‼️ Opened issue [#92](https://github.com/tgies/klattsch/issues/92) in [tgies/klattsch](https://github.com/tgies/klattsch)
 - ✏️ Made 5 commits
-- 🎉 Merged pull request  [#15](https://github.com/taijarals/lobo_ovelha_cacador/pull/15)  in  [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
-- ↗️ Opened pull request  [#120611](https://github.com/godotengine/godot/pull/120611)  in  [godotengine/godot](https://github.com/godotengine/godot)
+- 🎉 Merged pull request [#15](https://github.com/taijarals/lobo_ovelha_cacador/pull/15) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
+- ↗️ Opened pull request [#120611](https://github.com/godotengine/godot/pull/120611) in [godotengine/godot](https://github.com/godotengine/godot)
 - ✏️ Made 6 commits
-- ❌ Closed pull request  [#9](https://github.com/taijarals/lobo_ovelha_cacador/pull/9)  in  [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
+- ❌ Closed pull request [#9](https://github.com/taijarals/lobo_ovelha_cacador/pull/9) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 
-Support my work, buy me a coffee!  \
+Support my work, buy me a coffee! \
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R413JQF9)
 
 ## Songs I like
