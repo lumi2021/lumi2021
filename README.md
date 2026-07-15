@@ -5,14 +5,14 @@
 </picture>
 
 > please give a look on my last projects: \
-[undefined](https://github.com/lumi2021/image-builder)   \
-[undefined](https://github.com/tqlang/tq-compiler)
+[zig library for building disk images](https://github.com/lumi2021/image-builder)   \
+[tq language compiler](https://github.com/tqlang/tq-compiler)
 
 ## Randomness About Me
 
-- 🔭 Currently working on a  [undefined](https://github.com/tqlang/tq-compiler)  and an  [undefined](https://github.com/Anthragon/Distribution)
+- 🔭 Currently working on a  [compiler](https://github.com/tqlang/tq-compiler)  and an  [operating system](https://github.com/Anthragon/Distribution)
 - 🌱 Breathing
-- 📫 Talk with me in my Discord DM ( [undefined](https://discordapp.com/users/632992487375634432) )
+- 📫 Talk with me in my Discord DM ( [@lumi_nya](https://discordapp.com/users/632992487375634432) )
 - 😄 Pronouns: She / Her
 
 
@@ -22,21 +22,21 @@
 
 - ✏️ Made 1 commit
 - ✏️ Made 2 commits
-- 🎉 Merged pull request  [undefined](https://github.com/taijarals/lobo_ovelha_cacador/pull/17)  in  [undefined](https://github.com/taijarals/lobo_ovelha_cacador)
-- 🎉 Merged pull request  [undefined](https://github.com/taijarals/lobo_ovelha_cacador/pull/16)  in  [undefined](https://github.com/taijarals/lobo_ovelha_cacador)
-- ‼️ Opened issue  [undefined](https://github.com/tgies/klattsch/issues/92)  in  [undefined](https://github.com/tgies/klattsch)
+- 🎉 Merged pull request  [#17](https://github.com/taijarals/lobo_ovelha_cacador/pull/17)  in  [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
+- 🎉 Merged pull request  [#16](https://github.com/taijarals/lobo_ovelha_cacador/pull/16)  in  [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
+- ‼️ Opened issue  [#92](https://github.com/tgies/klattsch/issues/92)  in  [tgies/klattsch](https://github.com/tgies/klattsch)
 - ✏️ Made 5 commits
-- 🎉 Merged pull request  [undefined](https://github.com/taijarals/lobo_ovelha_cacador/pull/15)  in  [undefined](https://github.com/taijarals/lobo_ovelha_cacador)
-- ↗️ Opened pull request  [undefined](https://github.com/godotengine/godot/pull/120611)  in  [undefined](https://github.com/godotengine/godot)
+- 🎉 Merged pull request  [#15](https://github.com/taijarals/lobo_ovelha_cacador/pull/15)  in  [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
+- ↗️ Opened pull request  [#120611](https://github.com/godotengine/godot/pull/120611)  in  [godotengine/godot](https://github.com/godotengine/godot)
 - ✏️ Made 6 commits
-- ❌ Closed pull request  [undefined](https://github.com/taijarals/lobo_ovelha_cacador/pull/9)  in  [undefined](https://github.com/taijarals/lobo_ovelha_cacador)
+- ❌ Closed pull request  [#9](https://github.com/taijarals/lobo_ovelha_cacador/pull/9)  in  [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 
 Support my work, buy me a coffee!  \
-[undefined](https://ko-fi.com/R5R413JQF9)
+[![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R413JQF9)
 
 ## Songs I like
 
-[undefined](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
+[![](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
 
 ## Socials
 
@@ -53,7 +53,7 @@ Support my work, buy me a coffee!  \
 
 ### Others
 
-[undefined](https://discordapp.com/users/632992487375634432) \
-[undefined](https://www.linkedin.com/in/leoaraujodev) \
-[undefined](https://www.threads.com/@42batata42)
+[![](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/632992487375634432) \
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoaraujodev) \
+[![](https://img.shields.io/badge/threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@42batata42)
 > Thanks for read :p
