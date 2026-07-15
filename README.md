@@ -74,37 +74,14 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ## Songs I like
 <!-- START_SECTION: last_fm -->
-<div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/Elio+Mei/_/Velcro">Velcro</a></strong> - <a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a></p>
-    <p>1:53</p>
-    <br clear="left"/>
-</div>
-<div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/Elio+Mei/_/Playing+Dead">Playing Dead</a></strong> - <a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a></p>
-    <p>4:47</p>
-    <br clear="left"/>
-</div>
-<div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">One Man Circus</a></strong> - <a href="https://www.last.fm/music/elio+mei">elio mei</a></p>
-    <p>5:49</p>
-    <br clear="left"/>
-</div>
-<div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/74/ee/96/74ee965f-63d4-bd1e-61bf-c24ce30cc4ff/artwork.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/August+Greenwood/_/How+To+Let+Go">How To Let Go</a></strong> - <a href="https://www.last.fm/music/August+Greenwood">August Greenwood</a></p>
-    <p>4:20</p>
-    <br clear="left"/>
-</div>
-<div style="clear: both; padding: 10px 0;">
-    <img src="https://raw.githubusercontent.com/lumi2021/lumi2021/refs/heads/main/scripts/assets/song-no-cover.png" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/Cavetown/_/I%27m+Low+on+Gas+and+You+Need+A+Jacket">I'm Low on Gas and You Need A Jacket</a></strong> - <a href="https://www.last.fm/music/Cavetown">Cavetown</a></p>
-    <p>—</p>
-    <br clear="left"/>
-</div>
-
+<!--TEMPLATE {
+    id: '#',
+    track_cover: 'Cover',
+    track_link: 'Track',
+    track_artist_link: 'Artist',
+    track_duration: 'Duration',
+    times_listened: 'Times Listened',
+  } -->
 <!--END_SECTION-->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
 
@@ -118,54 +95,12 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Recent games
 <!-- START_SECTION: steam.recent_games -->
-<picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/1454400_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1454400_wide.svg">
-    <img style="max-width: 100%; alt="Cookie Clicker">
-</picture>
-<picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/427520_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/427520_wide.svg">
-    <img style="max-width: 100%; alt="Factorio">
-</picture>
-<picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/250900_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/250900_wide.svg">
-    <img style="max-width: 100%; alt="The Binding of Isaac: Rebirth">
-</picture>
-<picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/1604000_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1604000_wide.svg">
-    <img style="max-width: 100%; alt="Milk outside a bag of milk outside a bag of milk">
-</picture>
-<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
+
 <!--END_SECTION-->
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
-<p>
-<picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/1289310_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1289310_wide.svg">
-    <img style="max-width: 100%; alt="Helltaker">
-</picture>
-<picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/433340_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/433340_wide.svg">
-    <img style="max-width: 100%; alt="Slime Rancher">
-</picture>
-<picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/255520_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/255520_wide.svg">
-    <img style="max-width: 100%; alt="Viscera Cleanup Detail: Shadow Warrior">
-</picture>
-<picture>
-    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/1997680_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/1997680_wide.svg">
-    <img style="max-width: 100%; alt="REFLEXIA Prototype ver.">
-</picture>
-</p>
-<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
+
 <!--END_SECTION-->
 
 
