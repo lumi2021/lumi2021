@@ -102,104 +102,24 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 <!-- START_SECTION: steam.perfected_games -->
 <p>
 <picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
+    <source media="(max-width: 1061px)" width="24%" srcset="    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/steam_cards_generated/255520_thin.svg">">
+    <source media="(min-width: 1061px)" width="49%" srcset="<picture>">
+    <img style="max-width: 100%;" alt="Viscera Cleanup Detail: Shadow Warrior">
 </picture>
 <picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
+    <source media="(max-width: 1061px)" width="24%" srcset="    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/steam_cards_generated/433340_thin.svg">">
+    <source media="(min-width: 1061px)" width="49%" srcset="<picture>">
+    <img style="max-width: 100%;" alt="Slime Rancher">
 </picture>
 <picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
+    <source media="(max-width: 1061px)" width="24%" srcset="    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/steam_cards_generated/1289310_thin.svg">">
+    <source media="(min-width: 1061px)" width="49%" srcset="<picture>">
+    <img style="max-width: 100%;" alt="Helltaker">
 </picture>
 <picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="undefined">
+    <source media="(max-width: 1061px)" width="24%" srcset="    <source media="(max-width: 1061px" width="24%" srcset="actions/cache/steam_cards_generated/1997680_thin.svg">">
+    <source media="(min-width: 1061px)" width="49%" srcset="<picture>">
+    <img style="max-width: 100%;" alt="REFLEXIA Prototype ver.">
 </picture>
 </p>
 <p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
