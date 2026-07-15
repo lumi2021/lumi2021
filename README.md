@@ -75,6 +75,36 @@ Support my work, buy me a coffee! \
 
 ### Recent games
 
+<p >
+    <picture >
+        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/1454400_thin.svg"/>
+        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/1454400_wide.svg"/>
+        <img  style="max-width: 100%;" alt="Cookie Clicker"/>
+    </picture>
+    <picture >
+        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/427520_thin.svg"/>
+        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/427520_wide.svg"/>
+        <img  style="max-width: 100%;" alt="Factorio"/>
+    </picture>
+    <picture >
+        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/250900_thin.svg"/>
+        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/250900_wide.svg"/>
+        <img  style="max-width: 100%;" alt="The Binding of Isaac: Rebirth"/>
+    </picture>
+    <picture >
+        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/1604000_thin.svg"/>
+        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/1604000_wide.svg"/>
+        <img  style="max-width: 100%;" alt="Milk outside a bag of milk outside a bag of milk"/>
+    </picture>
+</p>
+<p  align="center">
+    <sub >
+        <i >
+            Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.
+        </i>
+    </sub>
+</p>
+
 
 ### Perfected games
 
