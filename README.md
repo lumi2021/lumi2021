@@ -36,7 +36,7 @@
  \
 ![OpenGL](https://img.shields.io/badge/OpenGL-606060?style=for-the-badge&logo=opengl)
 ![Vulkan](https://img.shields.io/badge/Vulkan-606060?style=for-the-badge&logo=vulkan)
-![x86_64 Assembly](https://img.shields.io/badge/x86_64%20Assembly-606060?style=for-the-badge&logo=intel)
+![x86__64 Assembly](https://img.shields.io/badge/x86__64%20Assembly-606060?style=for-the-badge&logo=intel)
 ![Bash](https://img.shields.io/badge/Bash-606060?style=for-the-badge&logo=GNU-bash)
 ![And +](https://img.shields.io/badge/And%20%2B-205020?style=for-the-badge&logo=)
 
