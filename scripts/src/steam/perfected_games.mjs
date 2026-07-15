@@ -89,7 +89,7 @@ export async function perfectedGamesService(section) {
         if (Object.prototype.hasOwnProperty.call(steam_perfected_game_data, appid)) {
             const game = steam_perfected_game_data[appid];
             content.push(
-                `<a href="https://store.steampowered.com/app/${appid}"><picture>`,
+                `<a href="https://store.steampowered.com/app/${appid}" target="_blank"><picture>`,
                 `    <source media="(max-width: ${github_article_max_px}px)" width="24%" srcset="${game.thin_path}">`,
                 `    <source media="(min-width: ${github_article_max_px}px)" width="49%" srcset="${game.wide_path}">`,
                 `    <img style="max-width: 100%;" alt="${game.name}">`,
