@@ -4,7 +4,6 @@
     <img  draggable="false" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21%3BI%27m+Camila%2C+a+19y+old+programming+enthusiast%3BI+write+code+%3A%29&multiline=true&width=250&height=54&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=cfcfcf"/>
 </picture>
 
-
 > please give a look on my last projects: \
 [zig library for building disk images](https://github.com/lumi2021/image-builder)   \
 [tq language compiler](https://github.com/tqlang/tq-compiler)
@@ -43,9 +42,7 @@
 ![And +](https://img.shields.io/badge/And%20%2B-205020?style=for-the-badge&logo=)
 
 
-
 ## My Activity
-
 
 <!--
 TypeError: node.children is not iterable
@@ -85,9 +82,7 @@ TypeError: node.children is not iterable
 ### Recent games
 
 
-
 ### Perfected games
-
 
 
 ### Others
