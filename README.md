@@ -5,26 +5,18 @@
 </picture>
 
 > please give a look on my last projects: \
-<!--
-ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:71:17)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:109:24)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:45:21)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
+[zig library for building disk images](https://github.com/lumi2021/image-builder)   \
+[tq language compiler](https://github.com/tqlang/tq-compiler)
 
 ## Randomness About Me
 
+- 🔭 Currently working on a  [compiler](https://github.com/tqlang/tq-compiler)  and an  [operating system](https://github.com/Anthragon/Distribution)
+- 🌱 Breathing
+- 📫 Talk with me in my Discord DM ( [@lumi_nya](https://discordapp.com/users/632992487375634432) )
+- 😄 Pronouns: She / Her
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:71:17)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:109:24)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:45:21)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:53:55)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -33,7 +25,7 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -42,7 +34,7 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -51,7 +43,7 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -60,7 +52,7 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -69,16 +61,7 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -89,7 +72,7 @@ ReferenceError: compileAstNodesLine is not defined
 
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -98,7 +81,7 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -107,7 +90,7 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -116,7 +99,7 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -125,7 +108,7 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -134,36 +117,7 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<br />
-
-<!--
-ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
-<!--
-ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -174,7 +128,7 @@ ReferenceError: compileAstNodesLine is not defined
 
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -183,7 +137,7 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -192,7 +146,18 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
+-->
+<br />
+
+<!--
+ReferenceError: compileAstNodesLine is not defined
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -201,7 +166,7 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -210,7 +175,25 @@ ReferenceError: compileAstNodesLine is not defined
 -->
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:75:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
+-->
+<!--
+ReferenceError: compileAstNodesLine is not defined
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
+    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
+    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
+    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
+-->
+<!--
+ReferenceError: compileAstNodesLine is not defined
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
     at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
@@ -222,8 +205,9 @@ ReferenceError: compileAstNodesLine is not defined
 
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:71:17)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:109:24)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:72:54)
+    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:114:24)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:45:21)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
@@ -236,8 +220,9 @@ ReferenceError: compileAstNodesLine is not defined
 
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:71:17)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:109:24)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:72:54)
+    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:114:24)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:45:21)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
@@ -262,8 +247,9 @@ ReferenceError: compileAstNodesLine is not defined
 
 <!--
 ReferenceError: compileAstNodesLine is not defined
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:71:17)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:109:24)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:80:17)
+    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:72:54)
+    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:114:24)
     at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:45:21)
     at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:30)
     at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
