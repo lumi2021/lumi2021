@@ -100,29 +100,6 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
-<p>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="Viscera Cleanup Detail: Shadow Warrior">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="Slime Rancher">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="Helltaker">
-</picture>
-<picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="undefined">
-    <source media="(min-width: 1061px)" width="49%" srcset="undefined">
-    <img style="max-width: 100%;" alt="REFLEXIA Prototype ver.">
-</picture>
-</p>
-<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 
