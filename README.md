@@ -113,28 +113,28 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Steam
 <!-- START_SECTION: steam.profile -->
-[mew_mila (Camila) - Online](https://steamcommunity.com/profiles/76561198434273671/)
+  <!--TEMPLATE "[{username} ({name}) - {status}]({profile_url})" -->
 <!--END_SECTION-->
 
 ### Recent games
 <!-- START_SECTION: steam.recent_games -->
 <p>
-<a href="https://store.steampowered.com/app/250900"><picture>
+<a href="https://store.steampowered.com/app/250900" target="_blank"><picture>
     <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/250900_thin.svg">
     <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/250900_wide.svg">
     <img style="max-width: 100%;" alt="The Binding of Isaac: Rebirth">
 </picture></a>
-<a href="https://store.steampowered.com/app/427520"><picture>
+<a href="https://store.steampowered.com/app/427520" target="_blank"><picture>
     <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/427520_thin.svg">
     <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/427520_wide.svg">
     <img style="max-width: 100%;" alt="Factorio">
 </picture></a>
-<a href="https://store.steampowered.com/app/1454400"><picture>
+<a href="https://store.steampowered.com/app/1454400" target="_blank"><picture>
     <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/1454400_thin.svg">
     <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/1454400_wide.svg">
     <img style="max-width: 100%;" alt="Cookie Clicker">
 </picture></a>
-<a href="https://store.steampowered.com/app/1604000"><picture>
+<a href="https://store.steampowered.com/app/1604000" target="_blank"><picture>
     <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/1604000_thin.svg">
     <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/1604000_wide.svg">
     <img style="max-width: 100%;" alt="Milk outside a bag of milk outside a bag of milk">
@@ -145,29 +145,6 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
-<p>
-<a href="https://store.steampowered.com/app/255520"><picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/255520_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/255520_wide.svg">
-    <img style="max-width: 100%;" alt="Viscera Cleanup Detail: Shadow Warrior">
-</picture></a>
-<a href="https://store.steampowered.com/app/433340"><picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/433340_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/433340_wide.svg">
-    <img style="max-width: 100%;" alt="Slime Rancher">
-</picture></a>
-<a href="https://store.steampowered.com/app/1289310"><picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/1289310_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/1289310_wide.svg">
-    <img style="max-width: 100%;" alt="Helltaker">
-</picture></a>
-<a href="https://store.steampowered.com/app/1997680"><picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/1997680_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/1997680_wide.svg">
-    <img style="max-width: 100%;" alt="REFLEXIA Prototype ver.">
-</picture></a>
-</p>
-<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 
