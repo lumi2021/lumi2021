@@ -1,4 +1,9 @@
-undefined \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+<picture >
+    <source  media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21&multiline=true&width=250&height=18&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=000000"/>
+    <source  media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21&multiline=true&width=250&height=18&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=cfcfcf"/>
+    <img  draggable="false" width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%21&multiline=true&width=250&height=18&font=VT323&size=12&duration=3000&pause=300&repeat=false&vCenter=true&center=true&color=cfcfcf"/>
+</picture>
+
 > please give a look on my last projects: \
 [undefined](https://github.com/lumi2021/image-builder)   \
 [undefined](https://github.com/tqlang/tq-compiler)
