@@ -117,7 +117,7 @@ Error: Node 'undefined' not implemented!
 <p align="center">
     <sub>
         <i>
-            Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.
+            Disclaimer: All game titles, arts, logos, and trademarks belon to Steam (Valve Corporation) and their respective developers.
         </i>
     </sub>
 </p>
