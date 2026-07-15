@@ -75,37 +75,36 @@ Support my work, buy me a coffee! \
 
 ### Recent games
 
-<!--
-Error: Node 'undefined' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:128:32)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
--->
-<p  align="center">
-    <sub >
-        <i >
-            Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.
-        </i>
-    </sub>
-</p>
-
 
 ### Perfected games
 
-<!--
-Error: Node 'undefined' not implemented!
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:136:19)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:128:32)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:37:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:26:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:56:1
--->
+<p >
+    <picture >
+        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/1289310_thin.svg"/>
+        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/1289310_wide.svg"/>
+        <img  style="max-width: 100%;" alt="Helltaker"/>
+    </picture>
+    <picture >
+        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/433340_thin.svg"/>
+        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/433340_wide.svg"/>
+        <img  style="max-width: 100%;" alt="Slime Rancher"/>
+    </picture>
+    <picture >
+        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/255520_thin.svg"/>
+        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/255520_wide.svg"/>
+        <img  style="max-width: 100%;" alt="Viscera Cleanup Detail: Shadow Warrior"/>
+    </picture>
+    <picture >
+        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/1997680_thin.svg"/>
+        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/1997680_wide.svg"/>
+        <img  style="max-width: 100%;" alt="REFLEXIA Prototype ver."/>
+    </picture>
+    <picture >
+        <source  media="(max-width: 1061px)" width="24%" srcset="actions/cache/3270680_thin.svg"/>
+        <source  media="(min-width: 1061px)" width="49%" srcset="actions/cache/3270680_wide.svg"/>
+        <img  style="max-width: 100%;" alt="Kota`s New Journey"/>
+    </picture>
+</p>
 <p  align="center">
     <sub >
         <i >
