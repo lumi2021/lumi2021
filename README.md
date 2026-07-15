@@ -5,14 +5,14 @@
 </picture>
 
 > please give a look on my last projects: \
-[zig library for building disk images](https://github.com/lumi2021/image-builder)   \
-[tq language compiler](https://github.com/tqlang/tq-compiler)
+[undefined](https://github.com/lumi2021/image-builder)   \
+[undefined](https://github.com/tqlang/tq-compiler)
 
 ## Randomness About Me
 
-- 🔭 Currently working on a  [compiler](https://github.com/tqlang/tq-compiler)  and an  [operating system](https://github.com/Anthragon/Distribution)
+- 🔭 Currently working on a  [undefined](https://github.com/tqlang/tq-compiler)  and an  [undefined](https://github.com/Anthragon/Distribution)
 - 🌱 Breathing
-- 📫 Talk with me in my Discord DM ( [@lumi_nya](https://discordapp.com/users/632992487375634432) )
+- 📫 Talk with me in my Discord DM ( [undefined](https://discordapp.com/users/632992487375634432) )
 - 😄 Pronouns: She / Her
 
 ![Python](https://img.shields.io/badge/Python-202020?style=for-the-badge&logo=python)
@@ -39,33 +39,12 @@
 
 ## My Activity
 
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:104:38)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:86:58)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:145:24)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:52:21)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
+Support my work, buy me a coffee!  \
+[undefined](https://ko-fi.com/R5R413JQF9)
 
 ## Songs I like
 
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:104:38)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:86:58)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:145:24)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:52:21)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
+[undefined](https://spotify-github-profile.kittinanx.com/api/view?uid=ud98hywtrhb6tsypqvhg9rc5g&redirect=true)
 
 ## Socials
 
@@ -82,16 +61,7 @@ TypeError: node.children is not iterable
 
 ### Others
 
-<!--
-TypeError: node.children is not iterable
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:104:38)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:86:58)
-    at compileAstNodes (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:145:24)
-    at compileAstNode (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:52:21)
-    at compile (file:///home/leo/Documentos/repos/lumi2021/scripts/src/parsing/compiler.mjs:16:27)
-    at transpileContent (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:43:12)
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async main (file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:32:32)
-    at async file:///home/leo/Documentos/repos/lumi2021/scripts/src/index.mjs:62:1
--->
+[undefined](https://discordapp.com/users/632992487375634432) \
+[undefined](https://www.linkedin.com/in/leoaraujodev) \
+[undefined](https://www.threads.com/@42batata42)
 > Thanks for read :p
