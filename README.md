@@ -26,6 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-202020?style=for-the-badge&logo=TypeScript)
 ![GDScript](https://img.shields.io/badge/GDScript-202020?style=for-the-badge&logo=godot%20engine)
 ![Java](https://img.shields.io/badge/Java-202020?style=for-the-badge&logo=gradle)
+ \
 ![Kotlin](https://img.shields.io/badge/Kotlin-202020?style=for-the-badge&logo=kotlin)
 ![LaTeX](https://img.shields.io/badge/LaTeX-202020?style=for-the-badge&logo=latex)
  \
