@@ -41,7 +41,7 @@
 ## My Activity
 
 <!-- START_SECTION: github.activity -->
-- ✏️ Made 1 commit
+- ✏️ Made 2 commits
 - ✏️ Made 2 commits
 - 🎉 Merged pull request [#17](https://github.com/taijarals/lobo_ovelha_cacador/pull/17) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - 🎉 Merged pull request [#16](https://github.com/taijarals/lobo_ovelha_cacador/pull/16) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
@@ -55,12 +55,12 @@
 
 <!-- START_SECTION: wakatime.weekly_langs -->
 ```rust
-Total Time: 31 hrs 25 mins
+Total Time: 29 hrs 32 mins
 
-- "JavaScript"    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 15 hrs 17 mins
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 8 hrs 10 mins
-- "Zig"           ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 41 mins
-- "Markdown"      ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 6 mins
+- "JavaScript"    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 15 hrs 52 mins
+- "C#"            ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 hrs 40 mins
+- "Markdown"      ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 56 mins
+- "Zig"           ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 41 mins
 - "GDScript"      ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 53 mins
 ```
 <!--END_SECTION-->
@@ -99,9 +99,9 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
     <br clear="left"/>
 </div>
 <div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/elio+mei/_/Speak+Of+The+Devil">Speak Of The Devil</a></strong> - <a href="https://www.last.fm/music/elio+mei">elio mei</a></p>
-    <p>1:29</p>
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/74/ee/96/74ee965f-63d4-bd1e-61bf-c24ce30cc4ff/artwork.jpg/60x60bb.jpg" width="75" align="left"/>
+    <p><strong><a href="https://www.last.fm/music/August+Greenwood/_/How+To+Let+Go">How To Let Go</a></strong> - <a href="https://www.last.fm/music/August+Greenwood">August Greenwood</a></p>
+    <p>4:20</p>
     <br clear="left"/>
 </div>
 
