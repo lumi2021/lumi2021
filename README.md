@@ -41,7 +41,7 @@
 ## My Activity
 
 <!-- START_SECTION: github.activity -->
-- ✏️ Made 2 commits
+- ✏️ Made 3 commits
 - ✏️ Made 2 commits
 - 🎉 Merged pull request [#17](https://github.com/taijarals/lobo_ovelha_cacador/pull/17) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - 🎉 Merged pull request [#16](https://github.com/taijarals/lobo_ovelha_cacador/pull/16) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
@@ -55,13 +55,13 @@
 
 <!-- START_SECTION: wakatime.weekly_langs -->
 ```rust
-Total Time: 29 hrs 32 mins
+Total Time: 21 hrs 34 mins
 
-- "JavaScript"    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 15 hrs 52 mins
-- "C#"            ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 hrs 40 mins
-- "Markdown"      ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 56 mins
-- "Zig"           ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 41 mins
-- "GDScript"      ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 53 mins
+- "JavaScript"    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 11 hrs 9 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 hrs 40 mins
+- "Markdown"      ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 6 mins
+- "Zig"           ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 34 mins
+- "JSON"          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 22 mins
 ```
 <!--END_SECTION-->
 
@@ -99,9 +99,9 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
     <br clear="left"/>
 </div>
 <div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/74/ee/96/74ee965f-63d4-bd1e-61bf-c24ce30cc4ff/artwork.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/August+Greenwood/_/How+To+Let+Go">How To Let Go</a></strong> - <a href="https://www.last.fm/music/August+Greenwood">August Greenwood</a></p>
-    <p>4:20</p>
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/6a/ad/276aad24-d981-6821-af5d-78c07942ceaa/859731584736_cover.jpg/60x60bb.jpg" width="75" align="left"/>
+    <p><strong><a href="https://www.last.fm/music/elio+mei/_/Knotted+Constellations">Knotted Constellations</a></strong> - <a href="https://www.last.fm/music/elio+mei">elio mei</a></p>
+    <p>4:11</p>
     <br clear="left"/>
 </div>
 
@@ -118,56 +118,10 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ### Recent games
 <!-- START_SECTION: steam.recent_games -->
-<p>
-<a href="https://store.steampowered.com/app/250900" target="_blank"><picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/250900_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/250900_wide.svg">
-    <img style="max-width: 100%;" alt="The Binding of Isaac: Rebirth">
-</picture></a>
-<a href="https://store.steampowered.com/app/427520" target="_blank"><picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/427520_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/427520_wide.svg">
-    <img style="max-width: 100%;" alt="Factorio">
-</picture></a>
-<a href="https://store.steampowered.com/app/1454400" target="_blank"><picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/1454400_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/1454400_wide.svg">
-    <img style="max-width: 100%;" alt="Cookie Clicker">
-</picture></a>
-<a href="https://store.steampowered.com/app/1604000" target="_blank"><picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/1604000_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/1604000_wide.svg">
-    <img style="max-width: 100%;" alt="Milk outside a bag of milk outside a bag of milk">
-</picture></a>
-</p>
-<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 ### Perfected games
 <!-- START_SECTION: steam.perfected_games -->
-<p>
-<a href="https://store.steampowered.com/app/255520" target="_blank"><picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/255520_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/255520_wide.svg">
-    <img style="max-width: 100%;" alt="Viscera Cleanup Detail: Shadow Warrior">
-</picture></a>
-<a href="https://store.steampowered.com/app/433340" target="_blank"><picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/433340_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/433340_wide.svg">
-    <img style="max-width: 100%;" alt="Slime Rancher">
-</picture></a>
-<a href="https://store.steampowered.com/app/1289310" target="_blank"><picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/1289310_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/1289310_wide.svg">
-    <img style="max-width: 100%;" alt="Helltaker">
-</picture></a>
-<a href="https://store.steampowered.com/app/1997680" target="_blank"><picture>
-    <source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_cards_generated/1997680_thin.svg">
-    <source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_cards_generated/1997680_wide.svg">
-    <img style="max-width: 100%;" alt="REFLEXIA Prototype ver.">
-</picture></a>
-</p>
-<p align='center'><sub><i>Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.</i></sub></p>
 <!--END_SECTION-->
 
 
