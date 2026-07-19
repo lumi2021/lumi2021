@@ -6,7 +6,8 @@
 
 > please give a look on my last projects: \
 [zig library for building disk images](https://github.com/lumi2021/image-builder) \
-[tq language compiler](https://github.com/tqlang/tq-compiler)
+[tq language compiler](https://github.com/tqlang/tq-compiler) \
+[C# NES emulator](git@github.com:lumi2021/CSharp-NES-emulator.git)
 
 ## Randomness About Me
 
