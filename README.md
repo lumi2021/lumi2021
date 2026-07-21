@@ -55,13 +55,13 @@
 
 <!-- START_SECTION: wakatime.weekly_langs -->
 ```rust
-Total Time: 20 hrs 36 mins
+Total Time: 20 hrs 21 mins
 
-- "JavaScript"    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 9 hrs 24 mins
-- "C#"            ⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 hrs 40 mins
-- "Markdown"      ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 58 mins
-- "Zig"           ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 34 mins
-- "Image (svg)"   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 5 mins
+- "JavaScript"    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 10 hrs 10 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 5 hrs 9 mins
+- "Markdown"      ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 5 mins
+- "Image (svg)"   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 5 mins
+- "TOML"          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 20 mins
 ```
 <!--END_SECTION-->
 
@@ -74,6 +74,12 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 
 ## Songs I like
 <!-- START_SECTION: last_fm -->
+<div style="clear: both; padding: 10px 0;">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/93/33/a0933384-61e2-ec73-796f-2c77fbd59ea0/artwork.jpg/60x60bb.jpg" width="75" align="left"/>
+    <p><strong><a href="https://www.last.fm/music/Jamie+Paige/_/Machine+Love">Machine Love</a></strong> - <a href="https://www.last.fm/music/Jamie+Paige">Jamie Paige</a></p>
+    <p>3:36</p>
+    <br clear="left"/>
+</div>
 <div style="clear: both; padding: 10px 0;">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
     <p><strong><a href="https://www.last.fm/music/Elio+Mei/_/Velcro">Velcro</a></strong> - <a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a></p>
@@ -96,12 +102,6 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
     <img src="https://raw.githubusercontent.com/lumi2021/lumi2021/refs/heads/main/scripts/assets/song-no-cover.png" width="75" align="left"/>
     <p><strong><a href="https://www.last.fm/music/Cavetown/_/I%27m+Low+on+Gas+and+You+Need+A+Jacket">I'm Low on Gas and You Need A Jacket</a></strong> - <a href="https://www.last.fm/music/Cavetown">Cavetown</a></p>
     <p>—</p>
-    <br clear="left"/>
-</div>
-<div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/93/33/a0933384-61e2-ec73-796f-2c77fbd59ea0/artwork.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/Jamie+Paige/_/Machine+Love">Machine Love</a></strong> - <a href="https://www.last.fm/music/Jamie+Paige">Jamie Paige</a></p>
-    <p>3:36</p>
     <br clear="left"/>
 </div>
 
