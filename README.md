@@ -55,12 +55,12 @@
 
 <!-- START_SECTION: wakatime.weekly_langs -->
 ```rust
-Total Time: 20 hrs 21 mins
+Total Time: 21 hrs 7 mins
 
-- "JavaScript"    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 10 hrs 10 mins
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 5 hrs 9 mins
-- "Markdown"      ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 5 mins
-- "Image (svg)"   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 5 mins
+- "JavaScript"    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 8 hrs 12 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 8 hrs 9 mins
+- "Markdown"      ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 48 mins
+- "Image (svg)"   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 5 mins
 - "TOML"          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 20 mins
 ```
 <!--END_SECTION-->
@@ -82,26 +82,26 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
 </div>
 <div style="clear: both; padding: 10px 0;">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/Elio+Mei/_/Velcro">Velcro</a></strong> - <a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a></p>
-    <p>1:53</p>
-    <br clear="left"/>
-</div>
-<div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
     <p><strong><a href="https://www.last.fm/music/Elio+Mei/_/Playing+Dead">Playing Dead</a></strong> - <a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a></p>
     <p>4:47</p>
     <br clear="left"/>
 </div>
 <div style="clear: both; padding: 10px 0;">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">One Man Circus</a></strong> - <a href="https://www.last.fm/music/elio+mei">elio mei</a></p>
-    <p>5:49</p>
+    <p><strong><a href="https://www.last.fm/music/Elio+Mei/_/Velcro">Velcro</a></strong> - <a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a></p>
+    <p>1:53</p>
     <br clear="left"/>
 </div>
 <div style="clear: both; padding: 10px 0;">
     <img src="https://raw.githubusercontent.com/lumi2021/lumi2021/refs/heads/main/scripts/assets/song-no-cover.png" width="75" align="left"/>
     <p><strong><a href="https://www.last.fm/music/Cavetown/_/I%27m+Low+on+Gas+and+You+Need+A+Jacket">I'm Low on Gas and You Need A Jacket</a></strong> - <a href="https://www.last.fm/music/Cavetown">Cavetown</a></p>
     <p>—</p>
+    <br clear="left"/>
+</div>
+<div style="clear: both; padding: 10px 0;">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/6a/ad/276aad24-d981-6821-af5d-78c07942ceaa/859731584736_cover.jpg/60x60bb.jpg" width="75" align="left"/>
+    <p><strong><a href="https://www.last.fm/music/elio+mei/_/Knotted+Constellations">Knotted Constellations</a></strong> - <a href="https://www.last.fm/music/elio+mei">elio mei</a></p>
+    <p>4:11</p>
     <br clear="left"/>
 </div>
 
