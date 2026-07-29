@@ -41,6 +41,7 @@
 ## My Activity
 
 <!-- START_SECTION: github.activity -->
+- ✏️ Made 1 commit
 - ✏️ Made 3 commits
 - ✏️ Made 5 commits
 - ✏️ Made 2 commits
@@ -50,18 +51,17 @@
 - ✏️ Made 5 commits
 - 🎉 Merged pull request [#15](https://github.com/taijarals/lobo_ovelha_cacador/pull/15) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 - ↗️ Openned pull request [#120611](https://github.com/godotengine/godot/pull/120611) in [godotengine/godot](https://github.com/godotengine/godot)
-- ✏️ Made 6 commits
 <!--END_SECTION-->
 
 <!-- START_SECTION: wakatime.weekly_langs -->
 ```rust
-Total Time: 26 hrs 31 mins
+Total Time: 26 hrs 10 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 15 hrs 53 mins
-- "CSS"           ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 37 mins
-- "TypeScript"    ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 18 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 12 hrs 52 mins
+- "CSS"           ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 3 hrs 28 mins
+- "TypeScript"    ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 3 hrs 6 mins
 - "Dart"          ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 52 mins
-- "Zig"           ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 20 mins
+- "Zig"           ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 21 mins
 ```
 <!--END_SECTION-->
 
@@ -93,15 +93,15 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
     <br clear="left"/>
 </div>
 <div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/87/5c/bf/875cbff7-a8f7-fc4f-808c-458bb139ce26/075679787859.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/chloe+moriondo/_/Take+Your+Time">Take Your Time</a></strong> - <a href="https://www.last.fm/music/chloe+moriondo">chloe moriondo</a></p>
-    <p>2:21</p>
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
+    <p><strong><a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">One Man Circus</a></strong> - <a href="https://www.last.fm/music/elio+mei">elio mei</a></p>
+    <p>5:49</p>
     <br clear="left"/>
 </div>
 <div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/87/5c/bf/875cbff7-a8f7-fc4f-808c-458bb139ce26/075679787859.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/chloe+moriondo/_/What+If+It+Doesn%27t+End+Well">What If It Doesn't End Well</a></strong> - <a href="https://www.last.fm/music/chloe+moriondo">chloe moriondo</a></p>
-    <p>3:31</p>
+    <img src="https://raw.githubusercontent.com/lumi2021/lumi2021/refs/heads/main/scripts/assets/song-no-cover.png" width="75" align="left"/>
+    <p><strong><a href="https://www.last.fm/music/Cavetown/_/I%27m+Low+on+Gas+and+You+Need+A+Jacket">I'm Low on Gas and You Need A Jacket</a></strong> - <a href="https://www.last.fm/music/Cavetown">Cavetown</a></p>
+    <p>—</p>
     <br clear="left"/>
 </div>
 
