@@ -55,13 +55,13 @@
 
 <!-- START_SECTION: wakatime.weekly_langs -->
 ```rust
-Total Time: 25 hrs 50 mins
+Total Time: 24 hrs 36 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 13 hrs 57 mins
-- "TypeScript"    ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 3 hrs 15 mins
-- "CSS"           ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 45 mins
-- "MDX"           ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 56 mins
-- "Zig"           ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 21 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 10 hrs 52 mins
+- "TypeScript"    ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 hrs 24 mins
+- "MDX"           ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 3 hrs 21 mins
+- "CSS"           ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 56 mins
+- "Zig"           ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 21 mins
 ```
 <!--END_SECTION-->
 
@@ -93,15 +93,15 @@ Support my work, buy me a coffee! (pls coffee is really expensive in brazil lol)
     <br clear="left"/>
 </div>
 <div style="clear: both; padding: 10px 0;">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/87/5c/bf/875cbff7-a8f7-fc4f-808c-458bb139ce26/075679787859.jpg/60x60bb.jpg" width="75" align="left"/>
-    <p><strong><a href="https://www.last.fm/music/chloe+moriondo/_/Vapor">Vapor</a></strong> - <a href="https://www.last.fm/music/chloe+moriondo">chloe moriondo</a></p>
-    <p>4:44</p>
-    <br clear="left"/>
-</div>
-<div style="clear: both; padding: 10px 0;">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="75" align="left"/>
     <p><strong><a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">One Man Circus</a></strong> - <a href="https://www.last.fm/music/elio+mei">elio mei</a></p>
     <p>5:49</p>
+    <br clear="left"/>
+</div>
+<div style="clear: both; padding: 10px 0;">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/87/5c/bf/875cbff7-a8f7-fc4f-808c-458bb139ce26/075679787859.jpg/60x60bb.jpg" width="75" align="left"/>
+    <p><strong><a href="https://www.last.fm/music/chloe+moriondo/_/Take+Your+Time">Take Your Time</a></strong> - <a href="https://www.last.fm/music/chloe+moriondo">chloe moriondo</a></p>
+    <p>2:21</p>
     <br clear="left"/>
 </div>
 
