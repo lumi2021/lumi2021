@@ -125,28 +125,28 @@ Support my work, buy me a coffee!  \
 <p>
 <a href="https://store.steampowered.com/app/1353300" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1353300_thin.svg" />
+<source media="(min-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1353300_thin.svg" />
 <source media="(max-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1353300_wide.svg" />
 <img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/1454400" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1454400_thin.svg" />
+<source media="(min-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1454400_thin.svg" />
 <source media="(max-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1454400_wide.svg" />
 <img style="max-width: 100%;" alt="Cookie Clicker" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/346010" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/346010_thin.svg" />
+<source media="(min-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/346010_thin.svg" />
 <source media="(max-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/346010_wide.svg" />
 <img style="max-width: 100%;" alt="Besiege" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/1604000" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1604000_thin.svg" />
+<source media="(min-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1604000_thin.svg" />
 <source media="(max-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1604000_wide.svg" />
 <img style="max-width: 100%;" alt="Milk outside a bag of milk outside a bag of milk" />
 </picture>
@@ -164,28 +164,28 @@ Support my work, buy me a coffee!  \
 <p>
 <a href="https://store.steampowered.com/app/1289310" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_perfect/steam_cards_generated/1289310_thin.svg" />
+<source media="(min-width: 1061px)" width="24%" srcset="./actions/cache/steam_perfect/steam_cards_generated/1289310_thin.svg" />
 <source media="(max-width: 1061px)" width="49%" srcset="./actions/cache/steam_perfect/steam_cards_generated/1289310_wide.svg" />
 <img style="max-width: 100%;" alt="Helltaker" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/433340" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_perfect/steam_cards_generated/433340_thin.svg" />
+<source media="(min-width: 1061px)" width="24%" srcset="./actions/cache/steam_perfect/steam_cards_generated/433340_thin.svg" />
 <source media="(max-width: 1061px)" width="49%" srcset="./actions/cache/steam_perfect/steam_cards_generated/433340_wide.svg" />
 <img style="max-width: 100%;" alt="Slime Rancher" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/255520" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_perfect/steam_cards_generated/255520_thin.svg" />
+<source media="(min-width: 1061px)" width="24%" srcset="./actions/cache/steam_perfect/steam_cards_generated/255520_thin.svg" />
 <source media="(max-width: 1061px)" width="49%" srcset="./actions/cache/steam_perfect/steam_cards_generated/255520_wide.svg" />
 <img style="max-width: 100%;" alt="Viscera Cleanup Detail: Shadow Warrior" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/1997680" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_perfect/steam_cards_generated/1997680_thin.svg" />
+<source media="(min-width: 1061px)" width="24%" srcset="./actions/cache/steam_perfect/steam_cards_generated/1997680_thin.svg" />
 <source media="(max-width: 1061px)" width="49%" srcset="./actions/cache/steam_perfect/steam_cards_generated/1997680_wide.svg" />
 <img style="max-width: 100%;" alt="REFLEXIA Prototype ver." />
 </picture>
