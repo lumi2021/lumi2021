@@ -23,10 +23,10 @@ I write code :)
 <badge color="202020" style="for-the-badge" icon="c++">C++</badge>
 <badge color="202020" style="for-the-badge" icon="dotnet">C#</badge>
 <badge color="202020" style="for-the-badge" icon="zig">Zig</badge>
-<badge color="202020" style="for-the-badge" icon="lua">Lua</badge> \
+<badge color="202020" style="for-the-badge" icon="lua">Lua</badge>
 <badge color="202020" style="for-the-badge" icon="JavaScript">JavaScript</badge>
 <badge color="202020" style="for-the-badge" icon="TypeScript">TypeScript</badge>
-<badge color="202020" style="for-the-badge" icon="godot engine">GDScript</badge> \
+<badge color="202020" style="for-the-badge" icon="godot engine">GDScript</badge>
 <badge color="202020" style="for-the-badge" icon="gradle">Java</badge>
 <badge color="202020" style="for-the-badge" icon="kotlin">Kotlin</badge>
 <badge color="202020" style="for-the-badge" icon="latex">LaTeX</badge> \
