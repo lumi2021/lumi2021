@@ -15,9 +15,7 @@
 - 📫 Talk with me in my Discord DM ([@lumi_nya](https://discordapp.com/users/632992487375634432))
 - 😄 Pronouns: She / Her
 
-![python](https://img.shields.io/badge/python-202020?logo=python&style=for-the-badge)![C](https://img.shields.io/badge/C-202020?logo=c&style=for-the-badge)![C++](https://img.shields.io/badge/C%2B%2B-202020?logo=c%2B%2B&style=for-the-badge)![C#](https://img.shields.io/badge/C%23-202020?logo=dotnet&style=for-the-badge)![Zig](https://img.shields.io/badge/Zig-202020?logo=zig&style=for-the-badge)![Lua](https://img.shields.io/badge/Lua-202020?logo=lua&style=for-the-badge) \
-![JavaScript](https://img.shields.io/badge/JavaScript-202020?logo=JavaScript&style=for-the-badge)![TypeScript](https://img.shields.io/badge/TypeScript-202020?logo=TypeScript&style=for-the-badge)![GDScript](https://img.shields.io/badge/GDScript-202020?logo=godot+engine&style=for-the-badge) \
-![Java](https://img.shields.io/badge/Java-202020?logo=gradle&style=for-the-badge)![Kotlin](https://img.shields.io/badge/Kotlin-202020?logo=kotlin&style=for-the-badge)![LaTeX](https://img.shields.io/badge/LaTeX-202020?logo=latex&style=for-the-badge) \
+![python](https://img.shields.io/badge/python-202020?logo=python&style=for-the-badge)![C](https://img.shields.io/badge/C-202020?logo=c&style=for-the-badge)![C++](https://img.shields.io/badge/C%2B%2B-202020?logo=c%2B%2B&style=for-the-badge)![C#](https://img.shields.io/badge/C%23-202020?logo=dotnet&style=for-the-badge)![Zig](https://img.shields.io/badge/Zig-202020?logo=zig&style=for-the-badge)![Lua](https://img.shields.io/badge/Lua-202020?logo=lua&style=for-the-badge)![JavaScript](https://img.shields.io/badge/JavaScript-202020?logo=JavaScript&style=for-the-badge)![TypeScript](https://img.shields.io/badge/TypeScript-202020?logo=TypeScript&style=for-the-badge)![GDScript](https://img.shields.io/badge/GDScript-202020?logo=godot+engine&style=for-the-badge)![Java](https://img.shields.io/badge/Java-202020?logo=gradle&style=for-the-badge)![Kotlin](https://img.shields.io/badge/Kotlin-202020?logo=kotlin&style=for-the-badge)![LaTeX](https://img.shields.io/badge/LaTeX-202020?logo=latex&style=for-the-badge) \
 ![Angular](https://img.shields.io/badge/Angular-404040?logo=angular&style=for-the-badge)![Ionic](https://img.shields.io/badge/Ionic-404040?logo=Ionic&style=for-the-badge)![Node.js](https://img.shields.io/badge/Node.js-404040?logo=Node.js&style=for-the-badge) \
 ![OpenGL](https://img.shields.io/badge/OpenGL-606060?logo=opengl&style=for-the-badge)![Vulkan](https://img.shields.io/badge/Vulkan-606060?logo=vulkan&style=for-the-badge)![Assembly](https://img.shields.io/badge/Assembly-606060?logo=intel&style=for-the-badge)![Bash](https://img.shields.io/badge/Bash-606060?logo=GNU-bash&style=for-the-badge)![And+](https://img.shields.io/badge/And%2B-205020?style=for-the-badge)
 
@@ -25,7 +23,7 @@
 
 ## My Activity
 
-- ✏️ Made 13 commits
+- ✏️ Made 15 commits
 - ✏️ Made 1 commit
 - ✏️ Made 1 commit
 - ✏️ Made 1 commit
