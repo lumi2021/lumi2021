@@ -1,0 +1,29 @@
+{
+  "LastUpdated": "2026-08-30T17:25:41.7352663Z",
+  "Games": {
+    "1289310": {
+      "AppId": "1289310",
+      "Name": "Helltaker",
+      "ThinPath": "./actions/cache/steam_perfect/steam_cards_generated/1289310_thin.svg",
+      "WidePath": "./actions/cache/steam_perfect/steam_cards_generated/1289310_wide.svg"
+    },
+    "433340": {
+      "AppId": "433340",
+      "Name": "Slime Rancher",
+      "ThinPath": "./actions/cache/steam_perfect/steam_cards_generated/433340_thin.svg",
+      "WidePath": "./actions/cache/steam_perfect/steam_cards_generated/433340_wide.svg"
+    },
+    "255520": {
+      "AppId": "255520",
+      "Name": "Viscera Cleanup Detail: Shadow Warrior",
+      "ThinPath": "./actions/cache/steam_perfect/steam_cards_generated/255520_thin.svg",
+      "WidePath": "./actions/cache/steam_perfect/steam_cards_generated/255520_wide.svg"
+    },
+    "1997680": {
+      "AppId": "1997680",
+      "Name": "REFLEXIA Prototype ver.",
+      "ThinPath": "./actions/cache/steam_perfect/steam_cards_generated/1997680_thin.svg",
+      "WidePath": "./actions/cache/steam_perfect/steam_cards_generated/1997680_wide.svg"
+    }
+  }
+}
