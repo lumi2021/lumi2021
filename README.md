@@ -23,7 +23,8 @@
 
 ## My Activity
 
-- ✏️ Made 15 commits
+- ✏️ Made 1 commit
+- ✏️ Made 16 commits
 - ✏️ Made 1 commit
 - ✏️ Made 1 commit
 - ✏️ Made 1 commit
@@ -32,16 +33,15 @@
 - ✏️ Made 10 commits
 - ✏️ Made 24 commits
 - 🎉 Merged pull request [#17](https://github.com/taijarals/lobo_ovelha_cacador/pull/17) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
-- 🎉 Merged pull request [#16](https://github.com/taijarals/lobo_ovelha_cacador/pull/16) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 
 ```rust
-Total Time: 12 hrs 32 mins
+Total Time: 25 hrs 9 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 7 hrs 47 mins
-- "Markdown"      ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 12 mins
-- "YAML"          ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 35 mins
-- "Other"         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 52 mins
-- "JavaScript"    ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 18 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 10 hrs 20 mins
+- "Zig"           ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 3 hrs 27 mins
+- "TypeScript"    ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 3 hrs 9 mins
+- "SCSS"          ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 20 mins
+- "YAML"          ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 35 mins
 ```
 
 <!-- <github option="most-starred">
@@ -98,15 +98,15 @@ Support my work, buy me a coffee!  \
 <strong clear="left">1:53</strong>
 </div>
 <div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/87/5c/bf/875cbff7-a8f7-fc4f-808c-458bb139ce26/075679787859.jpg/60x60bb.jpg" width="60" align="left" />
+<img src="https://raw.githubusercontent.com/lumi2021/lumi2021/refs/heads/main/scripts/assets/song-no-cover.png" width="60" align="left" />
 <p>
 <strong>
-<a href="https://www.last.fm/music/chloe+moriondo/_/Vapor">Vapor</a>
+<a href="https://www.last.fm/music/Cavetown/_/I%27m+Low+on+Gas+and+You+Need+A+Jacket">I'm Low on Gas and You Need A Jacket</a>
 </strong>
  • 
-<a href="https://www.last.fm/music/chloe+moriondo">chloe moriondo</a>
+<a href="https://www.last.fm/music/Cavetown">Cavetown</a>
 </p>
-<strong clear="left">4:44</strong>
+<strong clear="left">—-:--</strong>
 </div>
 </p>
 
@@ -135,18 +135,18 @@ Support my work, buy me a coffee!  \
 <img style="max-width: 100%;" alt="Cookie Clicker" />
 </picture>
 </a>
-<a href="https://store.steampowered.com/app/346010" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/346010_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/346010_wide.svg" />
-<img style="max-width: 100%;" alt="Besiege" />
-</picture>
-</a>
 <a href="https://store.steampowered.com/app/1604000" target="_blank">
 <picture>
 <source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1604000_thin.svg" />
 <source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1604000_wide.svg" />
 <img style="max-width: 100%;" alt="Milk outside a bag of milk outside a bag of milk" />
+</picture>
+</a>
+<a href="https://store.steampowered.com/app/346010" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/346010_thin.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/346010_wide.svg" />
+<img style="max-width: 100%;" alt="Besiege" />
 </picture>
 </a>
 </p>
