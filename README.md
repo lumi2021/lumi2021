@@ -68,17 +68,6 @@ Support my work, buy me a coffee!  \
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
 <p>
 <strong>
-<a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">One Man Circus</a>
-</strong>
- • 
-<a href="https://www.last.fm/music/elio+mei">elio mei</a>
-</p>
-<strong clear="left">5:49</strong>
-</div>
-<div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
-<p>
-<strong>
 <a href="https://www.last.fm/music/Elio+Mei/_/Playing+Dead">Playing Dead</a>
 </strong>
  • 
@@ -98,15 +87,26 @@ Support my work, buy me a coffee!  \
 <strong clear="left">1:53</strong>
 </div>
 <div style="clear: both; padding: 10px 0;">
-<img src="https://raw.githubusercontent.com/lumi2021/lumi2021/refs/heads/main/scripts/assets/song-no-cover.png" width="60" align="left" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
 <p>
 <strong>
-<a href="https://www.last.fm/music/Cavetown/_/I%27m+Low+on+Gas+and+You+Need+A+Jacket">I'm Low on Gas and You Need A Jacket</a>
+<a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">One Man Circus</a>
 </strong>
  • 
-<a href="https://www.last.fm/music/Cavetown">Cavetown</a>
+<a href="https://www.last.fm/music/elio+mei">elio mei</a>
 </p>
-<strong clear="left">—-:--</strong>
+<strong clear="left">5:49</strong>
+</div>
+<div style="clear: both; padding: 10px 0;">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/87/5c/bf/875cbff7-a8f7-fc4f-808c-458bb139ce26/075679787859.jpg/60x60bb.jpg" width="60" align="left" />
+<p>
+<strong>
+<a href="https://www.last.fm/music/chloe+moriondo/_/Vapor">Vapor</a>
+</strong>
+ • 
+<a href="https://www.last.fm/music/chloe+moriondo">chloe moriondo</a>
+</p>
+<strong clear="left">4:44</strong>
 </div>
 </p>
 
