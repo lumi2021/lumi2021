@@ -35,13 +35,13 @@
 - 🎉 Merged pull request [#17](https://github.com/taijarals/lobo_ovelha_cacador/pull/17) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 
 ```rust
-Total Time: 25 hrs 9 mins
+Total Time: 23 hrs 33 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 10 hrs 20 mins
-- "Zig"           ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 3 hrs 27 mins
-- "TypeScript"    ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 3 hrs 9 mins
-- "SCSS"          ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 20 mins
-- "YAML"          ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 35 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 8 hrs 41 mins
+- "TypeScript"    ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 hrs 54 mins
+- "Zig"           ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 hrs 4 mins
+- "SCSS"          ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 30 mins
+- "HTML"          ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 24 mins
 ```
 
 <!-- <github option="most-starred">
@@ -68,6 +68,17 @@ Support my work, buy me a coffee!  \
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
 <p>
 <strong>
+<a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">One Man Circus</a>
+</strong>
+ • 
+<a href="https://www.last.fm/music/elio+mei">elio mei</a>
+</p>
+<strong clear="left">5:49</strong>
+</div>
+<div style="clear: both; padding: 10px 0;">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
+<p>
+<strong>
 <a href="https://www.last.fm/music/Elio+Mei/_/Playing+Dead">Playing Dead</a>
 </strong>
  • 
@@ -87,26 +98,15 @@ Support my work, buy me a coffee!  \
 <strong clear="left">1:53</strong>
 </div>
 <div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/78/a7/0b78a78c-0d4b-b394-d1f4-ee4793158fac/859725169963.png/60x60bb.jpg" width="60" align="left" />
 <p>
 <strong>
-<a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">One Man Circus</a>
+<a href="https://www.last.fm/music/Cavetown/_/This+is+home">This is home</a>
 </strong>
  • 
-<a href="https://www.last.fm/music/elio+mei">elio mei</a>
+<a href="https://www.last.fm/music/Cavetown">Cavetown</a>
 </p>
-<strong clear="left">5:49</strong>
-</div>
-<div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/87/5c/bf/875cbff7-a8f7-fc4f-808c-458bb139ce26/075679787859.jpg/60x60bb.jpg" width="60" align="left" />
-<p>
-<strong>
-<a href="https://www.last.fm/music/chloe+moriondo/_/Vapor">Vapor</a>
-</strong>
- • 
-<a href="https://www.last.fm/music/chloe+moriondo">chloe moriondo</a>
-</p>
-<strong clear="left">4:44</strong>
+<strong clear="left">3:46</strong>
 </div>
 </p>
 
@@ -121,6 +121,13 @@ Support my work, buy me a coffee!  \
 ### Recent games
 
 <p>
+<a href="https://store.steampowered.com/app/105600" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/105600_thin.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/105600_wide.svg" />
+<img style="max-width: 100%;" alt="Terraria" />
+</picture>
+</a>
 <a href="https://store.steampowered.com/app/1353300" target="_blank">
 <picture>
 <source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1353300_thin.svg" />
@@ -140,13 +147,6 @@ Support my work, buy me a coffee!  \
 <source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1604000_thin.svg" />
 <source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1604000_wide.svg" />
 <img style="max-width: 100%;" alt="Milk outside a bag of milk outside a bag of milk" />
-</picture>
-</a>
-<a href="https://store.steampowered.com/app/346010" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/346010_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/346010_wide.svg" />
-<img style="max-width: 100%;" alt="Besiege" />
 </picture>
 </a>
 </p>
