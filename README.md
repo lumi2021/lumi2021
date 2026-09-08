@@ -24,6 +24,7 @@
 ## My Activity
 
 - ✏️ Made 1 commit
+- ✏️ Made 1 commit
 - ✏️ Made 16 commits
 - ✏️ Made 1 commit
 - ✏️ Made 1 commit
@@ -32,16 +33,15 @@
 - ✏️ Made 7 commits
 - ✏️ Made 10 commits
 - ✏️ Made 24 commits
-- 🎉 Merged pull request [#17](https://github.com/taijarals/lobo_ovelha_cacador/pull/17) in [taijarals/lobo_ovelha_cacador](https://github.com/taijarals/lobo_ovelha_cacador)
 
 ```rust
-Total Time: 23 hrs 33 mins
+Total Time: 26 hrs 3 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 8 hrs 41 mins
-- "TypeScript"    ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 hrs 54 mins
-- "Zig"           ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 hrs 4 mins
-- "SCSS"          ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 30 mins
-- "HTML"          ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 24 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 7 hrs 18 mins
+- "Zig"           ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 6 hrs 55 mins
+- "TypeScript"    ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 5 hrs 3 mins
+- "SCSS"          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 38 mins
+- "HTML"          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 29 mins
 ```
 
 <!-- <github option="most-starred">
@@ -121,11 +121,11 @@ Support my work, buy me a coffee!  \
 ### Recent games
 
 <p>
-<a href="https://store.steampowered.com/app/105600" target="_blank">
+<a href="https://store.steampowered.com/app/1919460" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/105600_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/105600_wide.svg" />
-<img style="max-width: 100%;" alt="Terraria" />
+<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1919460_thin.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1919460_wide.svg" />
+<img style="max-width: 100%;" alt="Seraph's Last Stand" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/1353300" target="_blank">
@@ -135,18 +135,18 @@ Support my work, buy me a coffee!  \
 <img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
 </picture>
 </a>
-<a href="https://store.steampowered.com/app/1454400" target="_blank">
+<a href="https://store.steampowered.com/app/4025700" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1454400_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1454400_wide.svg" />
-<img style="max-width: 100%;" alt="Cookie Clicker" />
+<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/4025700_thin.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/4025700_wide.svg" />
+<img style="max-width: 100%;" alt="Heartopia" />
 </picture>
 </a>
-<a href="https://store.steampowered.com/app/1604000" target="_blank">
+<a href="https://store.steampowered.com/app/105600" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1604000_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1604000_wide.svg" />
-<img style="max-width: 100%;" alt="Milk outside a bag of milk outside a bag of milk" />
+<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/105600_thin.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/105600_wide.svg" />
+<img style="max-width: 100%;" alt="Terraria" />
 </picture>
 </a>
 </p>

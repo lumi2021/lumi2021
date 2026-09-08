@@ -1,0 +1,15 @@
+﻿<!--Disclaimer: All game titles, arts, logos, and trademarks belong to Steam (Valve Corporation) and their respective developers.-->
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="50%" stop-color="transparent" />
+      <stop offset="95%" stop-color="#111" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity=".45" />
+    </filter>
+  </defs>
+  <image href="data:text/html;base64,PGh0bWw+DQo8aGVhZD48dGl0bGU+NDA0IE5vdCBGb3VuZDwvdGl0bGU+PC9oZWFkPg0KPGJvZHk+DQo8Y2VudGVyPjxoMT40MDQgTm90IEZvdW5kPC9oMT48L2NlbnRlcj4NCjxocj48Y2VudGVyPm5naW54PC9jZW50ZXI+DQo8L2JvZHk+DQo8L2h0bWw+DQo=" width="600" height="900" preserveAspectRatio="xMidYMid slice" />
+  <rect width="600" height="900" fill="url(#fade)" />
+  <text x="10" y="870" fill="#ffffff" font-size="50" font-weight="600" text-anchor="start" font-family="system-ui, -apple-system, sans-serif">1h 29min</text>
+</svg>
