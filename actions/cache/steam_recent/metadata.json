@@ -1,11 +1,11 @@
 {
-  "LastUpdated": "2026-09-08T02:25:34.6297218Z",
+  "LastUpdated": "2026-09-09T02:27:51.7079852Z",
   "Games": {
-    "1919460": {
-      "AppId": "1919460",
-      "Name": "Seraph\u0027s Last Stand",
-      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1919460_thin.svg",
-      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1919460_wide.svg"
+    "1454400": {
+      "AppId": "1454400",
+      "Name": "Cookie Clicker",
+      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1454400_thin.svg",
+      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1454400_wide.svg"
     },
     "1353300": {
       "AppId": "1353300",
@@ -13,17 +13,17 @@
       "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1353300_thin.svg",
       "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1353300_wide.svg"
     },
+    "1919460": {
+      "AppId": "1919460",
+      "Name": "Seraph\u0027s Last Stand",
+      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1919460_thin.svg",
+      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1919460_wide.svg"
+    },
     "4025700": {
       "AppId": "4025700",
       "Name": "Heartopia",
       "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/4025700_thin.svg",
       "WidePath": "./actions/cache/steam_recent/steam_cards_generated/4025700_wide.svg"
-    },
-    "105600": {
-      "AppId": "105600",
-      "Name": "Terraria",
-      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/105600_thin.svg",
-      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/105600_wide.svg"
     }
   }
 }

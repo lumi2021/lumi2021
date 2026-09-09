@@ -23,7 +23,7 @@
 
 ## My Activity
 
-- ✏️ Made 1 commit
+- ✏️ Made 2 commits
 - ✏️ Made 1 commit
 - ✏️ Made 16 commits
 - ✏️ Made 1 commit
@@ -35,13 +35,13 @@
 - ✏️ Made 24 commits
 
 ```rust
-Total Time: 26 hrs 3 mins
+Total Time: 28 hrs 45 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 7 hrs 18 mins
-- "Zig"           ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 6 hrs 55 mins
-- "TypeScript"    ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 5 hrs 3 mins
-- "SCSS"          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 38 mins
-- "HTML"          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 29 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 8 hrs 37 mins
+- "Zig"           ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 6 hrs 55 mins
+- "TypeScript"    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 5 hrs 41 mins
+- "SCSS"          ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 44 mins
+- "HTML"          ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 42 mins
 ```
 
 <!-- <github option="most-starred">
@@ -121,11 +121,11 @@ Support my work, buy me a coffee!  \
 ### Recent games
 
 <p>
-<a href="https://store.steampowered.com/app/1919460" target="_blank">
+<a href="https://store.steampowered.com/app/1454400" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1919460_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1919460_wide.svg" />
-<img style="max-width: 100%;" alt="Seraph's Last Stand" />
+<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1454400_thin.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1454400_wide.svg" />
+<img style="max-width: 100%;" alt="Cookie Clicker" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/1353300" target="_blank">
@@ -135,18 +135,18 @@ Support my work, buy me a coffee!  \
 <img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
 </picture>
 </a>
+<a href="https://store.steampowered.com/app/1919460" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1919460_thin.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1919460_wide.svg" />
+<img style="max-width: 100%;" alt="Seraph's Last Stand" />
+</picture>
+</a>
 <a href="https://store.steampowered.com/app/4025700" target="_blank">
 <picture>
 <source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/4025700_thin.svg" />
 <source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/4025700_wide.svg" />
 <img style="max-width: 100%;" alt="Heartopia" />
-</picture>
-</a>
-<a href="https://store.steampowered.com/app/105600" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/105600_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/105600_wide.svg" />
-<img style="max-width: 100%;" alt="Terraria" />
 </picture>
 </a>
 </p>
