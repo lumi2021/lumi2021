@@ -23,7 +23,7 @@
 
 ## My Activity
 
-- ✏️ Made 2 commits
+- ✏️ Made 3 commits
 - ✏️ Made 1 commit
 - ✏️ Made 16 commits
 - ✏️ Made 1 commit
@@ -35,13 +35,13 @@
 - ✏️ Made 24 commits
 
 ```rust
-Total Time: 24 hrs 19 mins
+Total Time: 21 hrs 25 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 7 hrs 39 mins
-- "Zig"           ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 5 hrs 18 mins
-- "TypeScript"    ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4 hrs 42 mins
-- "SCSS"          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 23 mins
-- "HTML"          ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 12 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 6 hrs 17 mins
+- "TypeScript"    ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 5 hrs 16 mins
+- "Zig"           ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 3 hrs 41 mins
+- "SCSS"          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 24 mins
+- "HTML"          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 13 mins
 ```
 
 <!-- <github option="most-starred">
@@ -128,6 +128,13 @@ Support my work, buy me a coffee!  \
 <img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
 </picture>
 </a>
+<a href="https://store.steampowered.com/app/1454400" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1454400_thin.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1454400_wide.svg" />
+<img style="max-width: 100%;" alt="Cookie Clicker" />
+</picture>
+</a>
 <a href="https://store.steampowered.com/app/1919460" target="_blank">
 <picture>
 <source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1919460_thin.svg" />
@@ -140,13 +147,6 @@ Support my work, buy me a coffee!  \
 <source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/346010_thin.svg" />
 <source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/346010_wide.svg" />
 <img style="max-width: 100%;" alt="Besiege" />
-</picture>
-</a>
-<a href="https://store.steampowered.com/app/1454400" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1454400_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1454400_wide.svg" />
-<img style="max-width: 100%;" alt="Cookie Clicker" />
 </picture>
 </a>
 </p>

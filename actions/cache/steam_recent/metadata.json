@@ -1,11 +1,17 @@
 {
-  "LastUpdated": "2026-09-11T02:22:35.9582853Z",
+  "LastUpdated": "2026-09-12T02:30:12.4787823Z",
   "Games": {
     "1353300": {
       "AppId": "1353300",
       "Name": "Idle Slayer \u2013 Incremental RPG",
       "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1353300_thin.svg",
       "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1353300_wide.svg"
+    },
+    "1454400": {
+      "AppId": "1454400",
+      "Name": "Cookie Clicker",
+      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1454400_thin.svg",
+      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1454400_wide.svg"
     },
     "1919460": {
       "AppId": "1919460",
@@ -18,12 +24,6 @@
       "Name": "Besiege",
       "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/346010_thin.svg",
       "WidePath": "./actions/cache/steam_recent/steam_cards_generated/346010_wide.svg"
-    },
-    "1454400": {
-      "AppId": "1454400",
-      "Name": "Cookie Clicker",
-      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1454400_thin.svg",
-      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1454400_wide.svg"
     }
   }
 }
