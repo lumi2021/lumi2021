@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-09-12T02:30:12.4787823Z",
+  "LastUpdated": "2026-09-14T02:45:12.8277337Z",
   "Games": {
     "1353300": {
       "AppId": "1353300",
@@ -7,23 +7,23 @@
       "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1353300_thin.svg",
       "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1353300_wide.svg"
     },
-    "1454400": {
-      "AppId": "1454400",
-      "Name": "Cookie Clicker",
-      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1454400_thin.svg",
-      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1454400_wide.svg"
-    },
     "1919460": {
       "AppId": "1919460",
       "Name": "Seraph\u0027s Last Stand",
       "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1919460_thin.svg",
       "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1919460_wide.svg"
     },
-    "346010": {
-      "AppId": "346010",
-      "Name": "Besiege",
-      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/346010_thin.svg",
-      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/346010_wide.svg"
+    "457140": {
+      "AppId": "457140",
+      "Name": "Oxygen Not Included",
+      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/457140_thin.svg",
+      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/457140_wide.svg"
+    },
+    "504230": {
+      "AppId": "504230",
+      "Name": "Celeste",
+      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/504230_thin.svg",
+      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/504230_wide.svg"
     }
   }
 }

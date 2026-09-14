@@ -23,7 +23,7 @@
 
 ## My Activity
 
-- ✏️ Made 3 commits
+- ✏️ Made 4 commits
 - ✏️ Made 1 commit
 - ✏️ Made 16 commits
 - ✏️ Made 1 commit
@@ -35,13 +35,13 @@
 - ✏️ Made 24 commits
 
 ```rust
-Total Time: 23 hrs 55 mins
+Total Time: 26 hrs 19 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 5 hrs 50 mins
-- "TypeScript"    ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 5 hrs 47 mins
-- "Zig"           ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 3 hrs 58 mins
-- "SCSS"          ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 27 mins
-- "HTML"          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 38 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 6 hrs 26 mins
+- "TypeScript"    ⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 6 hrs 19 mins
+- "Zig"           ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 3 hrs 28 mins
+- "HTML"          ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 3 hrs 4 mins
+- "SCSS"          ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 45 mins
 ```
 
 <!-- <github option="most-starred">
@@ -128,13 +128,6 @@ Support my work, buy me a coffee!  \
 <img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
 </picture>
 </a>
-<a href="https://store.steampowered.com/app/1454400" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1454400_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1454400_wide.svg" />
-<img style="max-width: 100%;" alt="Cookie Clicker" />
-</picture>
-</a>
 <a href="https://store.steampowered.com/app/1919460" target="_blank">
 <picture>
 <source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1919460_thin.svg" />
@@ -142,11 +135,18 @@ Support my work, buy me a coffee!  \
 <img style="max-width: 100%;" alt="Seraph's Last Stand" />
 </picture>
 </a>
-<a href="https://store.steampowered.com/app/346010" target="_blank">
+<a href="https://store.steampowered.com/app/457140" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/346010_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/346010_wide.svg" />
-<img style="max-width: 100%;" alt="Besiege" />
+<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/457140_thin.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/457140_wide.svg" />
+<img style="max-width: 100%;" alt="Oxygen Not Included" />
+</picture>
+</a>
+<a href="https://store.steampowered.com/app/504230" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/504230_thin.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/504230_wide.svg" />
+<img style="max-width: 100%;" alt="Celeste" />
 </picture>
 </a>
 </p>
