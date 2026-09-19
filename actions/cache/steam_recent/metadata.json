@@ -1,17 +1,17 @@
 {
-  "LastUpdated": "2026-09-17T02:47:35.2854335Z",
+  "LastUpdated": "2026-09-19T02:33:22.6355846Z",
   "Games": {
-    "1353300": {
-      "AppId": "1353300",
-      "Name": "Idle Slayer \u2013 Incremental RPG",
-      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1353300_thin.svg",
-      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1353300_wide.svg"
-    },
     "1919460": {
       "AppId": "1919460",
       "Name": "Seraph\u0027s Last Stand",
       "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1919460_thin.svg",
       "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1919460_wide.svg"
+    },
+    "1353300": {
+      "AppId": "1353300",
+      "Name": "Idle Slayer \u2013 Incremental RPG",
+      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1353300_thin.svg",
+      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1353300_wide.svg"
     },
     "457140": {
       "AppId": "457140",
