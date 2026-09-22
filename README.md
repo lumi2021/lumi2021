@@ -4,9 +4,23 @@
 <img draggable="false" width="100%" />
 </picture>
 
-> please give a look on my last projects:  \
-> [zig library for building disk images](https://github.com/lumi2021/image-builder)  \
-> [tq language compiler](https://github.com/tqlang/tq-compiler)
+## please give a look on my last projects:
+
+<a href="https://github.com/lumi2021/SharpNES">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=dark_github_repocard" alt="SharpNES - C# NES emulator" width="49.5%" />
+</a>
+
+<a href="https://github.com/lumi2021/image-builder">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=dark_github_repocard" alt="image-builder - Zig image build tool" width="49.5%" />
+</a>
+
+<a href="https://github.com/Anthragon/Distribution">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=dark_github_repocard" alt="Anthragon - Zig operating system" width="49.5%" />
+</a>
+
+<a href="https://github.com/tqlang/tq-compiler">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=dark_github_repocard" alt="TQ language compiler" width="49.5%" />
+</a>
 
 ## Randomness About Me
 
