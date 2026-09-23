@@ -7,7 +7,7 @@ I'm Camila, a 19 y old programming enthusiast
 I write code :)
 </typing>
 
-## please give a look on my last projects:
+## Please give a look on my last projects:
 <a href="https://github.com/lumi2021/SharpNES">
   <picture>
     <source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=highcontrast" />
