@@ -149,18 +149,18 @@ Support my work, buy me a coffee!  \
 <img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
 </picture>
 </a>
+<a href="https://store.steampowered.com/app/431730" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/431730_thin.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/431730_wide.svg" />
+<img style="max-width: 100%;" alt="Aseprite" />
+</picture>
+</a>
 <a href="https://store.steampowered.com/app/457140" target="_blank">
 <picture>
 <source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/457140_thin.svg" />
 <source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/457140_wide.svg" />
 <img style="max-width: 100%;" alt="Oxygen Not Included" />
-</picture>
-</a>
-<a href="https://store.steampowered.com/app/504230" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/504230_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/504230_wide.svg" />
-<img style="max-width: 100%;" alt="Celeste" />
 </picture>
 </a>
 </p>

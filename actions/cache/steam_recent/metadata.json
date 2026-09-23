@@ -1,5 +1,5 @@
 {
-  "LastUpdated": "2026-09-22T02:43:18.4446886Z",
+  "LastUpdated": "2026-09-23T02:43:44.633969Z",
   "Games": {
     "1919460": {
       "AppId": "1919460",
@@ -13,17 +13,17 @@
       "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/1353300_thin.svg",
       "WidePath": "./actions/cache/steam_recent/steam_cards_generated/1353300_wide.svg"
     },
+    "431730": {
+      "AppId": "431730",
+      "Name": "Aseprite",
+      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/431730_thin.svg",
+      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/431730_wide.svg"
+    },
     "457140": {
       "AppId": "457140",
       "Name": "Oxygen Not Included",
       "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/457140_thin.svg",
       "WidePath": "./actions/cache/steam_recent/steam_cards_generated/457140_wide.svg"
-    },
-    "504230": {
-      "AppId": "504230",
-      "Name": "Celeste",
-      "ThinPath": "./actions/cache/steam_recent/steam_cards_generated/504230_thin.svg",
-      "WidePath": "./actions/cache/steam_recent/steam_cards_generated/504230_wide.svg"
     }
   }
 }
