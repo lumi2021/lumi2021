@@ -7,19 +7,35 @@
 ## please give a look on my last projects:
 
 <a href="https://github.com/lumi2021/SharpNES">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=dark_github_repocard" alt="SharpNES - C# NES emulator" width="49.5%" />
+<picture>
+<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=high_contrast" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=dark_github_repocard" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=light" alt="SharpNES - C# NES emulator" width="49.5%" />
+</picture>
 </a>
 
 <a href="https://github.com/lumi2021/image-builder">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=dark_github_repocard" alt="image-builder - Zig image build tool" width="49.5%" />
+<picture>
+<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=high_contrast" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=dark_github_repocard" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=light" alt="image-builder - Zig image build tool" width="49.5%" />
+</picture>
 </a>
 
 <a href="https://github.com/tqlang/tq-compiler">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=dark_github_repocard" alt="TQ language compiler" width="49.5%" />
+<picture>
+<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=high_contrast" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=dark_github_repocard" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=light" alt="TQ language compiler" width="49.5%" />
+</picture>
 </a>
 
 <a href="https://github.com/Anthragon/Distribution">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=dark_github_repocard" alt="Anthragon - Zig operating system" width="49.5%" />
+<picture>
+<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=high_contrast" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=dark_github_repocard" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=light" alt="Anthragon - Zig operating system" width="49.5%" />
+</picture>
 </a>
 
 ## Randomness About Me
@@ -49,13 +65,13 @@
 - ✏️ Made 7 commits
 
 ```rust
-Total Time: 11 hrs 33 mins
+Total Time: 12 hrs 20 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 6 hrs 45 mins
-- "TypeScript"    ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 10 mins
-- "HTML"          ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 17 mins
-- "SCSS"          ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 52 mins
-- "Markdown"      ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 9 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 7 hrs 31 mins
+- "TypeScript"    ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 10 mins
+- "HTML"          ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 17 mins
+- "SCSS"          ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 52 mins
+- "Markdown"      ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 12 mins
 ```
 
 <!-- <github option="most-starred">
@@ -112,15 +128,15 @@ Support my work, buy me a coffee!  \
 <strong clear="left">1:53</strong>
 </div>
 <div style="clear: both; padding: 10px 0;">
-<img src="https://raw.githubusercontent.com/lumi2021-silly-workflows/markdown-plus/refs/heads/main/MarkdownPlus.LastFm/assets/song-no-cover.png" width="60" align="left" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/78/a7/0b78a78c-0d4b-b394-d1f4-ee4793158fac/859725169963.png/60x60bb.jpg" width="60" align="left" />
 <p>
 <strong>
-<a href="https://www.last.fm/music/Cavetown/_/I%27m+Low+on+Gas+and+You+Need+A+Jacket">I'm Low on Gas and You Need A Jacket</a>
+<a href="https://www.last.fm/music/Cavetown/_/This+is+home">This is home</a>
 </strong>
  • 
 <a href="https://www.last.fm/music/Cavetown">Cavetown</a>
 </p>
-<strong clear="left">—-:--</strong>
+<strong clear="left">3:46</strong>
 </div>
 </p>
 
