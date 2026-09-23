@@ -8,33 +8,33 @@
 
 <a href="https://github.com/lumi2021/SharpNES">
 <picture>
-<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=high_contrast" />
+<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=highcontrast" />
 <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=dark_github_repocard" />
-<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=light" alt="SharpNES - C# NES emulator" width="49.5%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=github_light" alt="SharpNES - C# NES emulator" width="49.5%" />
 </picture>
 </a>
 
 <a href="https://github.com/lumi2021/image-builder">
 <picture>
-<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=high_contrast" />
+<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=highcontrast" />
 <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=dark_github_repocard" />
-<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=light" alt="image-builder - Zig image build tool" width="49.5%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=github_light" alt="image-builder - Zig image build tool" width="49.5%" />
 </picture>
 </a>
 
 <a href="https://github.com/tqlang/tq-compiler">
 <picture>
-<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=high_contrast" />
+<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=highcontrast" />
 <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=dark_github_repocard" />
-<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=light" alt="TQ language compiler" width="49.5%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=github_light" alt="TQ language compiler" width="49.5%" />
 </picture>
 </a>
 
 <a href="https://github.com/Anthragon/Distribution">
 <picture>
-<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=high_contrast" />
+<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=highcontrast" />
 <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=dark_github_repocard" />
-<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=light" alt="Anthragon - Zig operating system" width="49.5%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=github_light" alt="Anthragon - Zig operating system" width="49.5%" />
 </picture>
 </a>
 
@@ -53,7 +53,7 @@
 
 ## My Activity
 
-- ✏️ Made 4 commits
+- ✏️ Made 5 commits
 - ✏️ Made 2 commits
 - ✏️ Made 5 commits
 - ✏️ Made 1 commit
