@@ -4,7 +4,7 @@
 <img draggable="false" width="100%" />
 </picture>
 
-## please give a look on my last projects:
+## Please give a look on my last projects:
 
 <a href="https://github.com/lumi2021/SharpNES">
 <picture>
