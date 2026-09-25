@@ -1,6 +1,6 @@
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?width=500&height=120&center=true&vCenter=true&multiline=true&font=VT323&lines=Welcome!%3BI%27m+Camila%2C+a+19+y+old+programming+enthusiast%3BI+write+code+%3A)&color=cfcfcf" />
-<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?width=500&height=120&center=true&vCenter=true&multiline=true&font=VT323&lines=Welcome!%3BI%27m+Camila%2C+a+19+y+old+programming+enthusiast%3BI+write+code+%3A)&color=000000" />
+<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?width=500&height=120&center=true&vCenter=true&multiline=true&repeat=false&lines=Welcome!%3BI%27m+Camila%2C+a+19+y+old+programming+enthusiast%3BI+write+code+%3A)&color=cfcfcf" />
+<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?width=500&height=120&center=true&vCenter=true&multiline=true&repeat=false&lines=Welcome!%3BI%27m+Camila%2C+a+19+y+old+programming+enthusiast%3BI+write+code+%3A)&color=000000" />
 <img draggable="false" width="100%" />
 </picture>
 
@@ -65,13 +65,13 @@
 - ✏️ Made 7 commits
 
 ```rust
-Total Time: 12 hrs 20 mins
+Total Time: 13 hrs 15 mins
 
-- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 7 hrs 31 mins
-- "TypeScript"    ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 10 mins
-- "HTML"          ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 17 mins
-- "SCSS"          ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 52 mins
-- "Markdown"      ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 12 mins
+- "C#"            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 8 hrs 15 mins
+- "TypeScript"    ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 2 hrs 10 mins
+- "HTML"          ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 1 hr 17 mins
+- "SCSS"          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 52 mins
+- "tq"            ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 14 mins
 ```
 
 <!-- <github option="most-starred">
@@ -143,7 +143,7 @@ Support my work, buy me a coffee!  \
 ## Socials
 
 [![Discord](https://img.shields.io/badge/Discord-282b30?logo=discord&style=for-the-badge)](https://discordapp.com/users/632992487375634432)
-[![Linkedin](https://img.shields.io/badge/Linkedin-ffffff?logo=linkedin&style=for-the-badge&labelColor=0077B5)](https://www.linkedin.com/in/leoaraujodev)
+[![Linkedin](https://img.shields.io/badge/Linkedin-ffffff?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/leoaraujodev)
 [![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&style=for-the-badge)](https://www.threads.com/@42batata42)
 
 ### Gaming
@@ -151,13 +151,6 @@ Support my work, buy me a coffee!  \
 ### Recent games
 
 <p>
-<a href="https://store.steampowered.com/app/1919460" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1919460_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1919460_wide.svg" />
-<img style="max-width: 100%;" alt="Seraph's Last Stand" />
-</picture>
-</a>
 <a href="https://store.steampowered.com/app/1353300" target="_blank">
 <picture>
 <source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1353300_thin.svg" />
@@ -165,18 +158,25 @@ Support my work, buy me a coffee!  \
 <img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
 </picture>
 </a>
-<a href="https://store.steampowered.com/app/431730" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/431730_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/431730_wide.svg" />
-<img style="max-width: 100%;" alt="Aseprite" />
-</picture>
-</a>
 <a href="https://store.steampowered.com/app/457140" target="_blank">
 <picture>
 <source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/457140_thin.svg" />
 <source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/457140_wide.svg" />
 <img style="max-width: 100%;" alt="Oxygen Not Included" />
+</picture>
+</a>
+<a href="https://store.steampowered.com/app/1919460" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/1919460_thin.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/1919460_wide.svg" />
+<img style="max-width: 100%;" alt="Seraph's Last Stand" />
+</picture>
+</a>
+<a href="https://store.steampowered.com/app/431730" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/steam_cards_generated/431730_thin.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/steam_cards_generated/431730_wide.svg" />
+<img style="max-width: 100%;" alt="Aseprite" />
 </picture>
 </a>
 </p>
