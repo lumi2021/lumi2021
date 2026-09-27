@@ -1,5 +1,5 @@
 <typing
-    font="VT323" size="20" duration="3000" pause="300"
+    font-family="VT323" font-size="20" char-duration="3000" line-duration="300"
     width="500" height="120" repeat="off"
 >
 Welcome!
