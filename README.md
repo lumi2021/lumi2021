@@ -1,6 +1,6 @@
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?width=500&height=120&center=true&vCenter=true&multiline=true&font=VT323&size=20&duration=3000&pause=300&repeat=false&lines=Welcome!%3BI%27m+Camila%2C+a+19+y+old+programming+enthusiast%3BI+write+code+%3A)&color=cfcfcf" />
-<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?width=500&height=120&center=true&vCenter=true&multiline=true&font=VT323&size=20&duration=3000&pause=300&repeat=false&lines=Welcome!%3BI%27m+Camila%2C+a+19+y+old+programming+enthusiast%3BI+write+code+%3A)&color=000000" />
+<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?width=600&height=100&center=true&vCenter=true&multiline=true&font=VT323&size=20&duration=3000&pause=300&repeat=false&lines=Welcome!%3BI%27m+Camila%2C+a+19+y+old+programming+enthusiast%3BI+write+code+%3A)&color=cfcfcf" />
+<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?width=600&height=100&center=true&vCenter=true&multiline=true&font=VT323&size=20&duration=3000&pause=300&repeat=false&lines=Welcome!%3BI%27m+Camila%2C+a+19+y+old+programming+enthusiast%3BI+write+code+%3A)&color=000000" />
 <img draggable="false" width="100%" />
 </picture>
 
@@ -53,7 +53,7 @@
 
 ## My Activity
 
-- ✏️ Made 8 commits
+- ✏️ Made 9 commits
 - ✏️ Made 2 commits
 - ✏️ Made 5 commits
 - ✏️ Made 1 commit
