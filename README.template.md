@@ -91,18 +91,16 @@ Support my work, buy me a coffee! \
 
 ## Socials
 
-[<badge color="282b30" style="for-the-badge" icon="discord">Discord</badge>](https://discordapp.com/users/632992487375634432)
-[<badge color="ffffff" style="for-the-badge" icon="linkedin" labelColor="0077B5">Linkedin</badge>](https://www.linkedin.com/in/leoaraujodev)
-[<badge color="000000" style="for-the-badge" icon="threads">Threads</badge>](https://www.threads.com/@42batata42)
+<badge color="282b30" style="for-the-badge" icon="discord" href="https://discordapp.com/users/632992487375634432">Discord</badge>]
+<badge color="ffffff" style="for-the-badge" icon="linkedin" labelColor="0077B5" href="https://www.linkedin.com/in/leoaraujodev">Linkedin</badge>
+<badge color="000000" style="for-the-badge" icon="threads" href="https://www.threads.com/@42batata42">Threads</badge>
 
 ### Gaming
 
 ### Recent games
-<steam-lib option="recent">
-</steam-lib>
+<steam-lib-recent />
 
 ### Perfected games
-<steam-lib option="perfected">
-</steam-lib>
+<steam-lib-perfected />
 
 > Thanks for read :p
