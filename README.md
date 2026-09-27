@@ -86,11 +86,11 @@ Support my work, buy me a coffee!  \
 
 ## Socials
 
-![Discord](https://img.shields.io/badge/Discord-282b30?logo=discord&style=for-the-badge)
+[Discord![Discord](https://img.shields.io/badge/Discord-282b30?logo=discord&style=for-the-badge)](https://discordapp.com/users/632992487375634432)
 
 ]
 
-![Linkedin](https://img.shields.io/badge/Linkedin-ffffff?logo=linkedin&style=for-the-badge)![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&style=for-the-badge)
+[Linkedin![Linkedin](https://img.shields.io/badge/Linkedin-ffffff?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/leoaraujodev)[Threads![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&style=for-the-badge)](https://www.threads.com/@42batata42)
 
 ### Gaming
 
