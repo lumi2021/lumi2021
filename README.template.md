@@ -1,6 +1,6 @@
 <typing
     font-family="VT323" font-size="20" char-duration="3000" line-duration="300"
-    width="500" height="120" repeat="off"
+    width="600" height="100" repeat="off"
 >
 Welcome!
 I'm Camila, a 19 y old programming enthusiast
