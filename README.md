@@ -1,6 +1,8 @@
-<typing font-family="VT323" font-size="20" char-duration="3000" line-duration="300" width="600" height="100" repeat="off">Welcome!
-I'm Camila, a 19 y old programming enthusiast
-I write code :)</typing>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?width=600&height=100&center=true&vCenter=true&multiline=true&font=VT323&size=20&duration=3000&pause=300&repeat=false&lines=Welcome!%3BI%27m+Camila%2C+a+19+y+old+programming+enthusiast%3BI+write+code+%3A)&color=cfcfcf" />
+<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?width=600&height=100&center=true&vCenter=true&multiline=true&font=VT323&size=20&duration=3000&pause=300&repeat=false&lines=Welcome!%3BI%27m+Camila%2C+a+19+y+old+programming+enthusiast%3BI+write+code+%3A)&color=000000" />
+<img draggable="false" width="100%" />
+</picture>
 
 ## Please give a look on my last projects:
 
@@ -43,26 +45,7 @@ I write code :)</typing>
 - 📫 Talk with me in my Discord DM ([@lumi_nya](https://discordapp.com/users/632992487375634432))
 - 😄 Pronouns: She / Her
 
-<badge color="202020" style="for-the-badge" icon="python">python</badge>
-<badge color="202020" style="for-the-badge" icon="c">C</badge>
-<badge color="202020" style="for-the-badge" icon="c++">C++</badge>
-<badge color="202020" style="for-the-badge" icon="dotnet">C#</badge>
-<badge color="202020" style="for-the-badge" icon="zig">Zig</badge>
-<badge color="202020" style="for-the-badge" icon="lua">Lua</badge>
-<badge color="202020" style="for-the-badge" icon="JavaScript">JavaScript</badge>
-<badge color="202020" style="for-the-badge" icon="TypeScript">TypeScript</badge>
-<badge color="202020" style="for-the-badge" icon="godot engine">GDScript</badge>
-<badge color="202020" style="for-the-badge" icon="gradle">Java</badge>
-<badge color="202020" style="for-the-badge" icon="kotlin">Kotlin</badge>
-<badge color="202020" style="for-the-badge" icon="latex">LaTeX</badge> \
-<badge color="404040" style="for-the-badge" icon="angular">Angular</badge>
-<badge color="404040" style="for-the-badge" icon="Ionic">Ionic</badge>
-<badge color="404040" style="for-the-badge" icon="Node.js">Node.js</badge> \
-<badge color="606060" style="for-the-badge" icon="opengl">OpenGL</badge>
-<badge color="606060" style="for-the-badge" icon="vulkan">Vulkan</badge>
-<badge color="606060" style="for-the-badge" icon="intel">Assembly</badge>
-<badge color="606060" style="for-the-badge" icon="GNU-bash">Bash</badge>
-<badge color="205020" style="for-the-badge">And+</badge>
+![python](https://img.shields.io/badge/python-202020?logo=python&style=for-the-badge)![C](https://img.shields.io/badge/C-202020?logo=c&style=for-the-badge)![C++](https://img.shields.io/badge/C%2B%2B-202020?logo=c%2B%2B&style=for-the-badge)![C#](https://img.shields.io/badge/C%23-202020?logo=dotnet&style=for-the-badge)![Zig](https://img.shields.io/badge/Zig-202020?logo=zig&style=for-the-badge)![Lua](https://img.shields.io/badge/Lua-202020?logo=lua&style=for-the-badge)![JavaScript](https://img.shields.io/badge/JavaScript-202020?logo=JavaScript&style=for-the-badge)![TypeScript](https://img.shields.io/badge/TypeScript-202020?logo=TypeScript&style=for-the-badge)![GDScript](https://img.shields.io/badge/GDScript-202020?logo=godot+engine&style=for-the-badge)![Java](https://img.shields.io/badge/Java-202020?logo=gradle&style=for-the-badge)![Kotlin](https://img.shields.io/badge/Kotlin-202020?logo=kotlin&style=for-the-badge)![LaTeX](https://img.shields.io/badge/LaTeX-202020?logo=latex&style=for-the-badge)![Angular](https://img.shields.io/badge/Angular-404040?logo=angular&style=for-the-badge)![Ionic](https://img.shields.io/badge/Ionic-404040?logo=Ionic&style=for-the-badge)![Node.js](https://img.shields.io/badge/Node.js-404040?logo=Node.js&style=for-the-badge)![OpenGL](https://img.shields.io/badge/OpenGL-606060?logo=opengl&style=for-the-badge)![Vulkan](https://img.shields.io/badge/Vulkan-606060?logo=vulkan&style=for-the-badge)![Assembly](https://img.shields.io/badge/Assembly-606060?logo=intel&style=for-the-badge)![Bash](https://img.shields.io/badge/Bash-606060?logo=GNU-bash&style=for-the-badge)![And+](https://img.shields.io/badge/And%2B-205020?style=for-the-badge)
 
 <!-- ![Linux](https://img.shields.io/badge/I%20use%20Arch%20btw-000000?style=for-the-badge&logo=archlinux) -->
 
@@ -84,9 +67,7 @@ Support my work, buy me a coffee!  \
 
 ## Socials
 
-<badge color="282b30" style="for-the-badge" icon="discord" href="https://discordapp.com/users/632992487375634432">Discord</badge>
-<badge color="ffffff" style="for-the-badge" icon="linkedin" labelColor="0077B5" href="https://www.linkedin.com/in/leoaraujodev">Linkedin</badge>
-<badge color="000000" style="for-the-badge" icon="threads" href="https://www.threads.com/@42batata42">Threads</badge>
+[![Discord](https://img.shields.io/badge/Discord-282b30?logo=discord&style=for-the-badge)](https://discordapp.com/users/632992487375634432)[![Linkedin](https://img.shields.io/badge/Linkedin-ffffff?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/leoaraujodev)[![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&style=for-the-badge)](https://www.threads.com/@42batata42)
 
 ### Gaming
 
@@ -95,30 +76,30 @@ Support my work, buy me a coffee!  \
 <p>
 <a href="https://store.steampowered.com/app/1353300" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/cards/1353300_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/cards/1353300_wide.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1353300-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1353300-00000000-wide_000000006ac748fd.svg" />
 <img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
-</picture>
-</a>
-<a href="https://store.steampowered.com/app/457140" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/cards/457140_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/cards/457140_wide.svg" />
-<img style="max-width: 100%;" alt="Oxygen Not Included" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/1919460" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/cards/1919460_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/cards/1919460_wide.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1919460-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1919460-00000000-wide_000000006ac748fd.svg" />
 <img style="max-width: 100%;" alt="Seraph's Last Stand" />
 </picture>
 </a>
-<a href="https://store.steampowered.com/app/431730" target="_blank">
+<a href="https://store.steampowered.com/app/433340" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_recent/cards/431730_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_recent/cards/431730_wide.svg" />
-<img style="max-width: 100%;" alt="Aseprite" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-433340-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-433340-00000000-wide_000000006ac748fd.svg" />
+<img style="max-width: 100%;" alt="Slime Rancher" />
+</picture>
+</a>
+<a href="https://store.steampowered.com/app/457140" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-457140-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-457140-00000000-wide_000000006ac748fd.svg" />
+<img style="max-width: 100%;" alt="Oxygen Not Included" />
 </picture>
 </a>
 </p>
@@ -131,32 +112,32 @@ Support my work, buy me a coffee!  \
 ### Perfected games
 
 <p>
-<a href="https://store.steampowered.com/app/1289310" target="_blank">
+<a href="https://store.steampowered.com/app/1353300" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_perfect/cards/1289310_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_perfect/cards/1289310_wide.svg" />
-<img style="max-width: 100%;" alt="Helltaker" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1353300-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1353300-00000000-wide_000000006ac748fd.svg" />
+<img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
+</picture>
+</a>
+<a href="https://store.steampowered.com/app/1919460" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1919460-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1919460-00000000-wide_000000006ac748fd.svg" />
+<img style="max-width: 100%;" alt="Seraph's Last Stand" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/433340" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_perfect/cards/433340_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_perfect/cards/433340_wide.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-433340-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-433340-00000000-wide_000000006ac748fd.svg" />
 <img style="max-width: 100%;" alt="Slime Rancher" />
 </picture>
 </a>
-<a href="https://store.steampowered.com/app/255520" target="_blank">
+<a href="https://store.steampowered.com/app/457140" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_perfect/cards/255520_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_perfect/cards/255520_wide.svg" />
-<img style="max-width: 100%;" alt="Viscera Cleanup Detail: Shadow Warrior" />
-</picture>
-</a>
-<a href="https://store.steampowered.com/app/1997680" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="./actions/cache/steam_perfect/cards/1997680_thin.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="./actions/cache/steam_perfect/cards/1997680_wide.svg" />
-<img style="max-width: 100%;" alt="REFLEXIA Prototype ver." />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-457140-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-457140-00000000-wide_000000006ac748fd.svg" />
+<img style="max-width: 100%;" alt="Oxygen Not Included" />
 </picture>
 </a>
 </p>
