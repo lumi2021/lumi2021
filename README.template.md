@@ -71,23 +71,14 @@ I write code :)
 
 ## My Activity
 
-<github option="activity">
-</github>
-
-<wakatime option="weekly-langs">
-</wakatime>
-
-<!-- 
-<github option="most-starred">
-</github>
--->
+<github-activity />
+<wakatime-weekly-langs />
 
 Support my work, buy me a coffee! \
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R413JQF9)
 
 ## Songs I like
-<last-fm>
-</last-fm>
+<last-fm-recent />
 
 ## Socials
 
