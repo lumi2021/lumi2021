@@ -51,7 +51,16 @@
 
 ## My Activity
 
-<github-activity />
+- ✏️ Made 10 commits
+- ✏️ Made 2 commits
+- ✏️ Made 5 commits
+- ✏️ Made 1 commit
+- ✏️ Made 16 commits
+- ✏️ Made 1 commit
+- ✏️ Made 1 commit
+- ✏️ Made 1 commit
+- ✏️ Made 8 commits
+- ✏️ Made 7 commits
 
 <p align="center">
 <img src="actions/cache/wakatime_weekly-langs_000000006abe5ba4.svg" />
@@ -138,22 +147,22 @@ Support my work, buy me a coffee!  \
 </a>
 <a href="https://store.steampowered.com/app/1353300" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="/home/runner/work/lumi2021/lumi2021/actions/cache/steam_gamecard-1353300-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="/home/runner/work/lumi2021/lumi2021/actions/cache/steam_gamecard-1353300-00000000-wide_000000006ac748fd.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1353300-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1353300-00000000-wide_000000006ac748fd.svg" />
 <img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/1919460" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="/home/runner/work/lumi2021/lumi2021/actions/cache/steam_gamecard-1919460-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="/home/runner/work/lumi2021/lumi2021/actions/cache/steam_gamecard-1919460-00000000-wide_000000006ac748fd.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1919460-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1919460-00000000-wide_000000006ac748fd.svg" />
 <img style="max-width: 100%;" alt="Seraph's Last Stand" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/433340" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="/home/runner/work/lumi2021/lumi2021/actions/cache/steam_gamecard-433340-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="/home/runner/work/lumi2021/lumi2021/actions/cache/steam_gamecard-433340-00000000-wide_000000006ac748fd.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-433340-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-433340-00000000-wide_000000006ac748fd.svg" />
 <img style="max-width: 100%;" alt="Slime Rancher" />
 </picture>
 </a>
