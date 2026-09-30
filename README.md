@@ -53,7 +53,9 @@
 
 <github-activity />
 
-<img src="actions/cache/wakatime_weekly-langs_fffffff1886f4c70.svg" />
+<p align="center">
+<img src="actions/cache/wakatime_weekly-langs_000000006abe5ba4.svg" />
+</p>
 
 Support my work, buy me a coffee!  \
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R5R413JQF9)
@@ -127,32 +129,32 @@ Support my work, buy me a coffee!  \
 ### Recent games
 
 <p>
+<a href="https://store.steampowered.com/app/1454400" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1454400-00000000-thin_000000006ac911d6.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1454400-00000000-wide_000000006ac911d6.svg" />
+<img style="max-width: 100%;" alt="Cookie Clicker" />
+</picture>
+</a>
 <a href="https://store.steampowered.com/app/1353300" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1353300-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1353300-00000000-wide_000000006ac748fd.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="/home/runner/work/lumi2021/lumi2021/actions/cache/steam_gamecard-1353300-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="/home/runner/work/lumi2021/lumi2021/actions/cache/steam_gamecard-1353300-00000000-wide_000000006ac748fd.svg" />
 <img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/1919460" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1919460-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1919460-00000000-wide_000000006ac748fd.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="/home/runner/work/lumi2021/lumi2021/actions/cache/steam_gamecard-1919460-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="/home/runner/work/lumi2021/lumi2021/actions/cache/steam_gamecard-1919460-00000000-wide_000000006ac748fd.svg" />
 <img style="max-width: 100%;" alt="Seraph's Last Stand" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/433340" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-433340-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-433340-00000000-wide_000000006ac748fd.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="/home/runner/work/lumi2021/lumi2021/actions/cache/steam_gamecard-433340-00000000-thin_000000006ac748fd.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="/home/runner/work/lumi2021/lumi2021/actions/cache/steam_gamecard-433340-00000000-wide_000000006ac748fd.svg" />
 <img style="max-width: 100%;" alt="Slime Rancher" />
-</picture>
-</a>
-<a href="https://store.steampowered.com/app/457140" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-457140-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-457140-00000000-wide_000000006ac748fd.svg" />
-<img style="max-width: 100%;" alt="Oxygen Not Included" />
 </picture>
 </a>
 </p>
