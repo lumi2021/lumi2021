@@ -63,7 +63,7 @@
 - ✏️ Made 7 commits
 
 <p align="center">
-<img src="actions/cache/wakatime_weekly-langs-5_000000006ac30e0e.svg" />
+<img src="actions/cache/wakatime_weekly-langs-5_000000006ac45bbc.svg" />
 </p>
 
 Support my work, buy me a coffee!  \
@@ -82,6 +82,17 @@ Support my work, buy me a coffee!  \
 <a href="https://www.last.fm/music/Jamie+Paige">Jamie Paige</a>
 </p>
 <strong clear="left">3:36</strong>
+</div>
+<div style="clear: both; padding: 10px 0;">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/44/9338444f-8003-2c1c-4f61-c72c62c9850c/dj.uprjxxxf.jpg/60x60bb.jpg" width="60" align="left" />
+<p>
+<strong>
+<a href="https://www.last.fm/music/we+are+the+dirt/_/counting+the+days">counting the days</a>
+</strong>
+ • 
+<a href="https://www.last.fm/music/we+are+the+dirt">we are the dirt</a>
+</p>
+<strong clear="left">3:22</strong>
 </div>
 <div style="clear: both; padding: 10px 0;">
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
@@ -115,17 +126,6 @@ Support my work, buy me a coffee!  \
 <a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a>
 </p>
 <strong clear="left">1:53</strong>
-</div>
-<div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0b/78/a7/0b78a78c-0d4b-b394-d1f4-ee4793158fac/859725169963.png/60x60bb.jpg" width="60" align="left" />
-<p>
-<strong>
-<a href="https://www.last.fm/music/Cavetown/_/This+is+home">This is home</a>
-</strong>
- • 
-<a href="https://www.last.fm/music/Cavetown">Cavetown</a>
-</p>
-<strong clear="left">3:46</strong>
 </div>
 </p>
 
