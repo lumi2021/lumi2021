@@ -63,7 +63,7 @@
 - ✏️ Made 7 commits
 
 <p align="center">
-<img src="actions/cache/wakatime_weekly-langs-5_000000006ac5b853.svg" />
+<img src="actions/cache/wakatime_weekly-langs-5_000000006ac70222.svg" />
 </p>
 
 Support my work, buy me a coffee!  \
@@ -117,15 +117,15 @@ Support my work, buy me a coffee!  \
 <strong clear="left">4:47</strong>
 </div>
 <div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/00/c6/4c/00c64cfa-27c8-81cd-a12c-1cafb5e832f2/054391945853.jpg/60x60bb.jpg" width="60" align="left" />
 <p>
 <strong>
-<a href="https://www.last.fm/music/Elio+Mei/_/Velcro">Velcro</a>
+<a href="https://www.last.fm/music/Cavetown/_/This+is+home">This is home</a>
 </strong>
  • 
-<a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a>
+<a href="https://www.last.fm/music/Cavetown">Cavetown</a>
 </p>
-<strong clear="left">1:53</strong>
+<strong clear="left">4:29</strong>
 </div>
 </p>
 
