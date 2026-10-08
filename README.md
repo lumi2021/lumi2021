@@ -63,7 +63,7 @@
 - ✏️ Made 7 commits
 
 <p align="center">
-<img src="actions/cache/wakatime_weekly-langs-5_000000006ac70222.svg" />
+<img src="actions/cache/wakatime_weekly-langs-5_000000006ac856ec.svg" />
 </p>
 
 Support my work, buy me a coffee!  \
@@ -84,7 +84,7 @@ Support my work, buy me a coffee!  \
 <strong clear="left">3:36</strong>
 </div>
 <div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/44/9338444f-8003-2c1c-4f61-c72c62c9850c/dj.uprjxxxf.jpg/60x60bb.jpg" width="60" align="left" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/79/b8/2f79b8c6-4d30-ca92-4e18-8c6752a61433/5039060230695.png/60x60bb.jpg" width="60" align="left" />
 <p>
 <strong>
 <a href="https://www.last.fm/music/we+are+the+dirt/_/counting+the+days">counting the days</a>
@@ -92,7 +92,7 @@ Support my work, buy me a coffee!  \
  • 
 <a href="https://www.last.fm/music/we+are+the+dirt">we are the dirt</a>
 </p>
-<strong clear="left">3:22</strong>
+<strong clear="left">4:48</strong>
 </div>
 <div style="clear: both; padding: 10px 0;">
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
