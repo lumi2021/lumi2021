@@ -8,34 +8,10 @@ I write code :)
 </typing>
 
 ## Please give a look on my last projects:
-<a href="https://github.com/lumi2021/SharpNES">
-  <picture>
-    <source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=highcontrast" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=dark_github_repocard" />
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=github_light" alt="SharpNES - C# NES emulator" width="49.5%" />
-  </picture>
-</a>
-<a href="https://github.com/lumi2021/image-builder">
-  <picture>
-    <source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=highcontrast" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=dark_github_repocard" />
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=github_light" alt="image-builder - Zig image build tool" width="49.5%" />
-  </picture>
-</a>
-<a href="https://github.com/tqlang/tq-compiler">
-  <picture>
-    <source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=highcontrast" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=dark_github_repocard" />
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=github_light" alt="TQ language compiler" width="49.5%" />
-  </picture>
-</a>
-<a href="https://github.com/Anthragon/Distribution">
-  <picture>
-    <source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=highcontrast" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=dark_github_repocard" />
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=github_light" alt="Anthragon - Zig operating system" width="49.5%" />
-  </picture>
-</a>
+<github-repo path="lumi2021/SharpNES" style="width: 49.5%" />
+<github-repo path="lumi2021/image-builder" style="width: 49.5%" />
+<github-repo path="tqlang/tq-compiler" style="width: 49.5%" />
+<github-repo path="Anthragon/Distribution" style="width: 49.5%" />
 
 ## Randomness About Me
 
