@@ -51,6 +51,7 @@
 
 ## My Activity
 
+- ✏️ Made 1 commit
 - ✏️ Made 10 commits
 - ✏️ Made 2 commits
 - ✏️ Made 5 commits
@@ -60,10 +61,9 @@
 - ✏️ Made 1 commit
 - ✏️ Made 1 commit
 - ✏️ Made 8 commits
-- ✏️ Made 7 commits
 
 <p align="center">
-<img src="actions/cache/wakatime_weekly-langs-5_000000006ac856ec.svg" />
+<img src="actions/cache/wakatime_weekly-langs-5_000000006acaf444.svg" />
 </p>
 
 Support my work, buy me a coffee!  \
@@ -84,7 +84,7 @@ Support my work, buy me a coffee!  \
 <strong clear="left">3:36</strong>
 </div>
 <div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/79/b8/2f79b8c6-4d30-ca92-4e18-8c6752a61433/5039060230695.png/60x60bb.jpg" width="60" align="left" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/44/9338444f-8003-2c1c-4f61-c72c62c9850c/dj.uprjxxxf.jpg/60x60bb.jpg" width="60" align="left" />
 <p>
 <strong>
 <a href="https://www.last.fm/music/we+are+the+dirt/_/counting+the+days">counting the days</a>
@@ -92,7 +92,7 @@ Support my work, buy me a coffee!  \
  • 
 <a href="https://www.last.fm/music/we+are+the+dirt">we are the dirt</a>
 </p>
-<strong clear="left">4:48</strong>
+<strong clear="left">3:22</strong>
 </div>
 <div style="clear: both; padding: 10px 0;">
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
@@ -117,15 +117,15 @@ Support my work, buy me a coffee!  \
 <strong clear="left">4:47</strong>
 </div>
 <div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/00/c6/4c/00c64cfa-27c8-81cd-a12c-1cafb5e832f2/054391945853.jpg/60x60bb.jpg" width="60" align="left" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
 <p>
 <strong>
-<a href="https://www.last.fm/music/Cavetown/_/This+is+home">This is home</a>
+<a href="https://www.last.fm/music/Elio+Mei/_/Velcro">Velcro</a>
 </strong>
  • 
-<a href="https://www.last.fm/music/Cavetown">Cavetown</a>
+<a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a>
 </p>
-<strong clear="left">4:29</strong>
+<strong clear="left">1:53</strong>
 </div>
 </p>
 
@@ -138,31 +138,31 @@ Support my work, buy me a coffee!  \
 ### Recent games
 
 <p>
-<a href="https://store.steampowered.com/app/1454400" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1454400-00000000-thin_000000006ac911d6.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1454400-00000000-wide_000000006ac911d6.svg" />
-<img style="max-width: 100%;" alt="Cookie Clicker" />
-</picture>
-</a>
 <a href="https://store.steampowered.com/app/1353300" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1353300-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1353300-00000000-wide_000000006ac748fd.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1353300-000001c7-thin_000000006ad5aa76.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1353300-000001c7-wide_000000006ad5aa76.svg" />
 <img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
+</picture>
+</a>
+<a href="https://store.steampowered.com/app/1454400" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1454400-0000022e-thin_000000006ad5aa76.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1454400-0000022e-wide_000000006ad5aa76.svg" />
+<img style="max-width: 100%;" alt="Cookie Clicker" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/1919460" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1919460-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1919460-00000000-wide_000000006ac748fd.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1919460-00000001-thin_000000006ad5aa76.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1919460-00000001-wide_000000006ad5aa76.svg" />
 <img style="max-width: 100%;" alt="Seraph's Last Stand" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/433340" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-433340-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-433340-00000000-wide_000000006ac748fd.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-433340-00000039-thin_000000006ad5aa76.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-433340-00000039-wide_000000006ad5aa76.svg" />
 <img style="max-width: 100%;" alt="Slime Rancher" />
 </picture>
 </a>
@@ -176,32 +176,32 @@ Support my work, buy me a coffee!  \
 ### Perfected games
 
 <p>
-<a href="https://store.steampowered.com/app/1353300" target="_blank">
+<a href="https://store.steampowered.com/app/1289310" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1353300-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1353300-00000000-wide_000000006ac748fd.svg" />
-<img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
-</picture>
-</a>
-<a href="https://store.steampowered.com/app/1919460" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1919460-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1919460-00000000-wide_000000006ac748fd.svg" />
-<img style="max-width: 100%;" alt="Seraph's Last Stand" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1289310-0000000a-thin_000000006ad5aa76.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1289310-0000000a-wide_000000006ad5aa76.svg" />
+<img style="max-width: 100%;" alt="Helltaker" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/433340" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-433340-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-433340-00000000-wide_000000006ac748fd.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-433340-00000039-thin_000000006ad5aa76.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-433340-00000039-wide_000000006ad5aa76.svg" />
 <img style="max-width: 100%;" alt="Slime Rancher" />
 </picture>
 </a>
-<a href="https://store.steampowered.com/app/457140" target="_blank">
+<a href="https://store.steampowered.com/app/255520" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-457140-00000000-thin_000000006ac748fd.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-457140-00000000-wide_000000006ac748fd.svg" />
-<img style="max-width: 100%;" alt="Oxygen Not Included" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-255520-00000002-thin_000000006ad5aa76.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-255520-00000002-wide_000000006ad5aa76.svg" />
+<img style="max-width: 100%;" alt="Viscera Cleanup Detail: Shadow Warrior" />
+</picture>
+</a>
+<a href="https://store.steampowered.com/app/1997680" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1997680-0000003a-thin_000000006ad5aa76.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1997680-0000003a-wide_000000006ad5aa76.svg" />
+<img style="max-width: 100%;" alt="REFLEXIA Prototype ver." />
 </picture>
 </a>
 </p>
