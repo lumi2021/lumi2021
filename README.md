@@ -7,35 +7,19 @@
 ## Please give a look on my last projects:
 
 <a href="https://github.com/lumi2021/SharpNES">
-<picture>
-<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=highcontrast" />
-<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=dark_github_repocard" />
-<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2FSharpNES&show_owner=true&theme=github_light" alt="SharpNES - C# NES emulator" width="49.5%" />
-</picture>
+<img src="actions/cache/github_github-repository-lumi2021-SharpNES_000000006acb9297.svg" width="49.5%" />
 </a>
 
 <a href="https://github.com/lumi2021/image-builder">
-<picture>
-<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=highcontrast" />
-<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=dark_github_repocard" />
-<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=lumi2021%2Fimage-builder&show_owner=true&theme=github_light" alt="image-builder - Zig image build tool" width="49.5%" />
-</picture>
+<img src="actions/cache/github_github-repository-lumi2021-image-builder_000000006acb9297.svg" width="49.5%" />
 </a>
 
 <a href="https://github.com/tqlang/tq-compiler">
-<picture>
-<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=highcontrast" />
-<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=dark_github_repocard" />
-<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=tqlang%2Ftq-compiler&show_owner=true&theme=github_light" alt="TQ language compiler" width="49.5%" />
-</picture>
+<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006acb9297.svg" width="49.5%" />
 </a>
 
 <a href="https://github.com/Anthragon/Distribution">
-<picture>
-<source media="(prefers-contrast: more)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=highcontrast" />
-<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=dark_github_repocard" />
-<img src="https://github-stats-extended.vercel.app/api/pin?username=lumi2021&repo=Anthragon%2FDistribution&show_owner=true&theme=github_light" alt="Anthragon - Zig operating system" width="49.5%" />
-</picture>
+<img src="actions/cache/github_github-repository-Anthragon-Distribution_000000006acb9298.svg" width="49.5%" />
 </a>
 
 ## Randomness About Me
@@ -51,16 +35,16 @@
 
 ## My Activity
 
-- ✏️ Made 1 commit
-- ✏️ Made 10 commits
-- ✏️ Made 2 commits
-- ✏️ Made 5 commits
-- ✏️ Made 1 commit
-- ✏️ Made 16 commits
-- ✏️ Made 1 commit
-- ✏️ Made 1 commit
-- ✏️ Made 1 commit
+- ✏️ Made 6 commits
 - ✏️ Made 8 commits
+- ✏️ Made 18 commits
+- ✏️ Made 3 commits
+- ✏️ Made 2 commits
+- ✏️ Made 1 commit
+- ✏️ Made 46 commits
+- ✏️ Made 3 commits
+- ✏️ Made 6 commits
+- ✏️ Made 4 commits
 
 <p align="center">
 <img src="actions/cache/wakatime_weekly-langs-5_000000006acaf444.svg" />

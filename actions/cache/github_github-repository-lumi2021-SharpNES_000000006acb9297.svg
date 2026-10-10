@@ -1,0 +1,36 @@
+<svg width="480" height="190" viewBox="0 0 480 190" fill="none" xmlns="http://www.w3.org/2000/svg"><style>text {
+    color: #777;
+}
+
+.title {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    fill: #58a6ff;
+}
+
+.subtitle {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 12px;
+    fill: #8b949e;
+}
+
+.badge {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    fill: #3fb950;
+}
+
+.label {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 12px;
+    fill: currentColor;
+}
+
+.value {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    fill: currentColor;
+}</style><text x="20" y="35" class="subtitle">lumi2021</text><text x="20" y="62" class="title">SharpNES</text><text x="20" y="84" class="subtitle" font-size="11"><tspan x="20" dy="0">An Emulator of the 6502 8-bit processor and the Nintendo</tspan><tspan x="20" dy="14">Entreteniment System console components. Made in C#</tspan></text><line x1="20" y1="145" x2="460" y2="145" stroke="#21262d" stroke-width="1" /><g transform="translate(30, 165)"><circle cx="5" cy="0" r="5" fill="hsl(274, 65%, 55%)" /><text x="17" y="4" class="label">C#</text><g transform="translate(205, 0)"><text x="0" y="0" class="label">Stars</text><text x="0" y="18" class="value">2</text></g><g transform="translate(330, 0)"><text x="0" y="0" class="label">Forks</text><text x="0" y="18" class="value">0</text></g></g></svg>
