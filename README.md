@@ -35,7 +35,7 @@
 
 ## My Activity
 
-- ✏️ Made 2 commits
+- ✏️ Made 3 commits
 - ✏️ Made 9 commits
 - ✏️ Made 6 commits
 - ✏️ Made 8 commits
@@ -55,63 +55,23 @@ Support my work, buy me a coffee!  \
 
 ## Songs I like
 
-<p>
-<div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a0/93/33/a0933384-61e2-ec73-796f-2c77fbd59ea0/artwork.jpg/60x60bb.jpg" width="60" align="left" />
-<p>
-<strong>
-<a href="https://www.last.fm/music/Jamie+Paige/_/Machine+Love">Machine Love</a>
-</strong>
- • 
-<a href="https://www.last.fm/music/Jamie+Paige">Jamie Paige</a>
-</p>
-<strong clear="left">3:36</strong>
+<div>
+<a href="https://www.last.fm/music/Jamie+Paige/_/Machine+Love">
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006adc19f3.svg" alt="Machine Love - Jamie Paige"></img>
+</a>
+<a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006adc19f3.svg" alt="One Man Circus - elio mei"></img>
+</a>
+<a href="https://www.last.fm/music/we+are+the+dirt/_/counting+the+days">
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--2_000000006adc19f3.svg" alt="counting the days - we are the dirt"></img>
+</a>
+<a href="https://www.last.fm/music/Elio+Mei/_/Velcro">
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--3_000000006adc19f3.svg" alt="Velcro - Elio Mei"></img>
+</a>
+<a href="https://www.last.fm/music/Elio+Mei/_/Playing+Dead">
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006adc19f3.svg" alt="Playing Dead - Elio Mei"></img>
+</a>
 </div>
-<div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
-<p>
-<strong>
-<a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">One Man Circus</a>
-</strong>
- • 
-<a href="https://www.last.fm/music/elio+mei">elio mei</a>
-</p>
-<strong clear="left">5:49</strong>
-</div>
-<div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/93/38/44/9338444f-8003-2c1c-4f61-c72c62c9850c/dj.uprjxxxf.jpg/60x60bb.jpg" width="60" align="left" />
-<p>
-<strong>
-<a href="https://www.last.fm/music/we+are+the+dirt/_/counting+the+days">counting the days</a>
-</strong>
- • 
-<a href="https://www.last.fm/music/we+are+the+dirt">we are the dirt</a>
-</p>
-<strong clear="left">3:22</strong>
-</div>
-<div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
-<p>
-<strong>
-<a href="https://www.last.fm/music/Elio+Mei/_/Velcro">Velcro</a>
-</strong>
- • 
-<a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a>
-</p>
-<strong clear="left">1:53</strong>
-</div>
-<div style="clear: both; padding: 10px 0;">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/9c/a5/259ca5e1-c365-8b72-b12e-660aae6ff21d/25UMGIM87679.rgb.jpg/60x60bb.jpg" width="60" align="left" />
-<p>
-<strong>
-<a href="https://www.last.fm/music/Elio+Mei/_/Playing+Dead">Playing Dead</a>
-</strong>
- • 
-<a href="https://www.last.fm/music/Elio+Mei">Elio Mei</a>
-</p>
-<strong clear="left">4:47</strong>
-</div>
-</p>
 
 ## Socials
 
