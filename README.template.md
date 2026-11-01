@@ -6,9 +6,11 @@ Welcome!
 I'm Camila, a 19 y old programming enthusiast
 </typing>
 
+<p align="center">
 I build software close to the machine, from programming languages and compilers to operating systems and emulators.
 
-Interested in computer architecture, systems programming, software engineering and the technologies that make computers work.
+Interested in woorking and experimenting with **computer architecture**, **systems programming**, **software engineering** and the technologies that make computers work.
+</p>
 
 ## Please give a look on my last projects:
 <github-repo path="lumi2021/SharpNES" style="width: 49.5%" />
