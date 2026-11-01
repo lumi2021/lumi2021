@@ -13,10 +13,10 @@ Interested in woorking and experimenting with **computer architecture**, **syste
 </p>
 
 ## Please give a look on my last projects:
-<github-repo path="lumi2021/SharpNES" style="width: 49.5%" />
-<github-repo path="lumi2021/image-builder" style="width: 49.5%" />
-<github-repo path="tqlang/tq-compiler" style="width: 49.5%" />
-<github-repo path="Anthragon/Distribution" style="width: 49.5%" />
+<github-repo path="lumi2021/SharpNES" style="width: 48%" />
+<github-repo path="lumi2021/image-builder" style="width: 48%" />
+<github-repo path="tqlang/tq-compiler" style="width: 48%" />
+<github-repo path="Anthragon/Distribution" style="width: 48%" />
 
 ## About Me
 
