@@ -4,9 +4,8 @@
 <img draggable="false" width="100%" />
 </picture>
 
-<p align="center">I build software close to the machine, from programming languages and compilers to operating systems and emulators.
-
-Interested in woorking and experimenting with **computer architecture**, **systems programming**, **software engineering** and the technologies that make computers work.</p>
+<p align="center">I build software close to the machine, from programming languages and compilers to operating systems and emulators.</p>
+<p align="center">I'm Interested in working and experimenting with **computer architecture**, **systems programming**, **software engineering** and the technologies that make computers work.</p>
 
 ## Please give a look on my last projects:
 
