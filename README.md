@@ -4,8 +4,9 @@
 <img draggable="false" width="100%" />
 </picture>
 
-<p align="center">I build software close to the machine, from programming languages and compilers to operating systems and emulators.</p>
-<p align="center">I'm Interested in working and experimenting with **computer architecture**, **systems programming**, **software engineering** and the technologies that make computers work.</p>
+<p align="center">I build software close to the machine, from programming languages and compilers to operating systems and emulators.
+
+Interested in woorking and experimenting with **computer architecture**, **systems programming**, **software engineering** and the technologies that make computers work.</p>
 
 ## Please give a look on my last projects:
 
@@ -36,7 +37,7 @@
 
 <!-- ![Linux](https://img.shields.io/badge/I%20use%20Arch%20btw-000000?style=for-the-badge&logo=archlinux) -->
 
-- ✏️ Made 10 commits
+- ✏️ Made 11 commits
 - ✏️ Made 8 commits
 - ✏️ Made 9 commits
 - ✏️ Made 6 commits
@@ -60,19 +61,19 @@ All widgets in this page are updated daily and powered by
 
 <div>
 <a href="https://www.last.fm/music/Jamie+Paige/_/Machine+Love">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006ae90d84.svg" alt="Machine Love - Jamie Paige"></img>
-</a>
-<a href="https://www.last.fm/music/we+are+the+dirt/_/counting+the+days">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006ae90d84.svg" alt="counting the days - we are the dirt"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006ae922c7.svg" alt="Machine Love - Jamie Paige"></img>
 </a>
 <a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--2_000000006ae90d84.svg" alt="One Man Circus - elio mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006ae922c7.svg" alt="One Man Circus - elio mei"></img>
+</a>
+<a href="https://www.last.fm/music/we+are+the+dirt/_/counting+the+days">
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--2_000000006ae922c8.svg" alt="counting the days - we are the dirt"></img>
 </a>
 <a href="https://www.last.fm/music/Elio+Mei/_/Velcro">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--3_000000006ae90d84.svg" alt="Velcro - Elio Mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--3_000000006ae922c8.svg" alt="Velcro - Elio Mei"></img>
 </a>
 <a href="https://www.last.fm/music/cavetown+offline/_/Lov+song">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006ae90d84.svg" alt="Lov song - cavetown offline"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006ae922c8.svg" alt="Lov song - cavetown offline"></img>
 </a>
 </div>
 
