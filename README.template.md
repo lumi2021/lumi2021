@@ -3,14 +3,11 @@
     width="600" height="100" repeat="off"
 >
 Welcome!
-I'm Camila, a 19 y old programming enthusiast
+I'm Camila, a 19 y old programming enthusiast :)
 </typing>
 
-<p align="center">
-I build software close to the machine, from programming languages and compilers to operating systems and emulators.
-
-Interested in woorking and experimenting with **computer architecture**, **systems programming**, **software engineering** and the technologies that make computers work.
-</p>
+<p align="center">I build software close to the machine, from programming languages and compilers to operating systems and emulators.</p>
+<p align="center">I'm Interested in working and experimenting with <b>computer architecture</b>, <b>systems programming</b>, <b>software engineering</b> and the technologies that make computers work.</p>
 
 ## Please give a look on my last projects:
 <github-repo path="lumi2021/SharpNES" style="width: 48%" />
