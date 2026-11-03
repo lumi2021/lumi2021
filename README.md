@@ -19,19 +19,19 @@ and the technologies that make computers work.
 ## Please give a look on my last projects:
 
 <a href="https://github.com/lumi2021/SharpNES">
-<img src="actions/cache/github_github-repository-lumi2021-SharpNES_000000006ae90c36.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-SharpNES_000000006aeaab6d.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021/image-builder">
-<img src="actions/cache/github_github-repository-lumi2021-image-builder_000000006ae90c36.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-image-builder_000000006aeaab6e.svg" width="48%" />
 </a>
 
 <a href="https://github.com/tqlang/tq-compiler">
-<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006ae90c36.svg" width="48%" />
+<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006aeaab6e.svg" width="48%" />
 </a>
 
 <a href="https://github.com/Anthragon/Distribution">
-<img src="actions/cache/github_github-repository-Anthragon-Distribution_000000006ae90c37.svg" width="48%" />
+<img src="actions/cache/github_github-repository-Anthragon-Distribution_000000006aeaab6e.svg" width="48%" />
 </a>
 
 ## About Me
@@ -56,7 +56,7 @@ and the technologies that make computers work.
 - ✏️ Made 1 commit
 
 <p align="center">
-<img src="actions/cache/wakatime_weekly-langs-5_000000006ae90c38.svg" />
+<img src="actions/cache/wakatime_weekly-langs-5_000000006aeaab70.svg" />
 </p>
 
 ## Beyound the Code
@@ -69,19 +69,19 @@ All widgets in this page are updated daily and powered by
 
 <div>
 <a href="https://www.last.fm/music/Jamie+Paige/_/Machine+Love">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006ae94acd.svg" alt="Machine Love - Jamie Paige"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006aeaab71.svg" alt="Machine Love - Jamie Paige"></img>
 </a>
 <a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006ae94acd.svg" alt="One Man Circus - elio mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006aeaab71.svg" alt="One Man Circus - elio mei"></img>
 </a>
 <a href="https://www.last.fm/music/we+are+the+dirt/_/counting+the+days">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--2_000000006ae94acd.svg" alt="counting the days - we are the dirt"></img>
-</a>
-<a href="https://www.last.fm/music/Elio+Mei/_/Velcro">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--3_000000006ae94ace.svg" alt="Velcro - Elio Mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--2_000000006aeaab71.svg" alt="counting the days - we are the dirt"></img>
 </a>
 <a href="https://www.last.fm/music/cavetown+offline/_/Lov+song">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006ae94ace.svg" alt="Lov song - cavetown offline"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--3_000000006aeaab72.svg" alt="Lov song - cavetown offline"></img>
+</a>
+<a href="https://www.last.fm/music/Elio+Mei/_/Velcro">
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006aeaab72.svg" alt="Velcro - Elio Mei"></img>
 </a>
 </div>
 
