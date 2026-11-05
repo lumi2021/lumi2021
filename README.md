@@ -41,11 +41,11 @@ and the technologies that make computers work.
 - 🌱 I'm breathing
 - 😄 Pronouns: She / Her
 
-![python](https://img.shields.io/badge/python-202020?logo=python&style=for-the-badge)![C](https://img.shields.io/badge/C-202020?logo=c&style=for-the-badge)![C++](https://img.shields.io/badge/C%2B%2B-202020?logo=c%2B%2B&style=for-the-badge)![C#](https://img.shields.io/badge/C%23-202020?logo=dotnet&style=for-the-badge)![Zig](https://img.shields.io/badge/Zig-202020?logo=zig&style=for-the-badge)![Lua](https://img.shields.io/badge/Lua-202020?logo=lua&style=for-the-badge)![JavaScript](https://img.shields.io/badge/JavaScript-202020?logo=JavaScript&style=for-the-badge)![TypeScript](https://img.shields.io/badge/TypeScript-202020?logo=TypeScript&style=for-the-badge)![GDScript](https://img.shields.io/badge/GDScript-202020?logo=godot+engine&style=for-the-badge)![Java](https://img.shields.io/badge/Java-202020?logo=gradle&style=for-the-badge)![Kotlin](https://img.shields.io/badge/Kotlin-202020?logo=kotlin&style=for-the-badge)![LaTeX](https://img.shields.io/badge/LaTeX-202020?logo=latex&style=for-the-badge)![Angular](https://img.shields.io/badge/Angular-404040?logo=angular&style=for-the-badge)![Ionic](https://img.shields.io/badge/Ionic-404040?logo=Ionic&style=for-the-badge)![Node.js](https://img.shields.io/badge/Node.js-404040?logo=Node.js&style=for-the-badge)![OpenGL](https://img.shields.io/badge/OpenGL-606060?logo=opengl&style=for-the-badge)![Vulkan](https://img.shields.io/badge/Vulkan-606060?logo=vulkan&style=for-the-badge)![Assembly](https://img.shields.io/badge/Assembly-606060?logo=intel&style=for-the-badge)![LLVM](https://img.shields.io/badge/LLVM-606060?logo=LLVM&style=for-the-badge)![CIL](https://img.shields.io/badge/CIL-606060?logo=dotnet&style=for-the-badge)![Bash](https://img.shields.io/badge/Bash-606060?logo=GNU-bash&style=for-the-badge)![And+](https://img.shields.io/badge/And%2B-205020?style=for-the-badge)
+![python](https://img.shields.io/badge/python-202020?logo=python&style=for-the-badge)![C](https://img.shields.io/badge/C-202020?logo=c&style=for-the-badge)![C++](https://img.shields.io/badge/C%2B%2B-202020?logo=c%2B%2B&style=for-the-badge)![C#](https://img.shields.io/badge/C%23-202020?logo=dotnet&style=for-the-badge)![Zig](https://img.shields.io/badge/Zig-202020?logo=zig&style=for-the-badge)![Lua](https://img.shields.io/badge/Lua-202020?logo=lua&style=for-the-badge)![JavaScript](https://img.shields.io/badge/JavaScript-202020?logo=JavaScript&style=for-the-badge)![TypeScript](https://img.shields.io/badge/TypeScript-202020?logo=TypeScript&style=for-the-badge)![GDScript](https://img.shields.io/badge/GDScript-202020?logo=godot+engine&style=for-the-badge)![Java](https://img.shields.io/badge/Java-202020?logo=gradle&style=for-the-badge)![Kotlin](https://img.shields.io/badge/Kotlin-202020?logo=kotlin&style=for-the-badge)![LaTeX](https://img.shields.io/badge/LaTeX-202020?logo=latex&style=for-the-badge)![Go](https://img.shields.io/badge/Go-202020?logo=Go&style=for-the-badge)![Angular](https://img.shields.io/badge/Angular-404040?logo=angular&style=for-the-badge)![Ionic](https://img.shields.io/badge/Ionic-404040?logo=Ionic&style=for-the-badge)![Node.js](https://img.shields.io/badge/Node.js-404040?logo=Node.js&style=for-the-badge)![Godot Engine](https://img.shields.io/badge/Godot+Engine-505050?logo=Godot+Engine&style=for-the-badge)![JetBrains Rider](https://img.shields.io/badge/JetBrains+Rider-505050?logo=Rider&style=for-the-badge)![CLion](https://img.shields.io/badge/CLion-505050?logo=CLion&style=for-the-badge)![IntelliJ](https://img.shields.io/badge/IntelliJ-505050?logo=IntelliJ+IDEA&style=for-the-badge)![Android Studio](https://img.shields.io/badge/Android+Studio-505050?logo=Android+Studio&style=for-the-badge)![OpenGL](https://img.shields.io/badge/OpenGL-606060?logo=opengl&style=for-the-badge)![Vulkan](https://img.shields.io/badge/Vulkan-606060?logo=vulkan&style=for-the-badge)![Assembly](https://img.shields.io/badge/Assembly-606060?logo=intel&style=for-the-badge)![LLVM](https://img.shields.io/badge/LLVM-606060?logo=LLVM&style=for-the-badge)![CIL](https://img.shields.io/badge/CIL-606060?logo=dotnet&style=for-the-badge)![Bash](https://img.shields.io/badge/Bash-606060?logo=GNU-bash&style=for-the-badge)![Linux](https://img.shields.io/badge/Linux-606060?logo=Linux&style=for-the-badge)![And+](https://img.shields.io/badge/And%2B-205020?style=for-the-badge)
 
 <!-- ![Linux](https://img.shields.io/badge/I%20use%20Arch%20btw-000000?style=for-the-badge&logo=archlinux) -->
 
-- ✏️ Made 49 commits
+- ✏️ Made 50 commits
 - ✏️ Made 12 commits
 - ✏️ Made 8 commits
 - ✏️ Made 8 commits
@@ -68,19 +68,19 @@ All widgets in this page are updated daily and powered by
 
 <div>
 <a href="https://www.last.fm/music/Jamie+Paige/_/Machine+Love">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006aed4ab9.svg" alt="Machine Love - Jamie Paige"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006aed66b7.svg" alt="Machine Love - Jamie Paige"></img>
 </a>
 <a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006aed4ab9.svg" alt="One Man Circus - elio mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006aed66b7.svg" alt="One Man Circus - elio mei"></img>
 </a>
 <a href="https://www.last.fm/music/Elio+Mei/_/Velcro">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--2_000000006aed4ab9.svg" alt="Velcro - Elio Mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--2_000000006aed66b7.svg" alt="Velcro - Elio Mei"></img>
 </a>
 <a href="https://www.last.fm/music/Penelope+Scott/_/Soap">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-a42b0571-c746-41d5-9e5c-685ee8b32f1f-3_000000006aed4ab9.svg" alt="Soap - Penelope Scott"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-a42b0571-c746-41d5-9e5c-685ee8b32f1f-3_000000006aed66b8.svg" alt="Soap - Penelope Scott"></img>
 </a>
 <a href="https://www.last.fm/music/we+are+the+dirt/_/counting+the+days">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006aed4ab9.svg" alt="counting the days - we are the dirt"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006aed66b8.svg" alt="counting the days - we are the dirt"></img>
 </a>
 </div>
 
