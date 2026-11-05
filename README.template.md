@@ -40,11 +40,6 @@ I'm Camila, a 19 y old programming enthusiast :)
 <badge color="404040" style="for-the-badge" icon="angular">Angular</badge>
 <badge color="404040" style="for-the-badge" icon="Ionic">Ionic</badge>
 <badge color="404040" style="for-the-badge" icon="Node.js">Node.js</badge> \
-<badge color="505050" style="for-the-badge" icon="Godot Engine">Godot Engine</badge>
-<badge color="505050" style="for-the-badge" icon="Rider">JetBrains Rider</badge>
-<badge color="505050" style="for-the-badge" icon="CLion">CLion</badge>
-<badge color="505050" style="for-the-badge" icon="IntelliJ IDEA">IntelliJ</badge>
-<badge color="505050" style="for-the-badge" icon="Android Studio">Android Studio</badge> \
 <badge color="606060" style="for-the-badge" icon="opengl">OpenGL</badge> 
 <badge color="606060" style="for-the-badge" icon="vulkan">Vulkan</badge> 
 <badge color="606060" style="for-the-badge" icon="intel">Assembly</badge> 
@@ -53,6 +48,12 @@ I'm Camila, a 19 y old programming enthusiast :)
 <badge color="606060" style="for-the-badge" icon="GNU-bash">Bash</badge>
 <badge color="606060" style="for-the-badge" icon="Linux">Linux</badge>
 <badge color="205020" style="for-the-badge">And+</badge>
+
+<badge color="20202p" style="for-the-badge" icon="Godot Engine">Godot_Engine</badge>
+<badge color="202020" style="for-the-badge" icon="Rider">JetBrains_Rider</badge>
+<badge color="202020" style="for-the-badge" icon="CLion">CLion</badge>
+<badge color="202020" style="for-the-badge" icon="IntelliJ_IDEA">IntelliJ</badge>
+<badge color="202020" style="for-the-badge" icon="Android Studio">Android_Studio</badge> \
 
 <!--
 ![Linux](https://img.shields.io/badge/I%20use%20Arch%20btw-000000?style=for-the-badge&logo=archlinux)
