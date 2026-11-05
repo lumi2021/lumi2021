@@ -35,16 +35,23 @@ I'm Camila, a 19 y old programming enthusiast :)
 <badge color="202020" style="for-the-badge" icon="godot engine">GDScript</badge>
 <badge color="202020" style="for-the-badge" icon="gradle">Java</badge>
 <badge color="202020" style="for-the-badge" icon="kotlin">Kotlin</badge>
-<badge color="202020" style="for-the-badge" icon="latex">LaTeX</badge> \
+<badge color="202020" style="for-the-badge" icon="latex">LaTeX</badge>
+<badge color="202020" style="for-the-badge" icon="Go">Go</badge> \
 <badge color="404040" style="for-the-badge" icon="angular">Angular</badge>
 <badge color="404040" style="for-the-badge" icon="Ionic">Ionic</badge>
 <badge color="404040" style="for-the-badge" icon="Node.js">Node.js</badge> \
+<badge color="505050" style="for-the-badge" icon="Godot Engine">Godot Engine</badge>
+<badge color="505050" style="for-the-badge" icon="Rider">JetBrains Rider</badge>
+<badge color="505050" style="for-the-badge" icon="CLion">CLion</badge>
+<badge color="505050" style="for-the-badge" icon="IntelliJ IDEA">IntelliJ</badge>
+<badge color="505050" style="for-the-badge" icon="Android Studio">Android Studio</badge> \
 <badge color="606060" style="for-the-badge" icon="opengl">OpenGL</badge> 
 <badge color="606060" style="for-the-badge" icon="vulkan">Vulkan</badge> 
 <badge color="606060" style="for-the-badge" icon="intel">Assembly</badge> 
 <badge color="606060" style="for-the-badge" icon="LLVM">LLVM</badge> 
 <badge color="606060" style="for-the-badge" icon="dotnet">CIL</badge> 
-<badge color="606060" style="for-the-badge" icon="GNU-bash">Bash</badge> 
+<badge color="606060" style="for-the-badge" icon="GNU-bash">Bash</badge>
+<badge color="606060" style="for-the-badge" icon="Linux">Linux</badge>
 <badge color="205020" style="for-the-badge">And+</badge>
 
 <!--
