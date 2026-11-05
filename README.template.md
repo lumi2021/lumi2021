@@ -49,7 +49,7 @@ I'm Camila, a 19 y old programming enthusiast :)
 <badge color="606060" style="for-the-badge" icon="Linux">Linux</badge>
 <badge color="205020" style="for-the-badge">And+</badge>
 
-<badge color="20202p" style="for-the-badge" icon="Godot Engine">Godot_Engine</badge>
+<badge color="202020" style="for-the-badge" icon="Godot Engine">Godot_Engine</badge>
 <badge color="202020" style="for-the-badge" icon="Rider">JetBrains_Rider</badge>
 <badge color="202020" style="for-the-badge" icon="CLion">CLion</badge>
 <badge color="202020" style="for-the-badge" icon="IntelliJ_IDEA">IntelliJ</badge>
