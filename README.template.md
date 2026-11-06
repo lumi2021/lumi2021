@@ -8,11 +8,23 @@ I'm Camila, a 19 y old programming enthusiast :)
 <p align="center">I build software close to the machine, from programming languages and compilers to operating systems and emulators.</p>
 <p align="center">I'm Interested in working and experimenting with <b>computer architecture</b>, <b>systems programming</b>, <b>software engineering</b> and the technologies that make computers work.</p>
 
-## Please give a look on my last projects:
+## Please give a look on some of my best projects:
+(be aware that some of those may be still in development)
+
+### Recent work:
 <github-repo path="lumi2021/SharpNES" style="width: 48%" />
 <github-repo path="lumi2021/image-builder" style="width: 48%" />
 <github-repo path="tqlang/tq-compiler" style="width: 48%" />
 <github-repo path="Anthragon/Distribution" style="width: 48%" />
+
+### AI-related:
+<github-repo path="lumi2021/codecrafters-claude-code-csharp" style="width: 48%; title-color: #FF5555;" />
+<github-repo path="lumi2021/tamagowaifu" style="width: 48%; title-color: #FF5555;" />
+<github-repo path="lumi2021-silly-tools/computer-vision-toolbox" style="width: 48%; title-color: #FF5555;" />
+
+### Experiments and miscelaneous:
+<github-repo path="lumi2021/codecrafters-shell-go" style="width: 48%; title-color: #50FA7B;" />
+<github-repo path="lumi2021/lumi-architecture-16" style="width: 48%; title-color: #50FA7B;" />
 
 ## About Me
 
