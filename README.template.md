@@ -1,7 +1,6 @@
 <typing
     font-family="VT323" font-size="20" char-duration="3000" line-duration="300"
-    width="600" height="100" repeat="off"
->
+    width="600" height="100" repeat="off">
 Welcome!
 I'm Camila, a 19 y old programming enthusiast :)
 </typing>
@@ -24,7 +23,7 @@ I'm Camila, a 19 y old programming enthusiast :)
 - 🌱 I'm breathing
 - 😄 Pronouns: She / Her
 
-<badge color="202020" style="for-the-badge" icon="python>python</badge>
+<badge color="202020" style="for-the-badge" icon="python">python</badge>
 <badge color="202020" style="for-the-badge" icon="c">C</badge>
 <badge color="202020" style="for-the-badge" icon="c++">C++</badge>
 <badge color="202020" style="for-the-badge" icon="dotnet">C#</badge>
@@ -35,6 +34,7 @@ I'm Camila, a 19 y old programming enthusiast :)
 <badge color="202020" style="for-the-badge" icon="godot engine">GDScript</badge>
 <badge color="202020" style="for-the-badge" icon="gradle">Java</badge>
 <badge color="202020" style="for-the-badge" icon="kotlin">Kotlin</badge>
+<badge color="202020" style="for-the-badge" icon="GNU-bash">Bash</badge>
 <badge color="202020" style="for-the-badge" icon="latex">LaTeX</badge>
 <badge color="202020" style="for-the-badge" icon="Go">Go</badge> \
 <badge color="404040" style="for-the-badge" icon="angular">Angular</badge>
@@ -45,15 +45,14 @@ I'm Camila, a 19 y old programming enthusiast :)
 <badge color="606060" style="for-the-badge" icon="intel">Assembly</badge> 
 <badge color="606060" style="for-the-badge" icon="LLVM">LLVM</badge> 
 <badge color="606060" style="for-the-badge" icon="dotnet">CIL</badge> 
-<badge color="606060" style="for-the-badge" icon="GNU-bash">Bash</badge>
 <badge color="606060" style="for-the-badge" icon="Linux">Linux</badge>
 <badge color="205020" style="for-the-badge">And+</badge>
-
+<br/>
 <badge color="202020" style="for-the-badge" icon="Godot Engine">Godot_Engine</badge>
 <badge color="202020" style="for-the-badge" icon="Rider">JetBrains_Rider</badge>
 <badge color="202020" style="for-the-badge" icon="CLion">CLion</badge>
-<badge color="202020" style="for-the-badge" icon="IntelliJ_IDEA">IntelliJ</badge>
-<badge color="202020" style="for-the-badge" icon="Android Studio">Android_Studio</badge> \
+<badge color="202020" style="for-the-badge" icon="IntelliJ IDEA">IntelliJ</badge>
+<badge color="202020" style="for-the-badge" icon="Android Studio">Android_Studio</badge>
 
 <!--
 ![Linux](https://img.shields.io/badge/I%20use%20Arch%20btw-000000?style=for-the-badge&logo=archlinux)
