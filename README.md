@@ -5,47 +5,71 @@
 </picture>
 
 <p align="center">I build software close to the machine, from programming languages and compilers to operating systems and emulators.</p>
-
-<p align="center">
-I'm Interested in working and experimenting with
-<b>computer architecture</b>
-,
-<b>systems programming</b>
-,
-<b>software engineering</b>
-and the technologies that make computers work.
-</p>
+<p align="center">I'm Interested in working and experimenting with<b>computer architecture</b>,<b>systems programming</b>,<b>software engineering</b>and the technologies that make computers work.</p>
 
 ## Please give a look on my last projects:
 
 <a href="https://github.com/lumi2021/SharpNES">
-<img src="actions/cache/github_github-repository-lumi2021-SharpNES_000000006aed4ab6.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-SharpNES_000000006aee8e7e.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021/image-builder">
-<img src="actions/cache/github_github-repository-lumi2021-image-builder_000000006aed4ab6.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-image-builder_000000006aee8e7f.svg" width="48%" />
 </a>
 
 <a href="https://github.com/tqlang/tq-compiler">
-<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006aed4ab6.svg" width="48%" />
+<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006aee8e80.svg" width="48%" />
 </a>
 
 <a href="https://github.com/Anthragon/Distribution">
-<img src="actions/cache/github_github-repository-Anthragon-Distribution_000000006aed4ab6.svg" width="48%" />
+<img src="actions/cache/github_github-repository-Anthragon-Distribution_000000006aee8e81.svg" width="48%" />
 </a>
 
 ## About Me
 
-[![Discord](https://img.shields.io/badge/Discord-282b30?logo=discord&style=for-the-badge)](https://discordapp.com/users/632992487375634432)[![Linkedin](https://img.shields.io/badge/Linkedin-ffffff?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/leoaraujodev)[![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&style=for-the-badge)](https://www.threads.com/@42batata42)
+[![Discord](https://img.shields.io/badge/Discord-282b30?logo=discord&style=for-the-badge)](https://discordapp.com/users/632992487375634432)
+[![Linkedin](https://img.shields.io/badge/Linkedin-ffffff?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/leoaraujodev)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=threads&style=for-the-badge)](https://www.threads.com/@42batata42)
 
 - 🌱 I'm breathing
 - 😄 Pronouns: She / Her
 
-![python](https://img.shields.io/badge/python-202020?logo=python&style=for-the-badge)![C](https://img.shields.io/badge/C-202020?logo=c&style=for-the-badge)![C++](https://img.shields.io/badge/C%2B%2B-202020?logo=c%2B%2B&style=for-the-badge)![C#](https://img.shields.io/badge/C%23-202020?logo=dotnet&style=for-the-badge)![Zig](https://img.shields.io/badge/Zig-202020?logo=zig&style=for-the-badge)![Lua](https://img.shields.io/badge/Lua-202020?logo=lua&style=for-the-badge)![JavaScript](https://img.shields.io/badge/JavaScript-202020?logo=JavaScript&style=for-the-badge)![TypeScript](https://img.shields.io/badge/TypeScript-202020?logo=TypeScript&style=for-the-badge)![GDScript](https://img.shields.io/badge/GDScript-202020?logo=godot+engine&style=for-the-badge)![Java](https://img.shields.io/badge/Java-202020?logo=gradle&style=for-the-badge)![Kotlin](https://img.shields.io/badge/Kotlin-202020?logo=kotlin&style=for-the-badge)![LaTeX](https://img.shields.io/badge/LaTeX-202020?logo=latex&style=for-the-badge)![Go](https://img.shields.io/badge/Go-202020?logo=Go&style=for-the-badge)![Angular](https://img.shields.io/badge/Angular-404040?logo=angular&style=for-the-badge)![Ionic](https://img.shields.io/badge/Ionic-404040?logo=Ionic&style=for-the-badge)![Node.js](https://img.shields.io/badge/Node.js-404040?logo=Node.js&style=for-the-badge)![OpenGL](https://img.shields.io/badge/OpenGL-606060?logo=opengl&style=for-the-badge)![Vulkan](https://img.shields.io/badge/Vulkan-606060?logo=vulkan&style=for-the-badge)![Assembly](https://img.shields.io/badge/Assembly-606060?logo=intel&style=for-the-badge)![LLVM](https://img.shields.io/badge/LLVM-606060?logo=LLVM&style=for-the-badge)![CIL](https://img.shields.io/badge/CIL-606060?logo=dotnet&style=for-the-badge)![Bash](https://img.shields.io/badge/Bash-606060?logo=GNU-bash&style=for-the-badge)![Linux](https://img.shields.io/badge/Linux-606060?logo=Linux&style=for-the-badge)![And+](https://img.shields.io/badge/And%2B-205020?style=for-the-badge)![Godot_Engine](https://img.shields.io/badge/Godot_Engine-202020?logo=Godot+Engine&style=for-the-badge)![JetBrains_Rider](https://img.shields.io/badge/JetBrains_Rider-202020?logo=Rider&style=for-the-badge)![CLion](https://img.shields.io/badge/CLion-202020?logo=CLion&style=for-the-badge)![IntelliJ](https://img.shields.io/badge/IntelliJ-202020?logo=IntelliJ_IDEA&style=for-the-badge)![Android_Studio](https://img.shields.io/badge/Android_Studio-202020?logo=Android+Studio&style=for-the-badge)
+![python](https://img.shields.io/badge/python-202020?logo=python&style=for-the-badge)
+![C](https://img.shields.io/badge/C-202020?logo=c&style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-202020?logo=c%2B%2B&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-202020?logo=dotnet&style=for-the-badge)
+![Zig](https://img.shields.io/badge/Zig-202020?logo=zig&style=for-the-badge)
+![Lua](https://img.shields.io/badge/Lua-202020?logo=lua&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-202020?logo=JavaScript&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-202020?logo=TypeScript&style=for-the-badge)
+![GDScript](https://img.shields.io/badge/GDScript-202020?logo=godot+engine&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-202020?logo=gradle&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-202020?logo=kotlin&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-202020?logo=GNU-bash&style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-202020?logo=latex&style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-202020?logo=Go&style=for-the-badge)  \
+![Angular](https://img.shields.io/badge/Angular-404040?logo=angular&style=for-the-badge)
+![Ionic](https://img.shields.io/badge/Ionic-404040?logo=Ionic&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-404040?logo=Node.js&style=for-the-badge)  \
+![OpenGL](https://img.shields.io/badge/OpenGL-606060?logo=opengl&style=for-the-badge) 
+![Vulkan](https://img.shields.io/badge/Vulkan-606060?logo=vulkan&style=for-the-badge) 
+![Assembly](https://img.shields.io/badge/Assembly-606060?logo=intel&style=for-the-badge) 
+![LLVM](https://img.shields.io/badge/LLVM-606060?logo=LLVM&style=for-the-badge) 
+![CIL](https://img.shields.io/badge/CIL-606060?logo=dotnet&style=for-the-badge) 
+![Linux](https://img.shields.io/badge/Linux-606060?logo=Linux&style=for-the-badge)
+![And+](https://img.shields.io/badge/And%2B-205020?style=for-the-badge)
+
+<br />
+
+![Godot_Engine](https://img.shields.io/badge/Godot_Engine-202020?logo=Godot+Engine&style=for-the-badge)
+![JetBrains_Rider](https://img.shields.io/badge/JetBrains_Rider-202020?logo=Rider&style=for-the-badge)
+![CLion](https://img.shields.io/badge/CLion-202020?logo=CLion&style=for-the-badge)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-202020?logo=IntelliJ+IDEA&style=for-the-badge)
+![Android_Studio](https://img.shields.io/badge/Android_Studio-202020?logo=Android+Studio&style=for-the-badge)
 
 <!-- ![Linux](https://img.shields.io/badge/I%20use%20Arch%20btw-000000?style=for-the-badge&logo=archlinux) -->
 
-- ✏️ Made 52 commits
+- ✏️ Made 55 commits
 - ✏️ Made 12 commits
 - ✏️ Made 8 commits
 - ✏️ Made 8 commits
@@ -55,7 +79,7 @@ and the technologies that make computers work.
 - ✏️ Made 3 commits
 
 <p align="center">
-<img src="actions/cache/wakatime_weekly-langs-5_000000006aed4ab8.svg" />
+<img src="actions/cache/wakatime_weekly-langs-5_000000006aee8e84.svg" />
 </p>
 
 ## Beyound the Code
@@ -68,20 +92,25 @@ All widgets in this page are updated daily and powered by
 
 <div>
 <a href="https://www.last.fm/music/Jamie+Paige/_/Machine+Love">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006aee4200.svg" alt="Machine Love - Jamie Paige"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006aee9495.svg" alt="Machine Love - Jamie Paige"></img>
 </a>
+<br />
 <a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006aee4200.svg" alt="One Man Circus - elio mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006aee9495.svg" alt="One Man Circus - elio mei"></img>
 </a>
+<br />
 <a href="https://www.last.fm/music/Elio+Mei/_/Velcro">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--2_000000006aee4201.svg" alt="Velcro - Elio Mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--2_000000006aee9495.svg" alt="Velcro - Elio Mei"></img>
 </a>
+<br />
 <a href="https://www.last.fm/music/Penelope+Scott/_/Soap">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-a42b0571-c746-41d5-9e5c-685ee8b32f1f-3_000000006aee4201.svg" alt="Soap - Penelope Scott"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-a42b0571-c746-41d5-9e5c-685ee8b32f1f-3_000000006aee9495.svg" alt="Soap - Penelope Scott"></img>
 </a>
+<br />
 <a href="https://www.last.fm/music/we+are+the+dirt/_/counting+the+days">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006aee4201.svg" alt="counting the days - we are the dirt"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006aee9495.svg" alt="counting the days - we are the dirt"></img>
 </a>
+<br />
 </div>
 
 ### Gaming
