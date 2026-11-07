@@ -15,16 +15,18 @@ I'm Camila, a 19 y old programming enthusiast :)
 <github-repo path="lumi2021/SharpNES" style="width: 48%" />
 <github-repo path="lumi2021/image-builder" style="width: 48%" />
 <github-repo path="tqlang/tq-compiler" style="width: 48%" />
-<github-repo path="Anthragon/Distribution" style="width: 48%" />
+<github-repo path="tqlang/tq-compiler" style="width: 48%" />
+
 
 ### AI-related:
-<github-repo path="lumi2021/codecrafters-claude-code-csharp" style="width: 48%; title-color: #FF5555;" />
-<github-repo path="lumi2021/tamagowaifu" style="width: 48%; title-color: #FF5555;" />
-<github-repo path="lumi2021-silly-tools/computer-vision-toolbox" style="width: 48%; title-color: #FF5555;" />
+<github-repo path="lumi2021/codecrafters-claude-code-csharp" style="width: 48%; title-color: #E5484D;" />
+<github-repo path="lumi2021/tamagowaifu" style="width: 48%; title-color: #E5484D;" />
+<github-repo path="lumi2021-silly-tools/computer-vision-toolbox" style="width: 48%; title-color: #E5484D;" />
 
 ### Experiments and miscelaneous:
-<github-repo path="lumi2021/codecrafters-shell-go" style="width: 48%; title-color: #50FA7B;" />
-<github-repo path="lumi2021/lumi-architecture-16" style="width: 48%; title-color: #50FA7B;" />
+<github-repo path="lumi2021/codecrafters-shell-go" style="width: 48%; title-color: #65A83E;" />
+<github-repo path="lumi2021/lumi-architecture-16" style="width: 48%; title-color: #65A83E;" />
+<github-repo path="Anthragon/Distribution" style="width: 48%; title-color: #65A83E;" />
 
 ## About Me
 
@@ -35,6 +37,7 @@ I'm Camila, a 19 y old programming enthusiast :)
 - 🌱 I'm breathing
 - 😄 Pronouns: She / Her
 
+### Stack:
 <badge color="202020" style="for-the-badge" icon="python">python</badge>
 <badge color="202020" style="for-the-badge" icon="c">C</badge>
 <badge color="202020" style="for-the-badge" icon="c++">C++</badge>
@@ -59,7 +62,8 @@ I'm Camila, a 19 y old programming enthusiast :)
 <badge color="606060" style="for-the-badge" icon="dotnet">CIL</badge> 
 <badge color="606060" style="for-the-badge" icon="Linux">Linux</badge>
 <badge color="205020" style="for-the-badge">And+</badge>
-<br/>
+
+### Tools and editors:
 <badge color="202020" style="for-the-badge" icon="Godot Engine">Godot_Engine</badge>
 <badge color="202020" style="for-the-badge" icon="Rider">JetBrains_Rider</badge>
 <badge color="202020" style="for-the-badge" icon="CLion">CLion</badge>
@@ -70,8 +74,10 @@ I'm Camila, a 19 y old programming enthusiast :)
 ![Linux](https://img.shields.io/badge/I%20use%20Arch%20btw-000000?style=for-the-badge&logo=archlinux)
 -->
 
+### Github activity:
 <github-activity />
 
+### Top languages (weekly):
 <wakatime-weekly-langs />
 
 ## Beyound the Code

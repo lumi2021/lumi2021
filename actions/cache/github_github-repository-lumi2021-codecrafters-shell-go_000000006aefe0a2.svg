@@ -6,7 +6,7 @@
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     font-size: 18px;
     font-weight: 600;
-    fill: #58a6ff;
+    fill: #65A83E;
 }
 
 .subtitle {
@@ -33,4 +33,4 @@
     font-size: 13px;
     font-weight: 600;
     fill: currentColor;
-}</style><text x="20" y="35" class="subtitle">lumi2021</text><text x="20" y="62" class="title">SharpNES</text><text x="20" y="84" class="subtitle" font-size="11"><tspan x="20" dy="0">Emulator of the 6502 8-bit processor and the Nintendo</tspan><tspan x="20" dy="14">Entreteniment System console components. Made in C#</tspan></text><line x1="20" y1="145" x2="460" y2="145" stroke="#21262d" stroke-width="1" /><g transform="translate(30, 165)"><circle cx="5" cy="0" r="5" fill="hsl(142, 65%, 55%)" /><text x="17" y="4" class="label">C#</text><g transform="translate(205, 0)"><text x="0" y="0" class="label">Stars</text><text x="0" y="18" class="value">2</text></g><g transform="translate(330, 0)"><text x="0" y="0" class="label">Forks</text><text x="0" y="18" class="value">0</text></g></g></svg>
+}</style><text x="20" y="15" class="subtitle">lumi2021/</text><text x="20" y="35" class="title">codecrafters-shell-go</text><text x="20" y="55" class="subtitle" font-size="11" /><g /><line x1="20" y1="150" x2="460" y2="150" stroke="#21262d" stroke-width="1" /><g transform="translate(30, 167)"><circle cx="5" cy="0" r="5" fill="hsl(320, 65%, 55%)" /><text x="17" y="5" class="label">Go</text><g transform="translate(240, 0)"><text x="0" y="0" class="label">Stars</text><text x="0" y="18" class="value">0</text></g><g transform="translate(320, 0)"><text x="0" y="0" class="label">Issues</text><text x="0" y="18" class="value">0</text></g><g transform="translate(400, 0)"><text x="0" y="0" class="label">Forks</text><text x="0" y="18" class="value">0</text></g></g></svg>
