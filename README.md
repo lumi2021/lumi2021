@@ -14,47 +14,47 @@
 ### Recent work:
 
 <a href="https://github.com/lumi2021/SharpNES">
-<img src="actions/cache/github_github-repository-lumi2021-SharpNES_000000006af13379.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-SharpNES_000000006af287ec.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021/image-builder">
-<img src="actions/cache/github_github-repository-lumi2021-image-builder_000000006af1337a.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-image-builder_000000006af287ec.svg" width="48%" />
 </a>
 
 <a href="https://github.com/tqlang/tq-compiler">
-<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006af1337a.svg" width="48%" />
+<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006af287ed.svg" width="48%" />
 </a>
 
 <a href="https://github.com/tqlang/tq-compiler">
-<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006af1337a.svg" width="48%" />
+<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006af287ed.svg" width="48%" />
 </a>
 
 ### AI-related:
 
 <a href="https://github.com/lumi2021/codecrafters-claude-code-csharp">
-<img src="actions/cache/github_github-repository-lumi2021-codecrafters-claude-code-csharp_000000006af1337b.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-codecrafters-claude-code-csharp_000000006af287ed.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021/tamagowaifu">
-<img src="actions/cache/github_github-repository-lumi2021-tamagowaifu_000000006af1337b.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-tamagowaifu_000000006af287ed.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021-silly-tools/computer-vision-toolbox">
-<img src="actions/cache/github_github-repository-lumi2021-silly-tools-computer-vision-toolbox_000000006af1337b.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-silly-tools-computer-vision-toolbox_000000006af287ee.svg" width="48%" />
 </a>
 
 ### Experiments and miscelaneous:
 
 <a href="https://github.com/lumi2021/codecrafters-shell-go">
-<img src="actions/cache/github_github-repository-lumi2021-codecrafters-shell-go_000000006af1337c.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-codecrafters-shell-go_000000006af287ee.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021/lumi-architecture-16">
-<img src="actions/cache/github_github-repository-lumi2021-lumi-architecture-16_000000006af1337c.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-lumi-architecture-16_000000006af287ee.svg" width="48%" />
 </a>
 
 <a href="https://github.com/Anthragon/Distribution">
-<img src="actions/cache/github_github-repository-Anthragon-Distribution_000000006af1337c.svg" width="48%" />
+<img src="actions/cache/github_github-repository-Anthragon-Distribution_000000006af287ef.svg" width="48%" />
 </a>
 
 ## About Me
@@ -117,7 +117,7 @@
 ### Top languages (weekly):
 
 <p align="center">
-<img src="actions/cache/wakatime_weekly-langs-5_000000006af1337e.svg" />
+<img src="actions/cache/wakatime_weekly-langs-5_000000006af287f0.svg" />
 </p>
 
 ## Beyound the Code
@@ -130,23 +130,23 @@ All widgets in this page are updated daily and powered by
 
 <div>
 <a href="https://www.last.fm/music/Jamie+Paige/_/Machine+Love">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006af1337e.svg" alt="Machine Love - Jamie Paige"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006af287f1.svg" alt="Machine Love - Jamie Paige"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006af1337f.svg" alt="One Man Circus - elio mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006af287f1.svg" alt="One Man Circus - elio mei"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/Elio+Mei/_/Velcro">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--2_000000006af1337f.svg" alt="Velcro - Elio Mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--2_000000006af287f1.svg" alt="Velcro - Elio Mei"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/Penelope+Scott/_/Soap">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-a42b0571-c746-41d5-9e5c-685ee8b32f1f-3_000000006af1337f.svg" alt="Soap - Penelope Scott"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-a42b0571-c746-41d5-9e5c-685ee8b32f1f-3_000000006af287f2.svg" alt="Soap - Penelope Scott"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/we+are+the+dirt/_/counting+the+days">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006af1337f.svg" alt="counting the days - we are the dirt"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006af287f2.svg" alt="counting the days - we are the dirt"></img>
 </a>
 <br />
 </div>
@@ -156,32 +156,32 @@ All widgets in this page are updated daily and powered by
 #### Recent games
 
 <p>
-<a href="https://store.steampowered.com/app/1353300" target="_blank">
-<picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1353300-000001cd-thin_000000006af00da1.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1353300-000001cd-wide_000000006af00da1.svg" />
-<img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
-</picture>
-</a>
 <a href="https://store.steampowered.com/app/431730" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-431730-00000000-thin_000000006af00da1.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-431730-00000000-wide_000000006af00da1.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-431730-00000000-thin_000000006afd3e22.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-431730-00000000-wide_000000006afd3e22.svg" />
 <img style="max-width: 100%;" alt="Aseprite" />
 </picture>
 </a>
-<a href="https://store.steampowered.com/app/1919460" target="_blank">
+<a href="https://store.steampowered.com/app/1353300" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1919460-00000001-thin_000000006af00da1.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1919460-00000001-wide_000000006af00da1.svg" />
-<img style="max-width: 100%;" alt="Seraph's Last Stand" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1353300-000001d3-thin_000000006afd3e22.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1353300-000001d3-wide_000000006afd3e22.svg" />
+<img style="max-width: 100%;" alt="Idle Slayer – Incremental RPG" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/1454400" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1454400-0000022e-thin_000000006af00da1.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1454400-0000022e-wide_000000006af00da1.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1454400-0000022f-thin_000000006afd3e22.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1454400-0000022f-wide_000000006afd3e22.svg" />
 <img style="max-width: 100%;" alt="Cookie Clicker" />
+</picture>
+</a>
+<a href="https://store.steampowered.com/app/427520" target="_blank">
+<picture>
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-427520-00000034-thin_000000006afd3e22.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-427520-00000034-wide_000000006afd3e22.svg" />
+<img style="max-width: 100%;" alt="Factorio" />
 </picture>
 </a>
 </p>
@@ -196,29 +196,29 @@ All widgets in this page are updated daily and powered by
 <p>
 <a href="https://store.steampowered.com/app/1289310" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1289310-0000000a-thin_000000006af00da1.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1289310-0000000a-wide_000000006af00da1.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1289310-0000000a-thin_000000006afd3e22.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1289310-0000000a-wide_000000006afd3e22.svg" />
 <img style="max-width: 100%;" alt="Helltaker" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/433340" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-433340-00000039-thin_000000006af00da1.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-433340-00000039-wide_000000006af00da1.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-433340-00000039-thin_000000006afd3e22.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-433340-00000039-wide_000000006afd3e22.svg" />
 <img style="max-width: 100%;" alt="Slime Rancher" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/255520" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-255520-00000002-thin_000000006af00da1.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-255520-00000002-wide_000000006af00da1.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-255520-00000002-thin_000000006afd3e22.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-255520-00000002-wide_000000006afd3e22.svg" />
 <img style="max-width: 100%;" alt="Viscera Cleanup Detail: Shadow Warrior" />
 </picture>
 </a>
 <a href="https://store.steampowered.com/app/1997680" target="_blank">
 <picture>
-<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1997680-0000003a-thin_000000006af00da1.svg" />
-<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1997680-0000003a-wide_000000006af00da1.svg" />
+<source media="(max-width: 1061px)" width="24%" srcset="actions/cache/steam_gamecard-1997680-0000003a-thin_000000006afd3e22.svg" />
+<source media="(min-width: 1061px)" width="49%" srcset="actions/cache/steam_gamecard-1997680-0000003a-wide_000000006afd3e22.svg" />
 <img style="max-width: 100%;" alt="REFLEXIA Prototype ver." />
 </picture>
 </a>
