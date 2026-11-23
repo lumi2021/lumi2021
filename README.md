@@ -14,47 +14,47 @@
 ### Recent work:
 
 <a href="https://github.com/lumi2021/SharpNES">
-<img src="actions/cache/github_github-repository-lumi2021-SharpNES_000000006b03b292.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-SharpNES_000000006b050c41.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021/image-builder">
-<img src="actions/cache/github_github-repository-lumi2021-image-builder_000000006b03b292.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-image-builder_000000006b050c42.svg" width="48%" />
 </a>
 
 <a href="https://github.com/tqlang/tq-compiler">
-<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006b03b293.svg" width="48%" />
+<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006b050c42.svg" width="48%" />
 </a>
 
 <a href="https://github.com/tqlang/tq-compiler">
-<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006b03b293.svg" width="48%" />
+<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006b050c42.svg" width="48%" />
 </a>
 
 ### AI-related:
 
 <a href="https://github.com/lumi2021/codecrafters-claude-code-csharp">
-<img src="actions/cache/github_github-repository-lumi2021-codecrafters-claude-code-csharp_000000006b03b294.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-codecrafters-claude-code-csharp_000000006b050c43.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021/tamagowaifu">
-<img src="actions/cache/github_github-repository-lumi2021-tamagowaifu_000000006b03b294.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-tamagowaifu_000000006b050c43.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021-silly-tools/computer-vision-toolbox">
-<img src="actions/cache/github_github-repository-lumi2021-silly-tools-computer-vision-toolbox_000000006b03b294.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-silly-tools-computer-vision-toolbox_000000006b050c43.svg" width="48%" />
 </a>
 
 ### Experiments and miscelaneous:
 
 <a href="https://github.com/lumi2021/codecrafters-shell-go">
-<img src="actions/cache/github_github-repository-lumi2021-codecrafters-shell-go_000000006b03b295.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-codecrafters-shell-go_000000006b050c43.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021/lumi-architecture-16">
-<img src="actions/cache/github_github-repository-lumi2021-lumi-architecture-16_000000006b03b295.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-lumi-architecture-16_000000006b050c44.svg" width="48%" />
 </a>
 
 <a href="https://github.com/Anthragon/Distribution">
-<img src="actions/cache/github_github-repository-Anthragon-Distribution_000000006b03b295.svg" width="48%" />
+<img src="actions/cache/github_github-repository-Anthragon-Distribution_000000006b050c44.svg" width="48%" />
 </a>
 
 ## About Me
@@ -117,7 +117,7 @@
 ### Top languages (weekly):
 
 <p align="center">
-<img src="actions/cache/wakatime_weekly-langs-5_000000006b03b297.svg" />
+<img src="actions/cache/wakatime_weekly-langs-5_000000006b050c45.svg" />
 </p>
 
 ## Beyound the Code
@@ -130,23 +130,23 @@ All widgets in this page are updated daily and powered by
 
 <div>
 <a href="https://www.last.fm/music/Jamie+Paige/_/Machine+Love">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006b03b298.svg" alt="Machine Love - Jamie Paige"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006b050c46.svg" alt="Machine Love - Jamie Paige"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006b03b298.svg" alt="One Man Circus - elio mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006b050c46.svg" alt="One Man Circus - elio mei"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/Penelope+Scott/_/Soap">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-a42b0571-c746-41d5-9e5c-685ee8b32f1f-2_000000006b03b298.svg" alt="Soap - Penelope Scott"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-a42b0571-c746-41d5-9e5c-685ee8b32f1f-2_000000006b050c46.svg" alt="Soap - Penelope Scott"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/Elio+Mei/_/Velcro">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--3_000000006b03b298.svg" alt="Velcro - Elio Mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--3_000000006b050c46.svg" alt="Velcro - Elio Mei"></img>
 </a>
 <br />
-<a href="https://www.last.fm/music/chloe+moriondo/_/Rly+Don%27t+Care">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-a36d278a-dc55-46ae-891c-40017b99b309-4_000000006b03b298.svg" alt="Rly Don't Care - chloe moriondo"></img>
+<a href="https://www.last.fm/music/cavetown+offline/_/Lov+song">
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006b050c47.svg" alt="Lov song - cavetown offline"></img>
 </a>
 <br />
 </div>
