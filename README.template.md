@@ -21,7 +21,7 @@ I'm Camila, a 19 y old programming enthusiast :)
 ### AI-related:
 <github-repo path="lumi-nya/codecrafters-claude-code-csharp" style="width: 48%; title-color: #E5484D;" />
 <github-repo path="lumi-nya/tamagowaifu" style="width: 48%; title-color: #E5484D;" />
-<github-repo path="lumi-nya_silly-tools/computer-vision-toolbox" style="width: 48%; title-color: #E5484D;" />
+<github-repo path="lumi-nya-silly-tools/computer-vision-toolbox" style="width: 48%; title-color: #E5484D;" />
 
 ### Experiments and miscelaneous:
 <github-repo path="lumi-nya/codecrafters-shell-go" style="width: 48%; title-color: #65A83E;" />
@@ -83,7 +83,7 @@ I'm Camila, a 19 y old programming enthusiast :)
 ## Beyound the Code
 A little glimpse into what I listen to and play.
 All widgets in this page are updated daily and powered by
-[lumi2021-silly-workflows/markdown-plus](https://github.com/lumi-nya_silly-workflows/markdown-plus).
+[lumi2021-silly-workflows/markdown-plus](https://github.com/lumi-nya-silly-workflows/markdown-plus).
 
 ### Songs I like
 <last-fm-recent />
