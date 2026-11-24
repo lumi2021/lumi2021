@@ -12,20 +12,20 @@ I'm Camila, a 19 y old programming enthusiast :)
 (be aware that some of those may be still in development)
 
 ### Recent work:
-<github-repo path="lumi2021/SharpNES" style="width: 48%" />
-<github-repo path="lumi2021/image-builder" style="width: 48%" />
+<github-repo path="lumi-nya/SharpNES" style="width: 48%" />
+<github-repo path="lumi-nya/image-builder" style="width: 48%" />
 <github-repo path="tqlang/tq-compiler" style="width: 48%" />
 <github-repo path="tqlang/tq-compiler" style="width: 48%" />
 
 
 ### AI-related:
-<github-repo path="lumi2021/codecrafters-claude-code-csharp" style="width: 48%; title-color: #E5484D;" />
-<github-repo path="lumi2021/tamagowaifu" style="width: 48%; title-color: #E5484D;" />
-<github-repo path="lumi2021-silly-tools/computer-vision-toolbox" style="width: 48%; title-color: #E5484D;" />
+<github-repo path="lumi-nya/codecrafters-claude-code-csharp" style="width: 48%; title-color: #E5484D;" />
+<github-repo path="lumi-nya/tamagowaifu" style="width: 48%; title-color: #E5484D;" />
+<github-repo path="lumi-nya_silly-tools/computer-vision-toolbox" style="width: 48%; title-color: #E5484D;" />
 
 ### Experiments and miscelaneous:
-<github-repo path="lumi2021/codecrafters-shell-go" style="width: 48%; title-color: #65A83E;" />
-<github-repo path="lumi2021/lumi-architecture-16" style="width: 48%; title-color: #65A83E;" />
+<github-repo path="lumi-nya/codecrafters-shell-go" style="width: 48%; title-color: #65A83E;" />
+<github-repo path="lumi-nya/lumi-architecture-16" style="width: 48%; title-color: #65A83E;" />
 <github-repo path="Anthragon/Distribution" style="width: 48%; title-color: #65A83E;" />
 
 ## About Me
