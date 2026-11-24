@@ -83,7 +83,7 @@ I'm Camila, a 19 y old programming enthusiast :)
 ## Beyound the Code
 A little glimpse into what I listen to and play.
 All widgets in this page are updated daily and powered by
-[lumi2021-silly-workflows/markdown-plus](https://github.com/lumi2021-silly-workflows/markdown-plus).
+[lumi2021-silly-workflows/markdown-plus](https://github.com/lumi-nya_silly-workflows/markdown-plus).
 
 ### Songs I like
 <last-fm-recent />
