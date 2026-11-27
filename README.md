@@ -105,14 +105,15 @@
 
 ### Github activity:
 
-- ✏️ Made 21 commits
+- 🎉 Merged pull request [#4](https://github.com/tqlang/tq-compiler/pull/4) in [tqlang/tq-compiler](https://github.com/tqlang/tq-compiler)
+- 🎉 Merged pull request [#3](https://github.com/tqlang/tq-compiler/pull/3) in [tqlang/tq-compiler](https://github.com/tqlang/tq-compiler)
+- 🎉 Merged pull request [#2](https://github.com/tqlang/tq-compiler/pull/2) in [tqlang/tq-compiler](https://github.com/tqlang/tq-compiler)
+- 🎉 Merged pull request [#1](https://github.com/tqlang/tq-compiler/pull/1) in [tqlang/tq-compiler](https://github.com/tqlang/tq-compiler)
+- ✏️ Made 27 commits
 - 🎉 Merged pull request [#1](https://github.com/lumi2021/ai-finetuning/pull/1) in [lumi2021/ai-finetuning](https://github.com/lumi2021/ai-finetuning)
 - ✏️ Made 25 commits
 - ✏️ Made 25 commits
 - ✏️ Made 65 commits
-- ✏️ Made 12 commits
-- ✏️ Made 8 commits
-- ✏️ Made 8 commits
 
 ### Top languages (weekly):
 
@@ -130,23 +131,23 @@ All widgets in this page are updated daily and powered by
 
 <div>
 <a href="https://www.last.fm/music/Jamie+Paige/_/Machine+Love">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006b0a0104.svg" alt="Machine Love - Jamie Paige"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006b0a6108.svg" alt="Machine Love - Jamie Paige"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006b0a0104.svg" alt="One Man Circus - elio mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006b0a6108.svg" alt="One Man Circus - elio mei"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/Penelope+Scott/_/Soap">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-a42b0571-c746-41d5-9e5c-685ee8b32f1f-2_000000006b0a0105.svg" alt="Soap - Penelope Scott"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-a42b0571-c746-41d5-9e5c-685ee8b32f1f-2_000000006b0a6108.svg" alt="Soap - Penelope Scott"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/Elio+Mei/_/Velcro">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--3_000000006b0a0105.svg" alt="Velcro - Elio Mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--3_000000006b0a6108.svg" alt="Velcro - Elio Mei"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/cavetown+offline/_/Lov+song">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006b0a0105.svg" alt="Lov song - cavetown offline"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006b0a6109.svg" alt="Lov song - cavetown offline"></img>
 </a>
 <br />
 </div>
