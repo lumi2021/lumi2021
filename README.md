@@ -14,47 +14,47 @@
 ### Recent work:
 
 <a href="https://github.com/lumi2021/SharpNES">
-<img src="actions/cache/github_github-repository-lumi2021-SharpNES_000000006b09e472.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-SharpNES_000000006b0bae28.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021/image-builder">
-<img src="actions/cache/github_github-repository-lumi2021-image-builder_000000006b09e472.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-image-builder_000000006b0bae28.svg" width="48%" />
 </a>
 
 <a href="https://github.com/tqlang/tq-compiler">
-<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006b09e472.svg" width="48%" />
+<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006b0bae29.svg" width="48%" />
 </a>
 
 <a href="https://github.com/tqlang/tq-compiler">
-<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006b09e472.svg" width="48%" />
+<img src="actions/cache/github_github-repository-tqlang-tq-compiler_000000006b0bae29.svg" width="48%" />
 </a>
 
 ### AI-related:
 
 <a href="https://github.com/lumi2021/codecrafters-claude-code-csharp">
-<img src="actions/cache/github_github-repository-lumi2021-codecrafters-claude-code-csharp_000000006b09e473.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-codecrafters-claude-code-csharp_000000006b0bae2a.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021/ai-finetuning">
-<img src="actions/cache/github_github-repository-lumi2021-ai-finetuning_000000006b09e473.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-ai-finetuning_000000006b0bae2a.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021-silly-tools/computer-vision-toolbox">
-<img src="actions/cache/github_github-repository-lumi2021-silly-tools-computer-vision-toolbox_000000006b0a00a6.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-silly-tools-computer-vision-toolbox_000000006b0bae2a.svg" width="48%" />
 </a>
 
 ### Experiments and miscelaneous:
 
 <a href="https://github.com/lumi2021/codecrafters-shell-go">
-<img src="actions/cache/github_github-repository-lumi2021-codecrafters-shell-go_000000006b09e473.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-codecrafters-shell-go_000000006b0bae2b.svg" width="48%" />
 </a>
 
 <a href="https://github.com/lumi2021/lumi-architecture-16">
-<img src="actions/cache/github_github-repository-lumi2021-lumi-architecture-16_000000006b09e474.svg" width="48%" />
+<img src="actions/cache/github_github-repository-lumi2021-lumi-architecture-16_000000006b0bae2b.svg" width="48%" />
 </a>
 
 <a href="https://github.com/Anthragon/Distribution">
-<img src="actions/cache/github_github-repository-Anthragon-Distribution_000000006b09e474.svg" width="48%" />
+<img src="actions/cache/github_github-repository-Anthragon-Distribution_000000006b0bae2c.svg" width="48%" />
 </a>
 
 ## About Me
@@ -109,7 +109,7 @@
 - 🎉 Merged pull request [#3](https://github.com/tqlang/tq-compiler/pull/3) in [tqlang/tq-compiler](https://github.com/tqlang/tq-compiler)
 - 🎉 Merged pull request [#2](https://github.com/tqlang/tq-compiler/pull/2) in [tqlang/tq-compiler](https://github.com/tqlang/tq-compiler)
 - 🎉 Merged pull request [#1](https://github.com/tqlang/tq-compiler/pull/1) in [tqlang/tq-compiler](https://github.com/tqlang/tq-compiler)
-- ✏️ Made 27 commits
+- ✏️ Made 28 commits
 - 🎉 Merged pull request [#1](https://github.com/lumi2021/ai-finetuning/pull/1) in [lumi2021/ai-finetuning](https://github.com/lumi2021/ai-finetuning)
 - ✏️ Made 25 commits
 - ✏️ Made 25 commits
@@ -118,7 +118,7 @@
 ### Top languages (weekly):
 
 <p align="center">
-<img src="actions/cache/wakatime_weekly-langs-5_000000006b09e475.svg" />
+<img src="actions/cache/wakatime_weekly-langs-5_000000006b0bae2d.svg" />
 </p>
 
 ## Beyound the Code
@@ -131,23 +131,23 @@ All widgets in this page are updated daily and powered by
 
 <div>
 <a href="https://www.last.fm/music/Jamie+Paige/_/Machine+Love">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006b0a6108.svg" alt="Machine Love - Jamie Paige"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-fe30f0a3-255a-48a5-88ec-41f86afa57e4-0_000000006b0bae2e.svg" alt="Machine Love - Jamie Paige"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/elio+mei/_/One+Man+Circus">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006b0a6108.svg" alt="One Man Circus - elio mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--1_000000006b0bae2e.svg" alt="One Man Circus - elio mei"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/Penelope+Scott/_/Soap">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-a42b0571-c746-41d5-9e5c-685ee8b32f1f-2_000000006b0a6108.svg" alt="Soap - Penelope Scott"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya-a42b0571-c746-41d5-9e5c-685ee8b32f1f-2_000000006b0bae2e.svg" alt="Soap - Penelope Scott"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/Elio+Mei/_/Velcro">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--3_000000006b0a6108.svg" alt="Velcro - Elio Mei"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--3_000000006b0bae2e.svg" alt="Velcro - Elio Mei"></img>
 </a>
 <br />
 <a href="https://www.last.fm/music/cavetown+offline/_/Lov+song">
-<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006b0a6109.svg" alt="Lov song - cavetown offline"></img>
+<img src="actions/cache/lastfm_lastfm-top-tracks-lumi_nya--4_000000006b0bae2f.svg" alt="Lov song - cavetown offline"></img>
 </a>
 <br />
 </div>
